@@ -49,16 +49,12 @@ dns:
   - https://cloudflare-dns.com/dns-query
   - tls://1.0.0.1:853
   - https://dns.google/dns-query#
-RENTRY:
+
 ebpf:
   redirect-to-tun:
     - eth0
-
-RENTRY:
 profile:
     tracing: true
-
-RENTRY:
 interface-name: en0
 auto-redir:
   enable: true
