@@ -25,7 +25,7 @@ proxies:
   uuid: aba50dd4-5484-3b05-b14a-4661caf862d5
   alterId: 4
   cipher: auto
-  skip-cert-vertify: true
+  skip-cert-vertify: false
   network: ws
   ws-path: /ws
   tls: true
