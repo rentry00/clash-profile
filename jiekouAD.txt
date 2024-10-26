@@ -1,0 +1,5490 @@
+[Adblock Plus 2.0]
+! Title: 轻量广告拦截规则
+! Homepage: https://github.com/damengzhu/banad
+! Update Time: 2024-10-24 14:53:21（北京时间）
+! Total Count: 5480
+! by: 酷安@大萌主
+! domain name
+- DOMAIN,kuresdd.top
+- DOMAIN,sjyhead.icu
+- DOMAIN,lalabaos1022.top
+- DOMAIN,dpw202504.com
+- DOMAIN,couvxlif.top
+- DOMAIN,taxismaned.top
+- DOMAIN,limbecculvers.com
+- DOMAIN,zpeqosn.icu
+- DOMAIN,0er7pc8.xyz
+- DOMAIN,2axpwa4.xyz
+- DOMAIN,bootstron.com
+- DOMAIN,xn--bqro42frpg5up.cn
+- DOMAIN,bj1.118pan.com
+- DOMAIN,ouplc.icu
+- DOMAIN,cnzz.trafficmanager.net
+- DOMAIN,hauqou.top
+- DOMAIN,yzldy.info
+- DOMAIN,yckamq.xyz
+- DOMAIN,opkkjh.xyz
+- DOMAIN,ignslkgs.com
+- DOMAIN,8181zx.com
+- DOMAIN,csfds000.fun
+- DOMAIN,baggvon.icu
+- DOMAIN,ceiqox.com
+- DOMAIN,yaacdn.top
+- DOMAIN,jauql.top
+- DOMAIN,kzaawga.icu
+- DOMAIN,zcypmsp.icu
+- DOMAIN,dxqck.com
+- DOMAIN,stescud.com
+- DOMAIN,ethicalads.io
+- DOMAIN,endowmentoverhangutmost.com
+- DOMAIN,3pkf5m0gd.com
+- DOMAIN,ufile.cc
+- DOMAIN,clarity.ms
+- DOMAIN,itweepinbelltor.com
+- DOMAIN,besmeargleor.com
+- DOMAIN,tzegilo.com
+- DOMAIN,gg3a.cc
+- DOMAIN,uuiaoq.top
+- DOMAIN,ooksq.top
+- DOMAIN,molpmh.xyz|
+- DOMAIN,gtuavqu.icu
+- DOMAIN,iqgessh.icu
+- DOMAIN,clkwnl.xyz
+- DOMAIN,sikaq.top
+- DOMAIN,ufvauj.cn
+- DOMAIN,xdns.asia
+- DOMAIN,2lb.cc
+- DOMAIN,ugugct.xyz
+- DOMAIN,sascwt.cn
+- DOMAIN,doubanio.top
+- DOMAIN,xlhdicw.top
+- DOMAIN,1.11130.com.cn
+- DOMAIN,mwzbp.ccbangong.com
+- DOMAIN,pgcciax.icu
+- DOMAIN,hahusa.top
+- DOMAIN,kaishq.top
+- DOMAIN,fmkipgm.icu
+- DOMAIN,bun1.dayi.org.cn
+- DOMAIN,d-test.39.net
+- DOMAIN,classic.39health.com
+- DOMAIN,duyewnf.icu
+- DOMAIN,fundingchoicesmessages.google.com
+- DOMAIN,lfbz317s.icu
+- DOMAIN,hwgzp5.com
+- DOMAIN,dcxdtp.com
+- DOMAIN,tvgkatu.icu
+- DOMAIN,wipbbok.com
+- DOMAIN,ipgsgtptgatf.xyz
+- DOMAIN,fxnmjb.xyz
+- DOMAIN,a1bw2cup.top
+- DOMAIN,fwlrv.cn
+- DOMAIN,edoshbw.top
+- DOMAIN,stnew.xyz
+- DOMAIN,fjbglfrv.com
+- DOMAIN,mqwmgs.xyz
+- DOMAIN,thoohizoogli.xyz
+- DOMAIN,gloaphoo.net
+- DOMAIN,rouwhapt.com
+- DOMAIN,mtguwx.xyz
+- DOMAIN,obmphi.xyz
+- DOMAIN,xn--xhq326apqhcx0d.cn
+- DOMAIN,ytqeavc.icu
+- DOMAIN,vbiakpu.icu
+- DOMAIN,xianpowei.com
+- DOMAIN,dtnaximya.360doc.cn
+- DOMAIN,uuysiaq.com
+- DOMAIN,qrmozsc.icu
+- DOMAIN,pjoo8.com
+- DOMAIN,ta20k.xyz
+- DOMAIN,dceuhnpc57.shop
+- DOMAIN,obl74.xyz
+- DOMAIN,u7em6.xyz
+- DOMAIN,6uzxtlv.cn
+- DOMAIN,kl.67it.com
+- DOMAIN,70r8fo5.com
+- DOMAIN,7j4tpio.com
+- DOMAIN,7dqjgdk.com
+- DOMAIN,7li0ohd.com
+- DOMAIN,bzqqftz.icu
+- DOMAIN,tquspo.com
+- DOMAIN,sahqoo.com
+- DOMAIN,uscatherineaa.com
+- DOMAIN,t7cp4fldl.com
+- DOMAIN,jyqkijp.icu
+- DOMAIN,dtscout.com
+- DOMAIN,xlviirdr.com
+- DOMAIN,amung.us
+- DOMAIN,hlegsdh.icu
+- DOMAIN,xzvhyx.com
+- DOMAIN,oiwlnlu.com
+- DOMAIN,yfhtbdn.com
+- DOMAIN,vuyibsm.icu
+- DOMAIN,xnzxeu.com
+- DOMAIN,uoosqk.xyz
+- DOMAIN,areyoutherenow.com
+- DOMAIN,ipsoazr.icu
+- DOMAIN,kaosts.com
+- DOMAIN,dbhfre.xyz
+- DOMAIN,7ccsch4.com
+- DOMAIN,romiyee.icu
+- DOMAIN,7qo2met.com
+- DOMAIN,xn--swt207gl1hzc.net
+- DOMAIN,meqanhm.icu
+- DOMAIN,at*.doubanio.com
+- DOMAIN,hglm.com
+- DOMAIN,6quspne.com
+- DOMAIN,oweeiyw.icu
+- DOMAIN,xn--49s928hlshoya.cn
+- DOMAIN,miaozhen.com
+- DOMAIN,6yfcuuw.com
+- DOMAIN,jmesxbe.icu
+- DOMAIN,5vkyqkc.cn
+- DOMAIN,5mgrgsc.cn
+- DOMAIN,5uxmusq.cn
+- DOMAIN,nmntgd.cn
+- DOMAIN,xn--qrq171dxpq.com
+- DOMAIN,nawpyd.icu
+- DOMAIN,cnalzlf.top
+- DOMAIN,truxalsl.com
+- DOMAIN,6cyfvvs.com
+- DOMAIN,6functf.com
+- DOMAIN,llksja.com
+- DOMAIN,aqilk66444a.xyz
+- DOMAIN,4vgyjja.cn
+- DOMAIN,vugjyr.icu
+- DOMAIN,wbvfj.xyz
+- DOMAIN,kssolo.com
+- DOMAIN,qjsp48.xyz
+- DOMAIN,37bhof.com
+- DOMAIN,shanvezhu.com
+- DOMAIN,qrjsz.top
+- DOMAIN,nshvhfw.cn
+- DOMAIN,vainews.cn
+- DOMAIN,gushi.network
+- DOMAIN,2jse6.icu
+- DOMAIN,usphfiona.com
+- DOMAIN,qhaarkie.com
+- DOMAIN,lfffzv.xyz
+- DOMAIN,neolit.cn
+- DOMAIN,8suis.top
+- DOMAIN,3prndxd.cn
+- DOMAIN,ruliaoqi.com
+- DOMAIN,kkjshsj.com
+- DOMAIN,n3xpjc.xyz
+- DOMAIN,nfl9j.com
+- DOMAIN,maoskk.com
+- DOMAIN,inudpbi.com
+- DOMAIN,djbgfit.com
+- DOMAIN,motsjnv.cn
+- DOMAIN,takjttz.cn
+- DOMAIN,uspauline.com
+- DOMAIN,courtoyz.com
+- DOMAIN,wdadad.cn
+- DOMAIN,sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
+- DOMAIN,ovnrmvg.cn
+- DOMAIN,sdtsad.com
+- DOMAIN,eccki.cn
+- DOMAIN,wwxufo.com
+- DOMAIN,xerqfh.xyz
+- DOMAIN,jhdvcjvsjkvjkb.com
+- DOMAIN,3rsppty.cn
+- DOMAIN,2vqgtxw.cn
+- DOMAIN,chdezxp.com
+- DOMAIN,1222dfm3l.cc
+- DOMAIN,bpztsxx.com
+- DOMAIN,xn--2qux23cs4e63q.com
+- DOMAIN,isine88.com
+- DOMAIN,sdklnlsknvcks.com
+- DOMAIN,gepvgv.icu
+- DOMAIN,zrljzgs.xyz
+- DOMAIN,merqieth.com
+- DOMAIN,uebohjhh.xyz
+- DOMAIN,gaipuzui.com
+- DOMAIN,wvyqks.xyz
+- DOMAIN,drawfxk.com
+- DOMAIN,dsdklnks.com
+- DOMAIN,iparty.asia
+- DOMAIN,cgyx.tv
+- DOMAIN,2wgolxk.com
+- DOMAIN,2dctkld.com
+- DOMAIN,despiteto.com
+- DOMAIN,nbudas92.shop
+- DOMAIN,3562wsgkbcm.xyz
+- DOMAIN,bcthd12.shop
+- DOMAIN,zisnuthz.com
+- DOMAIN,xtnwxhjv.xyz
+- DOMAIN,2rwonuh.com
+- DOMAIN,2cursjb.com
+- DOMAIN,tenekslu.com
+- DOMAIN,tjappzvz.xyz
+- DOMAIN,vfrdewsdg.xyz
+- DOMAIN,ectyet.top
+- DOMAIN,iephrenhq.com
+- DOMAIN,sovelswpq.com
+- DOMAIN,uckgqa.xyz
+- DOMAIN,zotcjeig.xyz
+- DOMAIN,kkisoo.com
+- DOMAIN,l80ays.com
+- DOMAIN,05pg9z.com
+- DOMAIN,bvpqrydt.xyz
+- DOMAIN,worlderva.com
+- DOMAIN,adtx2.cn
+- DOMAIN,2qpqwkx.cn
+- DOMAIN,2xmzazd.cn
+- DOMAIN,b5v0m3q8.com
+- DOMAIN,nefrpt.top
+- DOMAIN,valerieavisnba.com
+- DOMAIN,winniephc.com
+- DOMAIN,wewlkq.com
+- DOMAIN,sephreoqy.com
+- DOMAIN,fuvbbjl.xyz
+- DOMAIN,phfqumvi.xyz
+- DOMAIN,pvajlmhjjq.xyz
+- DOMAIN,hailfi.top
+- DOMAIN,ioswhi.com
+- DOMAIN,wiczcu.xyz
+- DOMAIN,gfbdb1.com
+- DOMAIN,3i2i.com
+- DOMAIN,iobvmtx.xyz
+- DOMAIN,xxsmcps.com
+- DOMAIN,c1d8i3p6.com
+- DOMAIN,m2k3j7x8.com
+- DOMAIN,pirubcfy.xyz
+- DOMAIN,1iuybpo.com
+- DOMAIN,1weorpu.com
+- DOMAIN,youtubee.top
+- DOMAIN,zzmyrz.com
+- DOMAIN,cdvsd9.com
+- DOMAIN,sdvsv.com
+- DOMAIN,xman.asia
+- DOMAIN,kiitsl.icu
+- DOMAIN,metheny.cn
+- DOMAIN,ziccattws.com
+- DOMAIN,xfztgxt.com
+- DOMAIN,tongjiniao.com
+- DOMAIN,jqtkzuco.xyz
+- DOMAIN,muyxmmz.cn
+- DOMAIN,asdzxc1.top
+- DOMAIN,yjuhqy.xyz
+- DOMAIN,ndbaxn.xyz
+- DOMAIN,jackdd.xyz
+- DOMAIN,dzfzfv.xyz
+- DOMAIN,aispyd.icu
+- DOMAIN,singmwn54g.com
+- DOMAIN,dididy.xyz
+- DOMAIN,rkgwzfwjgk.com
+- DOMAIN,gmxvmvptfm.com
+- DOMAIN,statcounter.com
+- DOMAIN,elinvarpayola.com
+- DOMAIN,eejwvwoo.xyz
+- DOMAIN,88lajs4.com
+- DOMAIN,nyvgbt.xyz
+- DOMAIN,88la.la
+- DOMAIN,bvsfv6.com
+- DOMAIN,feq853.com
+- DOMAIN,iikrmw.xyz
+- DOMAIN,bnnfvd.xyz
+- DOMAIN,faxffjo.com
+- DOMAIN,fptdxkm.com
+- DOMAIN,ignulsniy.com
+- DOMAIN,volgreal.com
+- DOMAIN,2u3v4w5x6y.com
+- DOMAIN,z0a1b2c3d4.com
+- DOMAIN,adsco.re
+- DOMAIN,sqevnrb.com
+- DOMAIN,clcmdie.com
+- DOMAIN,quspga.xyz
+- DOMAIN,0ns32h.com
+- DOMAIN,etrvfx.xyz
+- DOMAIN,ytqlyw.xyz
+- DOMAIN,ulyuom.xyz
+- DOMAIN,viewyentreat.guru
+- DOMAIN,dvnqhdmze.xyz
+- DOMAIN,idd1.com
+- DOMAIN,g13eyx.com
+- DOMAIN,magsrv.com
+- DOMAIN,nhcdn.cn
+- DOMAIN,irtefs.xyz
+- DOMAIN,8mhcc.top
+- DOMAIN,agossuoeach.com
+- DOMAIN,xxfphsg.cn
+- DOMAIN,aabeautiful.cn
+- DOMAIN,65432.pw
+- DOMAIN,98765.pw
+- DOMAIN,ukjwyv.icu
+- DOMAIN,wkrcbszi.xyz
+- DOMAIN,insfengdata.com
+- DOMAIN,quzmtpxw.xyz
+- DOMAIN,ah.5l59k.com
+- DOMAIN,cjgdch.com
+- DOMAIN,goingsranchange.com
+- DOMAIN,aaoffice.cn
+- DOMAIN,zacff.com
+- DOMAIN,ukpsal.icu
+- DOMAIN,sinawap.com
+- DOMAIN,bd-a-1.appmobile.cn
+- DOMAIN,availablesshaother.com
+- DOMAIN,rbbko.com
+- DOMAIN,hebstsmgs.com
+- DOMAIN,livingshonghealth.com
+- DOMAIN,byjykj.xyz
+- DOMAIN,xmmnsl.com
+- DOMAIN,jfyb6.com
+- DOMAIN,tgyxpfjws.com
+- DOMAIN,jcwtml.icu
+- DOMAIN,procdn.asia
+- DOMAIN,lb5o9.com
+- DOMAIN,sdcuo.com
+- DOMAIN,fsmhub.icu
+- DOMAIN,domcwlxin.360doc.cn
+- DOMAIN,000123456789.online
+- DOMAIN,000123456789.site
+- DOMAIN,00xvppy.cn
+- DOMAIN,01v62.xyz
+- DOMAIN,022003xs.com
+- DOMAIN,025zxcv.com
+- DOMAIN,0272aa.com
+- DOMAIN,0272dd.com
+- DOMAIN,027dir.com
+- DOMAIN,027pbj.net
+- DOMAIN,02asdf.com
+- DOMAIN,0310cn.com
+- DOMAIN,031dfgh.com
+- DOMAIN,033dfgh.com
+- DOMAIN,034dfgh.com
+- DOMAIN,035caop.com
+- DOMAIN,036e.cn
+- DOMAIN,039nez.com
+- DOMAIN,03asdf.com
+- DOMAIN,056opui.com
+- DOMAIN,063tutu.com
+- DOMAIN,064ioio.com
+- DOMAIN,065yuyu.com
+- DOMAIN,066hjkl.com
+- DOMAIN,074adzx.com
+- DOMAIN,080999.cn
+- DOMAIN,085cczz.com
+- DOMAIN,087tqb.cn
+- DOMAIN,093yuht.com
+- DOMAIN,096iokj.com
+- DOMAIN,09jsufg.com
+- DOMAIN,0krdn3.com
+- DOMAIN,0m483y7.cn
+- DOMAIN,0p7w.cn
+- DOMAIN,0yq00i.cn
+- DOMAIN,10090dfs.com
+- DOMAIN,1017facai8.xyz
+- DOMAIN,109218er.xyz
+- DOMAIN,1104piaoba2022.xyz
+- DOMAIN,1105yh.com
+- DOMAIN,1106yh.com
+- DOMAIN,1107piaoliang2022.xyz
+- DOMAIN,1113dage2022.xyz
+- DOMAIN,1116yitiao2022.xyz
+- DOMAIN,1117liangtiao2022.xyz
+- DOMAIN,11jianzhan.com
+- DOMAIN,1205qitiao2022.xyz
+- DOMAIN,120askimages.com
+- DOMAIN,121.43.235.135
+- DOMAIN,1224.zg-babyroo.com
+- DOMAIN,12551-1311572332.cos.ap-shanghai.myqcloud.com
+- DOMAIN,1267a.xyz
+- DOMAIN,126ccb.xyz
+- DOMAIN,1378a.xyz
+- DOMAIN,1379a.xyz
+- DOMAIN,1381a.xyz
+- DOMAIN,13hangpifa.com
+- DOMAIN,154.22.214.2
+- DOMAIN,155zn.com
+- DOMAIN,163487*.qmgmw.com
+- DOMAIN,1640831964042.se-life.cn
+- DOMAIN,187388.com
+- DOMAIN,18dui.com
+- DOMAIN,1905715.com
+- DOMAIN,1dfsdfg.com
+- DOMAIN,1jc5t.xyz
+- DOMAIN,1kanz.cn
+- DOMAIN,1u5gy.xyz
+- DOMAIN,1w73a5d.cn
+- DOMAIN,1wkg.cn
+- DOMAIN,2.yunsxk.xyz
+- DOMAIN,20091222.com
+- DOMAIN,2020mustang.com
+- DOMAIN,2022facaiabc9.xyz
+- DOMAIN,208622.top
+- DOMAIN,21qma3vs.com
+- DOMAIN,23.231.151.252
+- DOMAIN,23dhj4q.com
+- DOMAIN,23jgiy.com
+- DOMAIN,2431.vainews.cn
+- DOMAIN,24klm.cn
+- DOMAIN,24klm.net
+- DOMAIN,2g9x9uf.cn
+- DOMAIN,2pogg4c.cn
+- DOMAIN,3.cjcp.cn
+- DOMAIN,32.huanqiu.com
+- DOMAIN,3269x.com
+- DOMAIN,3337126.com
+- DOMAIN,3338637.com
+- DOMAIN,3338652.com
+- DOMAIN,35vc.com
+- DOMAIN,360114.xyz
+- DOMAIN,36htg.fun
+- DOMAIN,36mghtd.xyz
+- DOMAIN,387635.com
+- DOMAIN,38kmute.xyz
+- DOMAIN,39mydp.xyz
+- DOMAIN,3ad5iot.com
+- DOMAIN,3er88wn.com
+- DOMAIN,3q3l.cn
+- DOMAIN,3t769up6.com
+- DOMAIN,3v7c7y.online
+- DOMAIN,3yej.xyz
+- DOMAIN,40fenzhong.com
+- DOMAIN,4199tv.com
+- DOMAIN,42yenxh.cn
+- DOMAIN,44r9fl.xyz
+- DOMAIN,4asfgyx.com
+- DOMAIN,4d0m.cn
+- DOMAIN,4dyt.cn
+- DOMAIN,4etsr.xyz
+- DOMAIN,4kfv18.cn
+- DOMAIN,4po6iqp9.cn
+- DOMAIN,4sexmail.com
+- DOMAIN,50aqzb.com
+- DOMAIN,51-tour.net
+- DOMAIN,51.la
+- DOMAIN,517heiya.com
+- DOMAIN,51gongxiao.com
+- DOMAIN,51jqq.top
+- DOMAIN,51minbingtuan.net
+- DOMAIN,51xuex.com.cn
+- DOMAIN,52acc.cn
+- DOMAIN,52aoteman.com
+- DOMAIN,52kuwang.cn
+- DOMAIN,52pipaxing.com
+- DOMAIN,54askjdklm.xyz
+- DOMAIN,54dbg.xyz
+- DOMAIN,55555555555.xyz
+- DOMAIN,55zzz.cn
+- DOMAIN,56fba.cn
+- DOMAIN,56yk.com
+- DOMAIN,59gt.cn
+- DOMAIN,5gg17gm.com
+- DOMAIN,5ggj5cp.com
+- DOMAIN,5ibanma.com
+- DOMAIN,5idoy8p7.live
+- DOMAIN,5kmp7.top
+- DOMAIN,5lfgdju.com
+- DOMAIN,5vuk.xyz
+- DOMAIN,5wl8x.xyz
+- DOMAIN,61hhdp.com
+- DOMAIN,637o.top
+- DOMAIN,670t5x.cn
+- DOMAIN,68710266.com
+- DOMAIN,69e7.fun
+- DOMAIN,69mok.com
+- DOMAIN,6gukaitu.xyz
+- DOMAIN,6hejing.cn
+- DOMAIN,6iwoif.com
+- DOMAIN,6mh8.com
+- DOMAIN,6tofsu.com
+- DOMAIN,6v4.work
+- DOMAIN,6v6.work
+- DOMAIN,767drv.cn
+- DOMAIN,7701zxcv.com
+- DOMAIN,777aa999aa.com
+- DOMAIN,777zz777zz.com
+- DOMAIN,77aiav.me
+- DOMAIN,77nnv9.xyz
+- DOMAIN,77qwq.com
+- DOMAIN,77zz7.com
+- DOMAIN,789peizi.com
+- DOMAIN,78dfvv.com
+- DOMAIN,79zxcv.com
+- DOMAIN,7caidai.xyz
+- DOMAIN,7cbwus.cn
+- DOMAIN,7cl.app
+- DOMAIN,7dh26aja.com
+- DOMAIN,7jkzmbd.cn
+- DOMAIN,7kjiiu.cn
+- DOMAIN,7r227ut.cn
+- DOMAIN,7xixi.site
+- DOMAIN,81wx.info
+- DOMAIN,84zm8.xyz
+- DOMAIN,87asa.com
+- DOMAIN,87d.xv5b.com
+- DOMAIN,8861198.com
+- DOMAIN,888lianmeng.com
+- DOMAIN,88eg.cn
+- DOMAIN,88lajs1.com
+- DOMAIN,88lajs2.com
+- DOMAIN,89mtdab.xyz
+- DOMAIN,8chj9.com
+- DOMAIN,8cnd.com
+- DOMAIN,8d7hhh8x.com
+- DOMAIN,8g0j.cn
+- DOMAIN,8gp4wjq3.com
+- DOMAIN,8pjqjxmr.com
+- DOMAIN,91chaodijia.com
+- DOMAIN,91p20.space
+- DOMAIN,91xzba.com
+- DOMAIN,986qka.cn
+- DOMAIN,98765432100.online
+- DOMAIN,98765432100.site
+- DOMAIN,99999999.club
+- DOMAIN,999gg.net
+- DOMAIN,999pro.top
+- DOMAIN,9a6cds03.com
+- DOMAIN,9cc9ckp.com
+- DOMAIN,9fgh98k.com
+- DOMAIN,9fum.ifeng.com
+- DOMAIN,9fwz.com
+- DOMAIN,9js6.icu
+- DOMAIN,9miwo.com
+- DOMAIN,9odes.ltd
+- DOMAIN,9xf9qkz5.com
+- DOMAIN,Media.net
+- DOMAIN,a-mo.net
+- DOMAIN,a.breaktime.com.tw
+- DOMAIN,a.wzu.com
+- DOMAIN,a0b22.com
+- DOMAIN,a168888.top
+- DOMAIN,a48505.cn
+- DOMAIN,a4sz.xyz
+- DOMAIN,a8age.com
+- DOMAIN,a962m.xyz
+- DOMAIN,a9able.com
+- DOMAIN,aa889977aa.com
+- DOMAIN,aac.kegood.com
+- DOMAIN,aaenv48847h.com
+- DOMAIN,abalado.com
+- DOMAIN,abb.lxiaoxin.com
+- DOMAIN,abcd.cnhuoche.com
+- DOMAIN,abdluv.xyz
+- DOMAIN,abenshishabi.com
+- DOMAIN,abovede6.com
+- DOMAIN,abram.xin
+- DOMAIN,abrnfctkn.xyz
+- DOMAIN,abtt.pufenchuanmu.com
+- DOMAIN,acgshenshicha.cn
+- DOMAIN,ackcdn.net
+- DOMAIN,acqc9.com
+- DOMAIN,acsc10.com
+- DOMAIN,acscdn.com
+- DOMAIN,activity.hnhnmg.com
+- DOMAIN,ad-survey.com
+- DOMAIN,ad.adondemand.com
+- DOMAIN,ad.holmesmind.com
+- DOMAIN,ad.mazc.org
+- DOMAIN,ad.sitemaji.com
+- DOMAIN,ad.wamxb.info
+- DOMAIN,ad2023.site
+- DOMAIN,ada.baidu.com
+- DOMAIN,adayvquq.cn
+- DOMAIN,adbeuch.cn
+- DOMAIN,adbtwyxl96.fun
+- DOMAIN,adc3-launch.adcolony.com
+- DOMAIN,adcd7.com
+- DOMAIN,adcdn.holmesmind.com
+- DOMAIN,adcr77.com
+- DOMAIN,addictedwonder.com
+- DOMAIN,adfox.yandex.ru
+- DOMAIN,adfstat.yandex.ru
+- DOMAIN,adhdsb.cn
+- DOMAIN,adimg.liba.com
+- DOMAIN,aditibelen.com
+- DOMAIN,adkisdh3897.xyz
+- DOMAIN,adm.hotjar.com
+- DOMAIN,admhbl.xyz
+- DOMAIN,adpushup.com
+- DOMAIN,adrecover.com
+- DOMAIN,adroition.net
+- DOMAIN,ads-api.tiktok.com
+- DOMAIN,ads-api.twitter.com
+- DOMAIN,ads-pixiv.net
+- DOMAIN,ads-sg.tiktok.com
+- DOMAIN,ads.aralego.com
+- DOMAIN,ads.exoclick.com
+- DOMAIN,ads.linkedin.com
+- DOMAIN,ads.pinterest.com
+- DOMAIN,ads.pubmatic.com
+- DOMAIN,ads.service.kugou.com
+- DOMAIN,ads.superad.cc
+- DOMAIN,ads.tiktok.com
+- DOMAIN,ads.yahoo.com
+- DOMAIN,ads.yap.yahoo.com
+- DOMAIN,ads.youtube.com
+- DOMAIN,ads30.adcolony.com
+- DOMAIN,adserver.unityads.unity3d.com
+- DOMAIN,adservice.google.com
+- DOMAIN,adsfs.oppomobile.com
+- DOMAIN,adskeeper.co.uk
+- DOMAIN,adtago.s3.amazonaws.com
+- DOMAIN,adtech.yahooinc.com
+- DOMAIN,adtng.com
+- DOMAIN,adv-sv-show.focus.cn
+- DOMAIN,adv-sv-stat.focus.cn
+- DOMAIN,advertising-api-eu.amazon.com
+- DOMAIN,advertising.apple.com
+- DOMAIN,advertising.yahoo.com
+- DOMAIN,advertising.yandex.ru
+- DOMAIN,advice-ads.s3.amazonaws.com
+- DOMAIN,adx.ads.oppomobile.com
+- DOMAIN,aefmbeq.cn
+- DOMAIN,aeletheacd.com
+- DOMAIN,af31f.site
+- DOMAIN,afablca.cn
+- DOMAIN,afafevk.com
+- DOMAIN,afcav.com
+- DOMAIN,afdunaui.com
+- DOMAIN,afenx.top
+- DOMAIN,afgp10l.com
+- DOMAIN,afk3rs.xyz
+- DOMAIN,afs.googlesyndication.com
+- DOMAIN,afuz032.com
+- DOMAIN,afxncq.com
+- DOMAIN,agathacd.com
+- DOMAIN,agdewasmnjktfrdewqjgdser.top
+- DOMAIN,ahm.jiankang123.net
+- DOMAIN,ahp18.site
+- DOMAIN,ahp19.site
+- DOMAIN,ahp24.site
+- DOMAIN,ahpengjie.com
+- DOMAIN,ai36588.com
+- DOMAIN,ailehui9149.com
+- DOMAIN,aisnj.cn
+- DOMAIN,aiwei365.net
+- DOMAIN,aj4j.icu
+- DOMAIN,ajcode.co
+- DOMAIN,ajfkwwpo.xyz
+- DOMAIN,ajkjbcjbaaaed.com
+- DOMAIN,ajtdumo.cn
+- DOMAIN,ajzsa.xyz
+- DOMAIN,akcnkancklankl.com
+- DOMAIN,akdie.xyz
+- DOMAIN,akmh074.vip
+- DOMAIN,akmh080.vip
+- DOMAIN,aldkfsd.cn
+- DOMAIN,alemu4s.com
+- DOMAIN,alexanbelen.com
+- DOMAIN,alfpair.com
+- DOMAIN,alictibet.com
+- DOMAIN,aliyun.cdn.chengzilte.top
+- DOMAIN,aliyunapi.org
+- DOMAIN,allcp.xyz
+- DOMAIN,allykitchen.com
+- DOMAIN,almabelen.com
+- DOMAIN,alwayzcars.com
+- DOMAIN,alyssabelen.com
+- DOMAIN,amerzbj.cn
+- DOMAIN,amvecurt.cn
+- DOMAIN,amxwqv.com
+- DOMAIN,an.facebook.com
+- DOMAIN,an.yandex.ru
+- DOMAIN,analy.tuniu.cn
+- DOMAIN,analyse.weather.com.cn
+- DOMAIN,analytics-api.samsunghealthcn.com
+- DOMAIN,analytics-sg.tiktok.com
+- DOMAIN,analytics.163.com
+- DOMAIN,analytics.google.com
+- DOMAIN,analytics.pinterest.com
+- DOMAIN,analytics.pointdrive.linkedin.com
+- DOMAIN,analytics.query.yahoo.com
+- DOMAIN,analytics.s3.amazonaws.com
+- DOMAIN,analytics.tiktok.com
+- DOMAIN,analytics.yahoo.com
+- DOMAIN,analyticsengine.s3.amazonaws.com
+- DOMAIN,ancheonyo.fun
+- DOMAIN,annelinterv.fun
+- DOMAIN,antheaceliacd.com
+- DOMAIN,anwqj0i.xyz
+- DOMAIN,anyunwl04.com
+- DOMAIN,aobuygo.com
+- DOMAIN,aoqinglv.cn
+- DOMAIN,aornkmae.com
+- DOMAIN,aoyou1.top
+- DOMAIN,aoyou2.top
+- DOMAIN,aoyou3.top
+- DOMAIN,aoyou4.top
+- DOMAIN,aoyou5.top
+- DOMAIN,aparvibices.com
+- DOMAIN,apdfmhp.cn
+- DOMAIN,apfobmfr.cn
+- DOMAIN,api-adservices.apple.com
+- DOMAIN,api.06fgej.com
+- DOMAIN,api.1101yh.com
+- DOMAIN,api.36dfsa.com
+- DOMAIN,api.bugsnag.com
+- DOMAIN,api.cxzudwk.com
+- DOMAIN,api.faba.pw
+- DOMAIN,api.qcmm07.com
+- DOMAIN,api.qvpublish.com
+- DOMAIN,api.scwsf.com
+- DOMAIN,api.xn--zw0autp42d.cn
+- DOMAIN,api.xyhx.cc
+- DOMAIN,api.xyhx.org
+- DOMAIN,apk.qqvv88.com
+- DOMAIN,app-measurement.com
+- DOMAIN,app.bugsnag.com
+- DOMAIN,app.getsentry.com
+- DOMAIN,appmetrica.yandex.ru
+- DOMAIN,apptime.xyz
+- DOMAIN,aquvg.com
+- DOMAIN,aqvwn18102h.com
+- DOMAIN,arkn81.com
+- DOMAIN,arpg2.com
+- DOMAIN,arts-cloud.net
+- DOMAIN,arwh3scr.world
+- DOMAIN,arwh4scr.xyz
+- DOMAIN,as89de.top
+- DOMAIN,asdffe22.com
+- DOMAIN,asdx55.com
+- DOMAIN,asdyui16.cn
+- DOMAIN,asklcnlkacnklnl.com
+- DOMAIN,asldmlws.cn
+- DOMAIN,asleyty.com
+- DOMAIN,asoursuls.com
+- DOMAIN,aspwg.cn
+- DOMAIN,asvysvxr.com
+- DOMAIN,asycxtz.cn
+- DOMAIN,atbdkmt.xyz
+- DOMAIN,atnnf.xyz
+- DOMAIN,au6w0.xyz
+- DOMAIN,auction.unityads.unity3d.com
+- DOMAIN,autchoog.net
+- DOMAIN,awdc6.com
+- DOMAIN,awiudbyqbpo.com
+- DOMAIN,awyyzx.com
+- DOMAIN,axbdlox.cn
+- DOMAIN,axcdt.cn
+- DOMAIN,axcdy.cn
+- DOMAIN,axz650.com
+- DOMAIN,ayidaye.m.zwdu.com
+- DOMAIN,aykibra.cn
+- DOMAIN,aymtdcg.cn
+- DOMAIN,aynanjianyy.com
+- DOMAIN,ayybzhd.cn
+- DOMAIN,azdxypf.cn
+- DOMAIN,azukgee.cn
+- DOMAIN,b.1th.app
+- DOMAIN,b0rbgroup.xyz
+- DOMAIN,b0ufmrzl.icu
+- DOMAIN,b1.51yangsheng.com
+- DOMAIN,b2.51yangsheng.com
+- DOMAIN,b2xy4m.xyz
+- DOMAIN,b4g7k9d2.com
+- DOMAIN,b59.xyz
+- DOMAIN,b9b2oe8720j.xyz
+- DOMAIN,bacder.fun
+- DOMAIN,bace10.top
+- DOMAIN,bai.luyouwang.com
+- DOMAIN,bai128.xyz
+- DOMAIN,baiduapp.app
+- DOMAIN,baidubdvjssv.com
+- DOMAIN,baidubvjsbvv.com
+- DOMAIN,baidudvbjkbssjvsvv.com
+- DOMAIN,baiduisjkbvsjkl.com
+- DOMAIN,baiduklglndklb.com
+- DOMAIN,baiduvjsbvjknlsvsv.com
+- DOMAIN,baitaiz.com
+- DOMAIN,baiwb.com
+- DOMAIN,baiyishaonian.cn
+- DOMAIN,bangyuandianzi.top
+- DOMAIN,banhui.xyz
+- DOMAIN,banners-cdn77.trafficfactory.biz
+- DOMAIN,barscreative1.com
+- DOMAIN,bavde1.icu
+- DOMAIN,bavde3.icu
+- DOMAIN,bbbazlp.cn
+- DOMAIN,bbges.xyz
+- DOMAIN,bbhktv.xyz
+- DOMAIN,bbphonix.xyz
+- DOMAIN,bc.qunar.com
+- DOMAIN,bcbo.cc
+- DOMAIN,bcejk.xyz
+- DOMAIN,bcfeat2.com
+- DOMAIN,bcglkfu.cn
+- DOMAIN,bcidnfers.live
+- DOMAIN,bcsijjgck.xyz
+- DOMAIN,bd-js.duote.com
+- DOMAIN,bd.ahsrst.cn
+- DOMAIN,bdapi-ads.realmemobile.com
+- DOMAIN,bdapi-in-ads.realmemobile.com
+- DOMAIN,bdates.fun
+- DOMAIN,bddwm.com
+- DOMAIN,bdfg9a.icu
+- DOMAIN,bdhcpll.cn
+- DOMAIN,bea-s.dinghuoche.com
+- DOMAIN,beap.gemini.yahoo.com
+- DOMAIN,beatricecathy.com
+- DOMAIN,beatricenba.com
+- DOMAIN,beclsbx.icu
+- DOMAIN,become.songche.net
+- DOMAIN,bedrapiona.com
+- DOMAIN,bekco.xyz
+- DOMAIN,belindanbd.com
+- DOMAIN,berjzj.xyz
+- DOMAIN,berylnbb.com
+- DOMAIN,beste1.icu
+- DOMAIN,betcss.site
+- DOMAIN,betgorebysson.club
+- DOMAIN,betylife.com
+- DOMAIN,bfdcuy9.com
+- DOMAIN,bfjk360.com
+- DOMAIN,bftqdd.xyz
+- DOMAIN,bfugui.com
+- DOMAIN,bg04y.xyz
+- DOMAIN,bg4nxu2u5t.com
+- DOMAIN,bgbyzv.xyz
+- DOMAIN,bgdizsay.icu
+- DOMAIN,bh0874.online
+- DOMAIN,bhaabom.cn
+- DOMAIN,bhcnmrn.icu
+- DOMAIN,bhjuy10.com
+- DOMAIN,bhpprfk.cn
+- DOMAIN,bhulgot.com
+- DOMAIN,bieqpf.cn
+- DOMAIN,biexsite.net
+- DOMAIN,bifyeldv.top
+- DOMAIN,bigcood.xyz
+- DOMAIN,bihaipack.com
+- DOMAIN,birjkhm.cn
+- DOMAIN,bis8j.com
+- DOMAIN,bjkedv*.xyz
+- DOMAIN,bkhblj.xyz
+- DOMAIN,bkjlf58.com
+- DOMAIN,bl.emotionalworld.cn
+- DOMAIN,bleumzr.icu
+- DOMAIN,bljlrl.xyz
+- DOMAIN,blsenpg.cn
+- DOMAIN,blvhq.com
+- DOMAIN,bmiea.xyz
+- DOMAIN,bmptbyb.com
+- DOMAIN,bmyrihf.icu
+- DOMAIN,bnds3.site
+- DOMAIN,bnds4.site
+- DOMAIN,bnds6.site
+- DOMAIN,bnds7.site
+- DOMAIN,bnds8.site
+- DOMAIN,bnfyzszm.icu
+- DOMAIN,bngpt.com
+- DOMAIN,bnhxxj.xyz
+- DOMAIN,bnl2bii.icu
+- DOMAIN,bnrdnx.xyz
+- DOMAIN,bny9.cn
+- DOMAIN,boats8.top
+- DOMAIN,boewgph.icu
+- DOMAIN,bofnhn.com
+- DOMAIN,bohanhengtian.cn
+- DOMAIN,bookbk.img.zhangyue01.com
+- DOMAIN,books-analytics-events.apple.com
+- DOMAIN,botnrr.xyz
+- DOMAIN,botonmetaverse.com
+- DOMAIN,boxwcr.icu
+- DOMAIN,boyidianqi.com.cn
+- DOMAIN,boyvtr8.com
+- DOMAIN,bozhou666.com
+- DOMAIN,bqdzvl.xyz
+- DOMAIN,br.bendan.shop
+- DOMAIN,brendanbc.com
+- DOMAIN,brfgbn.xyz
+- DOMAIN,brfvyrrp.com
+- DOMAIN,bridgetnbe.com
+- DOMAIN,brownfox.top
+- DOMAIN,bsanciv.top
+- DOMAIN,bsbaswq.cn
+- DOMAIN,bsdgjmy.com
+- DOMAIN,bslbahv.top
+- DOMAIN,bswsmlp.cn
+- DOMAIN,btescs.fun
+- DOMAIN,btgoo.cc
+- DOMAIN,btsvad8.com
+- DOMAIN,bttazsyk.icu
+- DOMAIN,bujiangjiu123.com
+- DOMAIN,bulisite.top
+- DOMAIN,bupidt.xyz
+- DOMAIN,business-api.tiktok.com
+- DOMAIN,buyihao.com
+- DOMAIN,buzien.top
+- DOMAIN,bvvb9.com
+- DOMAIN,bwdhuanbao.com
+- DOMAIN,bxackzj.icu
+- DOMAIN,bxwccii.cn
+- DOMAIN,bxzm9a.icu
+- DOMAIN,by8428.com
+- DOMAIN,byvlph.xyz
+- DOMAIN,bzhn9y.icu
+- DOMAIN,bzxvtj.xyz
+- DOMAIN,c.leankun.com
+- DOMAIN,c0.ifengimg.com
+- DOMAIN,c4d4.cn
+- DOMAIN,c9r05q.com
+- DOMAIN,ca.yangshengtv.com
+- DOMAIN,caaie.xyz
+- DOMAIN,caardinal.com
+- DOMAIN,caider.fun
+- DOMAIN,caimei.me
+- DOMAIN,caimlkh.com
+- DOMAIN,caishuitonghr.com
+- DOMAIN,camep.xyz
+- DOMAIN,canser1.top
+- DOMAIN,canser5.top
+- DOMAIN,canser7.top
+- DOMAIN,canser8.top
+- DOMAIN,canser9.top
+- DOMAIN,cao-gao.xyz
+- DOMAIN,caomeixz7.xyz
+- DOMAIN,caopanshou.top
+- DOMAIN,captivias.site
+- DOMAIN,carbonads.com
+- DOMAIN,careers.hotjar.com
+- DOMAIN,carstat.bitauto.com
+- DOMAIN,casisi118.vip
+- DOMAIN,cat.da.us.criteo.com
+- DOMAIN,cbgyhe.cn
+- DOMAIN,cbh365.club
+- DOMAIN,cbjs.baidu.com
+- DOMAIN,cc-316.cc
+- DOMAIN,ccav.website
+- DOMAIN,cchvc.net
+- DOMAIN,ccnim.xyz
+- DOMAIN,cdcqee.com
+- DOMAIN,cdmjur.xyz
+- DOMAIN,cdn.7nsc.cn
+- DOMAIN,cdn.9823df.com
+- DOMAIN,cdn.anyshare.icu
+- DOMAIN,cdn.creative-bars1.com
+- DOMAIN,cdn.dashenya.com
+- DOMAIN,cdn.hanaya-m.com
+- DOMAIN,cdn.holmesmind.com
+- DOMAIN,cdn.itphanpytor.club
+- DOMAIN,cdn.jquery-cdn.cc
+- DOMAIN,cdn.vue-js.cyou
+- DOMAIN,cdn.weiye.net
+- DOMAIN,cdn.wuxiqiangheng.com
+- DOMAIN,cdn.xianchengyou.com
+- DOMAIN,cdn.xianliao.me
+- DOMAIN,cdn.yunliunet.com
+- DOMAIN,cdn0.sxhjty.cn
+- DOMAIN,cdn3.mancdn88.com
+- DOMAIN,cdn93d99x0e.23bei.com
+- DOMAIN,cdncloud.asia
+- DOMAIN,cdnlog.zhenai.com
+- DOMAIN,cdns.mbxt.net
+- DOMAIN,cdrhjt.com
+- DOMAIN,ceh.cehbh.com
+- DOMAIN,ceshi1.ink
+- DOMAIN,ceshi127722.obs.cn-north-4.myhuaweicloud.com
+- DOMAIN,cfdns.vip
+- DOMAIN,cfepws.com
+- DOMAIN,cgigc.com.cn
+- DOMAIN,cgmalight.com
+- DOMAIN,changshuohr.net
+- DOMAIN,changyangadvertising.com
+- DOMAIN,chaoku.oss-cn-chengdu.aliyuncs.com
+- DOMAIN,cheda1.icu
+- DOMAIN,cheda10.icu
+- DOMAIN,cheda7.icu
+- DOMAIN,cheh9k4t.com
+- DOMAIN,chicmifi.com
+- DOMAIN,chiese.site
+- DOMAIN,chihuoguo.me
+- DOMAIN,chiluyingxiao.com
+- DOMAIN,china.gzxxty168.com
+- DOMAIN,chinachooses.com
+- DOMAIN,chinaxinhe.net
+- DOMAIN,chinayms.com
+- DOMAIN,chixingkeji.com
+- DOMAIN,chnuuee.xyz
+- DOMAIN,cholo101.cn
+- DOMAIN,cholo215.cn
+- DOMAIN,cholor201015.cn
+- DOMAIN,cholor201115.cn
+- DOMAIN,chongyayakk.xyz
+- DOMAIN,choupsee.com
+- DOMAIN,chozarpeases.com
+- DOMAIN,chumeng.link
+- DOMAIN,chushoushijian.cn
+- DOMAIN,chuzushijian.cn
+- DOMAIN,chykohija.pro
+- DOMAIN,ciadre.fun
+- DOMAIN,ciarde.fun
+- DOMAIN,cidhdgv.xyz
+- DOMAIN,cifyeldf.top
+- DOMAIN,ciislunar.com
+- DOMAIN,city.youpukeji.cn
+- DOMAIN,cix0wk.com
+- DOMAIN,ck.ads.oppomobile.com
+- DOMAIN,ck33.top
+- DOMAIN,ckerw.xyz
+- DOMAIN,click.googleanalytics.com
+- DOMAIN,click.oneplus.cn
+- DOMAIN,click.tianyaui.com
+- DOMAIN,clldirectasianew.club
+- DOMAIN,cloudasbook.com
+- DOMAIN,cloudflare.st
+- DOMAIN,clugqa.com
+- DOMAIN,clw99.mobi
+- DOMAIN,cmbkgmx.cn
+- DOMAIN,cmgjqqu.cn
+- DOMAIN,cmh2pw.com
+- DOMAIN,cmpxaup.cn
+- DOMAIN,cmspapp83.com
+- DOMAIN,cmspapp84.com
+- DOMAIN,cncnails.net
+- DOMAIN,cns.wxdal.cn
+- DOMAIN,cnzz.com
+- DOMAIN,cocloud.site
+- DOMAIN,collegepre.net
+- DOMAIN,commondata.oss-cn-hangzhou.aliyuncs.com
+- DOMAIN,config.unityads.unity3d.com
+- DOMAIN,connectreadoasis.com
+- DOMAIN,count.candou.com
+- DOMAIN,count.enet.com.cn
+- DOMAIN,count.nuanyuehanxing.com
+- DOMAIN,count.pcauto.com.cn
+- DOMAIN,counter.pcauto.com.cn
+- DOMAIN,counter.tianjimedia.com
+- DOMAIN,countpage.sznews.com
+- DOMAIN,couplestupidity.com
+- DOMAIN,cp.eoncreativity.com
+- DOMAIN,cpoml.iask.sina.com.cn
+- DOMAIN,cpro.baidustatic.com
+- DOMAIN,cpro.zol.com.cn
+- DOMAIN,cpro88.vip
+- DOMAIN,cpucdn.baidu.com
+- DOMAIN,cqbuchouhua.com
+- DOMAIN,cqtlimi.cn
+- DOMAIN,cqygmb.com
+- DOMAIN,creamaroc.com
+- DOMAIN,createssque.club
+- DOMAIN,creepingbrings.com
+- DOMAIN,crf999.cn
+- DOMAIN,criteo.net
+- DOMAIN,crobotb.com
+- DOMAIN,cryy.vip
+- DOMAIN,cs.luckyorange.net
+- DOMAIN,csedasdme.xyz
+- DOMAIN,csjkb.com
+- DOMAIN,cslbahf.top
+- DOMAIN,cslpf.cn
+- DOMAIN,csygxdym.com
+- DOMAIN,csyys0731.com
+- DOMAIN,ctienlf.top
+- DOMAIN,ctobsnssdk.com
+- DOMAIN,ctquh0q.xyz
+- DOMAIN,ctsau.xyz
+- DOMAIN,cuioxbqi.com
+- DOMAIN,cvftv2.com
+- DOMAIN,cvsheil.com
+- DOMAIN,cw9twua9.shop
+- DOMAIN,cw9twuas.xyz
+- DOMAIN,cwandlf.top
+- DOMAIN,cwc494e.cn
+- DOMAIN,cx0001.cn
+- DOMAIN,cxs.mibaoge.com
+- DOMAIN,cxsh.cn.com
+- DOMAIN,cyhbrjf.cn
+- DOMAIN,cypcb.net
+- DOMAIN,cyq3noz.icu
+- DOMAIN,czghjt.com
+- DOMAIN,d0lzq.com
+- DOMAIN,d13gni3sfor862.cloudfront.net
+- DOMAIN,d1esebcdm6wx7j.cloudfront.net
+- DOMAIN,d1f05vr3sjsuy7.cloudfront.net
+- DOMAIN,d1pmhihatyvp1k.cloudfront.net
+- DOMAIN,d1q4x2p7t0gq14.cloudfront.net
+- DOMAIN,d20903hof2l33q.cloudfront.net
+- DOMAIN,d227cncaprzd7y.cloudfront.net
+- DOMAIN,d2wy8f7a9ursnm.cloudfront.net
+- DOMAIN,d37d9zbli5ytch.cloudfront.net
+- DOMAIN,d3f3.xyz
+- DOMAIN,d3mshiiq22wqhz.cloudfront.net
+- DOMAIN,d3nfknbv.icu
+- DOMAIN,d8962a.xyz
+- DOMAIN,daadr.cn
+- DOMAIN,daawv.cn
+- DOMAIN,daawx.cn
+- DOMAIN,daccp.cn
+- DOMAIN,dacedsfa.cn
+- DOMAIN,dada.dadawm.cc
+- DOMAIN,dadbj.cn
+- DOMAIN,dadcc.cn
+- DOMAIN,dadde.cn
+- DOMAIN,daddq.cn
+- DOMAIN,dadms.cn
+- DOMAIN,dadwu.cn
+- DOMAIN,dadzz.cn
+- DOMAIN,daede.cn
+- DOMAIN,daeis.cn
+- DOMAIN,daenf.cn
+- DOMAIN,dafdf.cn
+- DOMAIN,dafuhouse.com
+- DOMAIN,dagwi.cn
+- DOMAIN,dahounian.top
+- DOMAIN,dakawm.cc
+- DOMAIN,daliantong.com.cn
+- DOMAIN,dalld.xyz
+- DOMAIN,dalmfn.xyz
+- DOMAIN,dangongshijie.com
+- DOMAIN,danstr.fun
+- DOMAIN,dasv10rewq.xyz
+- DOMAIN,dat.yl-zipper.com
+- DOMAIN,dat8.cc
+- DOMAIN,data.ads.oppomobile.com
+- DOMAIN,data.gzuzfa.cn
+- DOMAIN,data.lichenqx.com
+- DOMAIN,data.mistat.india.xiaomi.com
+- DOMAIN,data.mistat.rus.xiaomi.com
+- DOMAIN,data.mistat.xiaomi.com
+- DOMAIN,data.zhongquanjy.com
+- DOMAIN,db11yy.com
+- DOMAIN,dbkdwe1.com
+- DOMAIN,dbnsd2viud.xyz
+- DOMAIN,dbnwlp.xyz
+- DOMAIN,dbxok6uo.icu
+- DOMAIN,dciep.xyz
+- DOMAIN,dcsxv.com
+- DOMAIN,dcvbnzss.xyz
+- DOMAIN,dcvefz.xyz
+- DOMAIN,dd112233dd.com
+- DOMAIN,dd667788dd.com
+- DOMAIN,dd778899dd.com
+- DOMAIN,ddbuwo.cn
+- DOMAIN,ddgjjj.com
+- DOMAIN,ddush.xyz
+- DOMAIN,ddxolb.xyz
+- DOMAIN,dedcrfvdj.xyz
+- DOMAIN,deeterno.cn
+- DOMAIN,degjidp.icu
+- DOMAIN,dehaer.site
+- DOMAIN,dehua.mengtubo.com
+- DOMAIN,dektcvna.icu
+- DOMAIN,derew6xbsc.xyz
+- DOMAIN,dertyhsf.xyz
+- DOMAIN,desac10.icu
+- DOMAIN,desac7.icu
+- DOMAIN,destc10.icu
+- DOMAIN,destc8.icu
+- DOMAIN,device.fishmobi.com
+- DOMAIN,dexinyi.cn
+- DOMAIN,dexuanyu.top
+- DOMAIN,dfadas13.com
+- DOMAIN,dfaikhkm.xyz
+- DOMAIN,dfec2.com
+- DOMAIN,dffrahax.com
+- DOMAIN,dfghaqea.xyz
+- DOMAIN,dfgpifa.com
+- DOMAIN,dfgwer.com
+- DOMAIN,dfgymtx.icu
+- DOMAIN,dfjd.xyz
+- DOMAIN,dfkd.xyz
+- DOMAIN,dfsvhv88.com
+- DOMAIN,dfxwdc.com
+- DOMAIN,dg186.cn
+- DOMAIN,dgaxxjq.cn
+- DOMAIN,dgayibf.icu
+- DOMAIN,dgfgflod.com
+- DOMAIN,dghehu.com
+- DOMAIN,dghhot.com
+- DOMAIN,dghkpp.xyz
+- DOMAIN,dgvkrt.xyz
+- DOMAIN,dgxlm.xyz
+- DOMAIN,dheear.site
+- DOMAIN,dherea.site
+- DOMAIN,dhjrvj.xyz
+- DOMAIN,dhkipdsc.xyz
+- DOMAIN,dhxrop.com
+- DOMAIN,di2y21.top
+- DOMAIN,dianhanjiw.com
+- DOMAIN,dianying-1304791696.cos.ap-shanghai.myqcloud.com
+- DOMAIN,dibaiweiai.com
+- DOMAIN,dicancele.fun
+- DOMAIN,dieka888.com
+- DOMAIN,dig.qbao.com
+- DOMAIN,dikematou.com
+- DOMAIN,dikmnhyxz.xyz
+- DOMAIN,ding.cxzudwk.com
+- DOMAIN,dingyar.top
+- DOMAIN,diouy9cvtx.xyz
+- DOMAIN,dismantlepenantiterrorist.com
+- DOMAIN,ditorialproce.biz
+- DOMAIN,dj09j5u.cn
+- DOMAIN,djv99sxoqpv11.cloudfront.net
+- DOMAIN,dklwddl.cn
+- DOMAIN,dl12349.net
+- DOMAIN,dlads.cn
+- DOMAIN,dlrtz.com
+- DOMAIN,dlxxjsh.top
+- DOMAIN,dmeia.xyz
+- DOMAIN,dmfjeu.xyz
+- DOMAIN,dmm.aizhan.com
+- DOMAIN,dmvckj.icu
+- DOMAIN,dmxfdp.xyz
+- DOMAIN,dmyrza.com
+- DOMAIN,dnceqzz.icu
+- DOMAIN,dncvj.cn
+- DOMAIN,dnightwish.xyz
+- DOMAIN,dnrf0215.com
+- DOMAIN,dnyzbp.cn
+- DOMAIN,dnzmhr.xyz
+- DOMAIN,doccd.xyz
+- DOMAIN,dodhvug.cn
+- DOMAIN,dohihf.com
+- DOMAIN,doiney.pandasone.com
+- DOMAIN,dojyiu8.com
+- DOMAIN,donchen501.cn
+- DOMAIN,dong.aeimmmj.cn
+- DOMAIN,dongya.org
+- DOMAIN,dosre12.xyz
+- DOMAIN,doubleclick.net
+- DOMAIN,douyaobuy.com
+- DOMAIN,dpbgnf.xyz
+- DOMAIN,dpijohb.icu
+- DOMAIN,dpjzzgw.cn
+- DOMAIN,dq06u9lt5akr2.cloudfront.net
+- DOMAIN,dqazwsxd.xyz
+- DOMAIN,dqcgkpp.icu
+- DOMAIN,dqjojx.xyz
+- DOMAIN,dreamlikeverse.com
+- DOMAIN,drebz4f.shop
+- DOMAIN,dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
+- DOMAIN,drfvtgbyk.xyz
+- DOMAIN,dsbjdeh.cn
+- DOMAIN,dsbt7.com
+- DOMAIN,dshapv.xyz
+- DOMAIN,dslenggui.com
+- DOMAIN,dsqzk.cn
+- DOMAIN,dstbekdf.xyz
+- DOMAIN,dstbunkfw.xyz
+- DOMAIN,dt243100.com
+- DOMAIN,dtckvpc.cn
+- DOMAIN,dtfyhdghsd.online
+- DOMAIN,dtrcw.cc
+- DOMAIN,dtsxn.cn
+- DOMAIN,duier.top
+- DOMAIN,dup.baidustatic.com
+- DOMAIN,duxingangtiaoban.com
+- DOMAIN,duyixpy.top
+- DOMAIN,duyvtanrheje.xyz
+- DOMAIN,dv.amtwcvh.cn
+- DOMAIN,dv.taolingjing.com
+- DOMAIN,dvbnmikxh.xyz
+- DOMAIN,dvenkbn.icu
+- DOMAIN,dvnsdo.com
+- DOMAIN,dvtednm.cn
+- DOMAIN,dvv9dkv.site
+- DOMAIN,dvzk66.cn
+- DOMAIN,dwfjtz.xyz
+- DOMAIN,dwibjkdsn.com
+- DOMAIN,dwyngjb.icu
+- DOMAIN,dxwsty.cn
+- DOMAIN,dxzky.love
+- DOMAIN,dycwt.cn
+- DOMAIN,dyeperd.icu
+- DOMAIN,dygtulfe.icu
+- DOMAIN,dyhnbgtsl.xyz
+- DOMAIN,dykeep.com
+- DOMAIN,dzkwj0y.xyz
+- DOMAIN,e49.xyz
+- DOMAIN,eabids.com
+- DOMAIN,eamqbaqzaewwq.top
+- DOMAIN,eblnzoq.cn
+- DOMAIN,ebscb0l.xyz
+- DOMAIN,ebten.xyz
+- DOMAIN,ebuqxsjq.com
+- DOMAIN,eccbb.com
+- DOMAIN,ecoefh.com
+- DOMAIN,ecudsc.cn
+- DOMAIN,ecwmvlhy.com
+- DOMAIN,ed.gumoda.top
+- DOMAIN,edong.link
+- DOMAIN,edssnet.changchunets.com
+- DOMAIN,eduizioq.com
+- DOMAIN,eedudwr.cn
+- DOMAIN,eers0cy.com
+- DOMAIN,eexlgyn.cn
+- DOMAIN,efangcdn.com
+- DOMAIN,effectivehealthy.cn
+- DOMAIN,efvsyhbf.xyz
+- DOMAIN,eghyahl.cn
+- DOMAIN,egipsbvlgn.xyz
+- DOMAIN,egrent.cn
+- DOMAIN,egsxdp.cn
+- DOMAIN,eheb8.cn
+- DOMAIN,ehfjup.xyz
+- DOMAIN,ehk.trenhdg.com
+- DOMAIN,eiadf.xyz
+- DOMAIN,eifyeldw.top
+- DOMAIN,eignky.xyz
+- DOMAIN,eileenjaney.com
+- DOMAIN,eiykmtb.cn
+- DOMAIN,ejieban.com
+- DOMAIN,ejolul.xyz
+- DOMAIN,ekdky.cn
+- DOMAIN,elegant-creator.com
+- DOMAIN,elevatorpartsbuy.com
+- DOMAIN,elopatchwork.com
+- DOMAIN,elsmom.xyz
+- DOMAIN,elsynmlw.fun
+- DOMAIN,eltdeh.top
+- DOMAIN,embnvut.com
+- DOMAIN,emilyz.top
+- DOMAIN,enennsa.gushiwen.cn
+- DOMAIN,enhad.xyz
+- DOMAIN,enl2.96845.com
+- DOMAIN,entsnotesq.fun
+- DOMAIN,eo.chaungpin.top
+- DOMAIN,eo.dongdm.cn
+- DOMAIN,eo.jinzpeng.cn
+- DOMAIN,eoyqzzk.cn
+- DOMAIN,epaes.com.cn
+- DOMAIN,epoid.xyz
+- DOMAIN,epoun.top
+- DOMAIN,eqghuu.com
+- DOMAIN,eqlidke.cn
+- DOMAIN,eqqi.cn
+- DOMAIN,eraaoec.cn
+- DOMAIN,ercnrxa.cn
+- DOMAIN,erfskhnpter.xyz
+- DOMAIN,erjiyouhuiquan.com
+- DOMAIN,erlirscid.com
+- DOMAIN,err.ifengcloud.ifeng.com
+- DOMAIN,ert.pengwenli.top
+- DOMAIN,ertgbme.com
+- DOMAIN,erty0yx.com
+- DOMAIN,esanciw.top
+- DOMAIN,esgher.fun
+- DOMAIN,esgher.site
+- DOMAIN,eslbahw.top
+- DOMAIN,estcruden.biz
+- DOMAIN,etahub.com
+- DOMAIN,etienlw.top
+- DOMAIN,etlanaberez.fun
+- DOMAIN,etregh.fun
+- DOMAIN,euitx.cn
+- DOMAIN,eujxqgh.cn
+- DOMAIN,eulaliadoradl.com
+- DOMAIN,evb0gxo.icu
+- DOMAIN,evbb.xyz
+- DOMAIN,events.hotjar.io
+- DOMAIN,events.reddit.com
+- DOMAIN,events.redditmedia.com
+- DOMAIN,events3alt.adcolony.com
+- DOMAIN,evidhjksdtgyxrh.xyz
+- DOMAIN,evtubescms.phncdn.com
+- DOMAIN,ewfsef.com
+- DOMAIN,ewrwf.com
+- DOMAIN,ewtyewj.com
+- DOMAIN,excsyrv.cn
+- DOMAIN,exdynsrv.com
+- DOMAIN,exevcl.cn
+- DOMAIN,extmaps-api.yandex.net
+- DOMAIN,eybstar.com
+- DOMAIN,eyq3nog.icu
+- DOMAIN,ezlgszdb.icu
+- DOMAIN,ezraahdn.icu
+- DOMAIN,ezu6rd5.houge.in
+- DOMAIN,f1tfmxzg.icu
+- DOMAIN,f23jjd8.xyz
+- DOMAIN,f53a.com
+- DOMAIN,f77j6t2b.com
+- DOMAIN,f77xv3.top
+- DOMAIN,f8ejqxp.cn
+- DOMAIN,fads315.com
+- DOMAIN,fakjkwp.cn
+- DOMAIN,falal.cn
+- DOMAIN,falsarywaybung.com
+- DOMAIN,famorlymal.com
+- DOMAIN,fangcunzhijian1.cn
+- DOMAIN,fangfeng009.xyz
+- DOMAIN,fantuan.name
+- DOMAIN,fc.gaizong.cn
+- DOMAIN,fc.tiepan.cn
+- DOMAIN,fc.zuixinchao.com
+- DOMAIN,fcbqxt.xyz
+- DOMAIN,fcgztan.cn
+- DOMAIN,fcheng.top
+- DOMAIN,fcpnxx.xyz
+- DOMAIN,fcqztan.cn
+- DOMAIN,fddxbn.xyz
+- DOMAIN,fdgem.com
+- DOMAIN,fdhvczd.cn
+- DOMAIN,fds-1230.cc
+- DOMAIN,feiln.xyz
+- DOMAIN,fengyukun03.cn
+- DOMAIN,ffgpol.com
+- DOMAIN,ffmehcg.cn
+- DOMAIN,ffnvhig.cn
+- DOMAIN,ffriedadl.com
+- DOMAIN,ffzz71.com
+- DOMAIN,fg.daochengwowo.top
+- DOMAIN,fg.yilianqing.com
+- DOMAIN,fgetmzx.icu
+- DOMAIN,fgnzdb.xyz
+- DOMAIN,fgre9.top
+- DOMAIN,fhddnh.xyz
+- DOMAIN,fhfgg.com
+- DOMAIN,fhglcpf.icu
+- DOMAIN,fhitagd.cn
+- DOMAIN,fhrl2018.com
+- DOMAIN,fhsmtrnsfnt.com
+- DOMAIN,fhvbhx.xyz
+- DOMAIN,fiktvlnc.icu
+- DOMAIN,fillhr.xyz
+- DOMAIN,fintechpi.com
+- DOMAIN,fionamignon.com
+- DOMAIN,firearmtire.com
+- DOMAIN,fish882.xyz
+- DOMAIN,fiwyjar.cn
+- DOMAIN,fjctlnn.top
+- DOMAIN,fjjmnh.com
+- DOMAIN,fjshxjs.cn
+- DOMAIN,fjsytjs.cn
+- DOMAIN,fjtroip.cn
+- DOMAIN,flagshipism.com
+- DOMAIN,flsfzr.cn
+- DOMAIN,fmre1.com
+- DOMAIN,fnfhjka.xyz
+- DOMAIN,fngcgbl.icu
+- DOMAIN,fo.tiqu.io
+- DOMAIN,fo.zhangbaochang.top
+- DOMAIN,foirkrt.icu
+- DOMAIN,foisml.com
+- DOMAIN,fooid.xyz
+- DOMAIN,forestseasons.com.cn
+- DOMAIN,forflygonom.com
+- DOMAIN,forzubatr.com
+- DOMAIN,fourlaile.com
+- DOMAIN,fqpxzr.xyz
+- DOMAIN,fqxkj.cn
+- DOMAIN,frcykpk.cn
+- DOMAIN,free3dgame.xyz
+- DOMAIN,freshmarketer.com
+- DOMAIN,freychang.fun
+- DOMAIN,friendshipmale.com
+- DOMAIN,fronttoad.com
+- DOMAIN,frpns.com
+- DOMAIN,frrhdl.xyz
+- DOMAIN,frsejhged.xyz
+- DOMAIN,fsgsfaf6.com
+- DOMAIN,fsjjrbz.cn
+- DOMAIN,fsnpbh.xyz
+- DOMAIN,fstats.xyz
+- DOMAIN,fszpzd.xyz
+- DOMAIN,ft8e.top
+- DOMAIN,fthqzxq.cn
+- DOMAIN,ftiodfqk.com
+- DOMAIN,fuentekj.com
+- DOMAIN,fujifood.hk
+- DOMAIN,fujincenter.com
+- DOMAIN,fuliwang.cc
+- DOMAIN,fumanhua88.info
+- DOMAIN,fvffd678.xyz
+- DOMAIN,fvxlhn.xyz
+- DOMAIN,fwepd.xyz
+- DOMAIN,fwmbjrl.cn
+- DOMAIN,fwzvlp.xyz
+- DOMAIN,fxbcpr.xyz
+- DOMAIN,fxeaobv.icu
+- DOMAIN,fxxrllt.com
+- DOMAIN,fy14.cn
+- DOMAIN,g.rain8.com
+- DOMAIN,g.yccdn.com
+- DOMAIN,g.youshishop.com
+- DOMAIN,g1kb9u.xyz
+- DOMAIN,gahvy6ww.icu
+- DOMAIN,gaiqgs.xyz
+- DOMAIN,galopelikeantelope.com
+- DOMAIN,games95.com
+- DOMAIN,gaomingbo.com
+- DOMAIN,gaoyuhu.top
+- DOMAIN,gbcnvip15.com
+- DOMAIN,gbrtyhnsc.xyz
+- DOMAIN,gbsp002.com
+- DOMAIN,gcbflvx.cn
+- DOMAIN,gcqciiqk.com
+- DOMAIN,gdjme27.com
+- DOMAIN,gdls114.com
+- DOMAIN,gdoibwfvjqf.com
+- DOMAIN,gdsoq.com
+- DOMAIN,gdzshoes.com
+- DOMAIN,geiod.xyz
+- DOMAIN,gemini.yahoo.com
+- DOMAIN,geo.yahoo.com
+- DOMAIN,geoparker.net
+- DOMAIN,geziyd.com
+- DOMAIN,gfrzzzx.cn
+- DOMAIN,gfvip09at.com
+- DOMAIN,ggdfrl.com
+- DOMAIN,ggdrfh5.com
+- DOMAIN,ggdumze.cn
+- DOMAIN,gghmef7.com
+- DOMAIN,ghghgf.xuexiwa.com
+- DOMAIN,ghland.site
+- DOMAIN,ghsnhjk.cn
+- DOMAIN,gjh9v.tianshilv.cn
+- DOMAIN,gjipd.xyz
+- DOMAIN,gjkame6.com
+- DOMAIN,gkjmev3.com
+- DOMAIN,gknybkl.cn
+- DOMAIN,gl.zle.com
+- DOMAIN,glczys.xyz
+- DOMAIN,glhdan.site
+- DOMAIN,glixaing.com
+- DOMAIN,globalapi.ad.xiaomi.com
+- DOMAIN,glpca.com
+- DOMAIN,glwxw.net
+- DOMAIN,gmicu.cn
+- DOMAIN,gndmnrh.cn
+- DOMAIN,gnqxd.cn
+- DOMAIN,gnrnws.cn
+- DOMAIN,go.live.missav.com
+- DOMAIN,go.sohu.com
+- DOMAIN,goblin.hupu.com
+- DOMAIN,godni.xyz
+- DOMAIN,goeyxwhp.site
+- DOMAIN,goikbnjksdf.com
+- DOMAIN,golden88.co
+- DOMAIN,gongxifc.com
+- DOMAIN,gongyong002.xyz
+- DOMAIN,gonpc.com
+- DOMAIN,googletagmanager.com
+- DOMAIN,gorgon.youdao.com
+- DOMAIN,gotohouse1.club
+- DOMAIN,gougou88.xyz
+- DOMAIN,govhechi.cn
+- DOMAIN,govkunming.cn
+- DOMAIN,govlaibing.cn
+- DOMAIN,govliuzhou.cn
+- DOMAIN,govxinjiang.cn
+- DOMAIN,goxob6wo.icu
+- DOMAIN,gpxxbyf.cn
+- DOMAIN,gqdfgyz.cn
+- DOMAIN,grandcomms.cn
+- DOMAIN,grduswfx.com
+- DOMAIN,greatnumeric.com
+- DOMAIN,greenxcx.com
+- DOMAIN,grjasq.com
+- DOMAIN,grs.hicloud.com
+- DOMAIN,gscatk.cn
+- DOMAIN,gshsne.xyz
+- DOMAIN,gsjzlssws.com
+- DOMAIN,gsnlc.cn
+- DOMAIN,gsp0.kj-gov.cn
+- DOMAIN,gsxbxvd.cn
+- DOMAIN,gtcqbnu.cn
+- DOMAIN,gtlpa*.com
+- DOMAIN,gtlpaj.com
+- DOMAIN,gtoyouin.biz
+- DOMAIN,gtpxvpi.cn
+- DOMAIN,guanggao28.xyz
+- DOMAIN,guangzhengtwentynine.top
+- DOMAIN,gubgonx.cn
+- DOMAIN,guiliangtechnology.com
+- DOMAIN,guizhouxinsheng.com
+- DOMAIN,gujkj.cn
+- DOMAIN,guke.name
+- DOMAIN,guohexinxiang.com
+- DOMAIN,guqsqfmi.com
+- DOMAIN,guzsjdl.cn
+- DOMAIN,gvbhae0.com
+- DOMAIN,gw1jvhs.com
+- DOMAIN,gwertyuadf.com
+- DOMAIN,gwg51.com
+- DOMAIN,gwmrb.cn
+- DOMAIN,gwrpceo.cn
+- DOMAIN,gxbnp.cn
+- DOMAIN,gxgbvmg.cn
+- DOMAIN,gxhzv.cn
+- DOMAIN,gxlsjt.com
+- DOMAIN,gxxie.com
+- DOMAIN,gxzxiww.com
+- DOMAIN,gyhgcgj.xyz
+- DOMAIN,gyjinchuang.vip
+- DOMAIN,gypowdr.com
+- DOMAIN,gyq3bew.icu
+- DOMAIN,gyqifa.com
+- DOMAIN,gysn001.com
+- DOMAIN,gyutmrp.com
+- DOMAIN,gz-hongxin.com
+- DOMAIN,gzasiatech.net
+- DOMAIN,gzfzcj.cn
+- DOMAIN,gzqvd.cn
+- DOMAIN,gzsjym.xyz
+- DOMAIN,h.baminw.cn
+- DOMAIN,h2ji5.xyz
+- DOMAIN,h45pmx1.cn
+- DOMAIN,h4b0srs.cn
+- DOMAIN,h5.dzgsdswh5.xyz
+- DOMAIN,h6cp.icu
+- DOMAIN,h731.icu
+- DOMAIN,hacde1.icu
+- DOMAIN,hacde10.icu
+- DOMAIN,hacde3.icu
+- DOMAIN,hacde5.icu
+- DOMAIN,hacde6.icu
+- DOMAIN,hackeraa.xyz
+- DOMAIN,hadesleta.com
+- DOMAIN,haejkmm.cn
+- DOMAIN,haffo70.com
+- DOMAIN,haihongzg.com
+- DOMAIN,haili-spitzer.com
+- DOMAIN,hairoak.com
+- DOMAIN,haise10.top
+- DOMAIN,haiwanli.com
+- DOMAIN,handerfix.com
+- DOMAIN,hanwdsii.com
+- DOMAIN,haohuisheng555.cn
+- DOMAIN,haokuaixiu.site
+- DOMAIN,haoweb.top
+- DOMAIN,haoy1.top
+- DOMAIN,haoyongdm.com
+- DOMAIN,haoyundm.com
+- DOMAIN,haoyundmtaotao.com
+- DOMAIN,hapying.com
+- DOMAIN,hasdser.com
+- DOMAIN,hasgde.site
+- DOMAIN,hbandier.com
+- DOMAIN,hbkunye.com
+- DOMAIN,hbqabbg.cn
+- DOMAIN,hbrmickt.com
+- DOMAIN,hbv.tobeacon.cn
+- DOMAIN,hbxhnqj.cn
+- DOMAIN,hbzhenquan.cn
+- DOMAIN,hbzshoes.com
+- DOMAIN,hcbmg.cn
+- DOMAIN,hcbmq.cn
+- DOMAIN,hcdjy.xyz
+- DOMAIN,hciea.xyz
+- DOMAIN,hcvegu.com
+- DOMAIN,hdfdsdaw.com
+- DOMAIN,hdpdrandpd.xyz
+- DOMAIN,hdvkl.cn
+- DOMAIN,hdxjtl.xyz
+- DOMAIN,hdypw.com
+- DOMAIN,hdzb6.cc
+- DOMAIN,hefei64.com
+- DOMAIN,hefei668.com
+- DOMAIN,hefrpv.xyz
+- DOMAIN,hegk01a.top
+- DOMAIN,hegk02a.top
+- DOMAIN,hegk03a.top
+- DOMAIN,hegk05a.top
+- DOMAIN,hegk06a.top
+- DOMAIN,hegk09a.top
+- DOMAIN,heioa.xyz
+- DOMAIN,henanqiuzhige.com
+- DOMAIN,heshun365.cn
+- DOMAIN,hesramfi.com
+- DOMAIN,hezhib.top
+- DOMAIN,hezlqmwm.com
+- DOMAIN,hfawdgz.cn
+- DOMAIN,hfctx.cn
+- DOMAIN,hffxc.com
+- DOMAIN,hfjk3wa.com
+- DOMAIN,hfk7j.top
+- DOMAIN,hflwgg.xyz
+- DOMAIN,hfqdipw.cn
+- DOMAIN,hgehse.site
+- DOMAIN,hgf8hck.com
+- DOMAIN,hghjks2.com
+- DOMAIN,hgiaef.site
+- DOMAIN,hgiafe.site
+- DOMAIN,hgjjk45.com
+- DOMAIN,hgjxp.cn
+- DOMAIN,hgkzl.cn
+- DOMAIN,hgpbhuj.cn
+- DOMAIN,hh0212.cc
+- DOMAIN,hh6820123.com
+- DOMAIN,hh9uv6tq.com
+- DOMAIN,hhff111222.com
+- DOMAIN,hhttm.top
+- DOMAIN,hickeyhsu.top
+- DOMAIN,hifyeldu.top
+- DOMAIN,higefa.site
+- DOMAIN,hikin.online
+- DOMAIN,hikykhz.icu
+- DOMAIN,hiqua.xyz
+- DOMAIN,histats.com
+- DOMAIN,hjbqnwb.com
+- DOMAIN,hjgkr0g.xyz
+- DOMAIN,hjkiguy.com
+- DOMAIN,hjpqt.cn
+- DOMAIN,hjtedf.xyz
+- DOMAIN,hkctmldg.icu
+- DOMAIN,hkk456.cc
+- DOMAIN,hkkeafj.cn
+- DOMAIN,hkscldggm.xyz
+- DOMAIN,hladalliance.com
+- DOMAIN,hlalliances.com
+- DOMAIN,hlbbn6ii.icu
+- DOMAIN,hlnr9q.icu
+- DOMAIN,hlzyb.cn
+- DOMAIN,hmcubp.top
+- DOMAIN,hmjhnkas.com
+- DOMAIN,hmjs.cnmo-img.com.cn
+- DOMAIN,hnbhrt.xyz
+- DOMAIN,hncadh.com
+- DOMAIN,hndfw.com.cn
+- DOMAIN,hndhas.com
+- DOMAIN,hnfnjn.xyz
+- DOMAIN,hnlczgjx.com
+- DOMAIN,hnlphr.cn
+- DOMAIN,hnltcw.com
+- DOMAIN,hnnuange.com
+- DOMAIN,hntezhi.com
+- DOMAIN,hnxxt.net
+- DOMAIN,hnzzff.club
+- DOMAIN,hohmaryt.com
+- DOMAIN,hollg8023.745c.cn
+- DOMAIN,holor0701.cn
+- DOMAIN,holor0804.cn
+- DOMAIN,holor857.cn
+- DOMAIN,hongfachn.com
+- DOMAIN,hongmao39.top
+- DOMAIN,hongteng.xyz
+- DOMAIN,hopefullyapricot.com
+- DOMAIN,hpcwwd.com
+- DOMAIN,hpg786n.cn
+- DOMAIN,hpgmkbt.icu
+- DOMAIN,hpiekt.cn
+- DOMAIN,hpvl2kb.icu
+- DOMAIN,hpvwdkn.cn
+- DOMAIN,hqbuoh.com
+- DOMAIN,hqdlhgx.cn
+- DOMAIN,hqgearb.icu
+- DOMAIN,hqnpwzu.cn
+- DOMAIN,hqzcths.cn
+- DOMAIN,hrngmf.com
+- DOMAIN,hsadeg.site
+- DOMAIN,hsdawz.com
+- DOMAIN,hsfbpp.xyz
+- DOMAIN,hslbahu.top
+- DOMAIN,hsrgnac.cn
+- DOMAIN,hssapp.shop
+- DOMAIN,hstbrt.xyz
+- DOMAIN,hswfj.cn
+- DOMAIN,hsyfcenter.com
+- DOMAIN,hthivr.xyz
+- DOMAIN,htienlu.top
+- DOMAIN,htjrlm.com
+- DOMAIN,htseca.top
+- DOMAIN,httpsjs.com
+- DOMAIN,htvixv.xyz
+- DOMAIN,huaweinnd.top
+- DOMAIN,huaxia.name
+- DOMAIN,hubiazhi.com
+- DOMAIN,hudiecaifu.com
+- DOMAIN,huicpu.com
+- DOMAIN,huifangwen.com
+- DOMAIN,huihuiqi.com
+- DOMAIN,huiruwei.com
+- DOMAIN,huitoukao.com
+- DOMAIN,huiyelu.com
+- DOMAIN,huiyigou111.com
+- DOMAIN,huiyueting.com
+- DOMAIN,huizhoumi.com
+- DOMAIN,hujunhao.name
+- DOMAIN,hummingexam.com
+- DOMAIN,huoju.asia
+- DOMAIN,hushenqiquan.com
+- DOMAIN,hvdath.xyz
+- DOMAIN,hwfoct.icu
+- DOMAIN,hwivedn.icu
+- DOMAIN,hwnod.xyz
+- DOMAIN,hxdwsfg.cn
+- DOMAIN,hxhohd.xyz
+- DOMAIN,hxinitv.icu
+- DOMAIN,hxwxfc.cn
+- DOMAIN,hxwxffc.cn
+- DOMAIN,hy.luassane.cn
+- DOMAIN,hyeqp.xyz
+- DOMAIN,hyidlu.com
+- DOMAIN,hylmfeifei.com
+- DOMAIN,hylmxing.com
+- DOMAIN,hypwbv.xyz
+- DOMAIN,hytzp.cn
+- DOMAIN,hzhabei.cn
+- DOMAIN,hzhuang.wang
+- DOMAIN,hzrghx.xyz
+- DOMAIN,hzvcaadn.icu
+- DOMAIN,i-fk.cn
+- DOMAIN,i.cidianwang.com
+- DOMAIN,i7akpd1.xyz
+- DOMAIN,i7pnx0t.cn
+- DOMAIN,iadsdk.apple.com
+- DOMAIN,ianyshare.xyz
+- DOMAIN,ibozys.cn
+- DOMAIN,ibqkjbw.com
+- DOMAIN,ibwqfpo.xyz
+- DOMAIN,iciclle.com
+- DOMAIN,idawziv.cn
+- DOMAIN,idc9pk.com
+- DOMAIN,identify.hotjar.com
+- DOMAIN,idubwz.cn
+- DOMAIN,idynbff.cn
+- DOMAIN,ieeod0.com
+- DOMAIN,iemwbu.cn
+- DOMAIN,ifdvlh.cn
+- DOMAIN,ifewo.xyz
+- DOMAIN,ifsdg.xyz
+- DOMAIN,igame2steam.com
+- DOMAIN,igetnaughty.com
+- DOMAIN,igscn.com
+- DOMAIN,ihclam.cn
+- DOMAIN,ihtqqws.cn
+- DOMAIN,ihwdun.xyz
+- DOMAIN,ii.joqtfa.cn
+- DOMAIN,iifyeldo.top
+- DOMAIN,ijfksdwe.xyz
+- DOMAIN,ijgbuj.xyz
+- DOMAIN,ijgocb.cn
+- DOMAIN,ijkmafsf.xyz
+- DOMAIN,ikjwmfeds.xyz
+- DOMAIN,iklda.cn
+- DOMAIN,iknwqdpo.xyz
+- DOMAIN,ikunikun.xyz
+- DOMAIN,ilade.xyz
+- DOMAIN,ildopxge.com
+- DOMAIN,ilyf4amifh.com
+- DOMAIN,image.yafytg.cn
+- DOMAIN,images.kxuexue.com
+- DOMAIN,img.91p51.com
+- DOMAIN,img.ckcgsy.cn
+- DOMAIN,img.dubyc.com
+- DOMAIN,img.eqbyc.com
+- DOMAIN,img.ishanggao.com
+- DOMAIN,img.starpc.cn
+- DOMAIN,img.vue-js.cyou
+- DOMAIN,img2.qqwangming6.com
+- DOMAIN,imgcacaca.vip
+- DOMAIN,imgwdyey.com
+- DOMAIN,imp.zol.com.cn
+- DOMAIN,in-page-push.com
+- DOMAIN,inkuae.com
+- DOMAIN,inowe.xyz
+- DOMAIN,inpage-push.com
+- DOMAIN,insights.hotjar.com
+- DOMAIN,intimidatepropel.com
+- DOMAIN,ioiksw.cn
+- DOMAIN,iojnask.com
+- DOMAIN,ionksfefe.xyz
+- DOMAIN,iosppk.com
+- DOMAIN,iot-eu-logser.realme.com
+- DOMAIN,iot-logser.realme.com
+- DOMAIN,ip.tianqiapi.com
+- DOMAIN,ip.ws.126.net
+- DOMAIN,ip1398.com
+- DOMAIN,ipadf.xyz
+- DOMAIN,ipc08dt.com
+- DOMAIN,iplm.cc
+- DOMAIN,ipqc5ejfe.icu
+- DOMAIN,iqede.xyz
+- DOMAIN,iqgoukn.cn
+- DOMAIN,iruacwa.xyz
+- DOMAIN,isancio.top
+- DOMAIN,isdfbvkvsc.xyz
+- DOMAIN,islbaho.top
+- DOMAIN,iswgnn.com
+- DOMAIN,iszbxqps.com
+- DOMAIN,itheatmoran.com
+- DOMAIN,itienlo.top
+- DOMAIN,itpest.cn
+- DOMAIN,itxinrou.com
+- DOMAIN,ityangstudy.cn
+- DOMAIN,iufjkdjmsm.xyz
+- DOMAIN,iuu3j.xyz
+- DOMAIN,iuuiugbjd.xyz
+- DOMAIN,iuwkmpol.net
+- DOMAIN,ivqtrjt.cn
+- DOMAIN,ivzfpwm.cn
+- DOMAIN,iweiweb.com
+- DOMAIN,ixelrsd.cn
+- DOMAIN,ixjtpbj.cn
+- DOMAIN,ixnrmco.com
+- DOMAIN,iytrn.xyz
+- DOMAIN,j.dailiqing.net
+- DOMAIN,j.guanjiabo.net
+- DOMAIN,j.zlszw.com
+- DOMAIN,j6zh4g0.cn
+- DOMAIN,j7ifivzy.icu
+- DOMAIN,ja.yushuha.com
+- DOMAIN,jacksonyee.club
+- DOMAIN,jads.co
+- DOMAIN,jakid.xyz
+- DOMAIN,jakisity.top
+- DOMAIN,janwzsqi.icu
+- DOMAIN,jaowd.xyz
+- DOMAIN,jashautchord.com
+- DOMAIN,javase.top
+- DOMAIN,jayhou.top
+- DOMAIN,jbazhaheia.top
+- DOMAIN,jbhhxd.xyz
+- DOMAIN,jcde.site
+- DOMAIN,jched3.com
+- DOMAIN,jcheys.com
+- DOMAIN,jciske.top
+- DOMAIN,jciwztfj.com
+- DOMAIN,jcjzikj.xyz
+- DOMAIN,jcpecb.com
+- DOMAIN,jd2ujc.cn
+- DOMAIN,jd5c.top
+- DOMAIN,jdcnwd.com
+- DOMAIN,jdh74bf.com
+- DOMAIN,jdnlynb.cn
+- DOMAIN,jdpm.net.cn
+- DOMAIN,jessicarace.com
+- DOMAIN,jf2v.mnpool.cn
+- DOMAIN,jfnkjr.xyz
+- DOMAIN,jfsdiwmnbsk009.top
+- DOMAIN,jghklz.xyz
+- DOMAIN,jgsajfggv.xyz
+- DOMAIN,jh16csf.com
+- DOMAIN,jhkggrr.icu
+- DOMAIN,jhlazsot.icu
+- DOMAIN,jhvchv.xyz
+- DOMAIN,jhzfwl.cn
+- DOMAIN,jianchajingmk.net
+- DOMAIN,jianxinshanghai.com
+- DOMAIN,jianyihang.com
+- DOMAIN,jieshimaya.xyz
+- DOMAIN,jiezoiq.cn
+- DOMAIN,jifyelda.top
+- DOMAIN,jinbao888.com
+- DOMAIN,jinhaitun888.xyz
+- DOMAIN,jiqgsh.com
+- DOMAIN,jisukuaisong.cn
+- DOMAIN,jisz9e.cn
+- DOMAIN,jiumai88.com
+- DOMAIN,jiuyuntian3.cn
+- DOMAIN,jixmlx.xyz
+- DOMAIN,jjade.xyz
+- DOMAIN,jjdk33.com
+- DOMAIN,jjjak.com
+- DOMAIN,jjjcyjj.cn
+- DOMAIN,jjkiahh.icu
+- DOMAIN,jjklrcw.com
+- DOMAIN,jjztrz.xyz
+- DOMAIN,jklhs7u.com
+- DOMAIN,jknnjk.com
+- DOMAIN,jknrwe.cn
+- DOMAIN,jkzbjv.xyz
+- DOMAIN,jljftl.xyz
+- DOMAIN,jmbluyxkl.xyz
+- DOMAIN,jmr.nnxiant.cn
+- DOMAIN,jnhgm.com
+- DOMAIN,jnmascx.xyz
+- DOMAIN,jnp0kmm.icu
+- DOMAIN,jntmwrm.com
+- DOMAIN,jnwpzq.com
+- DOMAIN,jnyayk.xyz
+- DOMAIN,joannarace.com
+- DOMAIN,jocelynrace.com
+- DOMAIN,jochenanabata.guru
+- DOMAIN,joiwnq2.cn
+- DOMAIN,jojog.com
+- DOMAIN,jokerlulm.com
+- DOMAIN,jollytestpartying.com
+- DOMAIN,jomwihn.cn
+- DOMAIN,jothvz.xyz
+- DOMAIN,jpayu6di.icu
+- DOMAIN,jpqed.xyz
+- DOMAIN,jpush0b.xyz
+- DOMAIN,jpvrbt.xyz
+- DOMAIN,jqkcett.icu
+- DOMAIN,jrds.net.cn
+- DOMAIN,jrltdiu.cn
+- DOMAIN,jrmrijv.icu
+- DOMAIN,js.*2023*.live
+- DOMAIN,js.*2023*.xyz
+- DOMAIN,js.363lm.com
+- DOMAIN,js.bbdsdy.com
+- DOMAIN,js.kalvinbg.cn
+- DOMAIN,js.keeyekey.xyz
+- DOMAIN,js.loveshop8.com
+- DOMAIN,js.moeamv.com
+- DOMAIN,js.whfyhouse.com
+- DOMAIN,js.ysfzf.cn
+- DOMAIN,js6.efyt6.com
+- DOMAIN,jsczde.cn
+- DOMAIN,jsdocker.com
+- DOMAIN,jsebmcv.cn
+- DOMAIN,jsgdvkjz.com
+- DOMAIN,jslbaha.top
+- DOMAIN,jsm.godloveme.cn
+- DOMAIN,jsmxkj.com
+- DOMAIN,jsnoownma.fun
+- DOMAIN,jssav4hk.xyz
+- DOMAIN,jssav6hk.club
+- DOMAIN,jsyunmy.com
+- DOMAIN,jszavs1.com
+- DOMAIN,jszctech.com
+- DOMAIN,jtbunh.xyz
+- DOMAIN,jtienla.top
+- DOMAIN,jtjh.tw
+- DOMAIN,jtpu9s.icu
+- DOMAIN,juicyads.com
+- DOMAIN,jujcjz.xyz
+- DOMAIN,junshi8181.com
+- DOMAIN,just-machinery.com
+- DOMAIN,jutwzssh.icu
+- DOMAIN,jv0rlf.com
+- DOMAIN,jvjlkih.com
+- DOMAIN,jvljnb.xyz
+- DOMAIN,jvpyxve.cn
+- DOMAIN,jwddpvu.cn
+- DOMAIN,jweoe.xyz
+- DOMAIN,jwylcrb.cn
+- DOMAIN,jxbtl.com
+- DOMAIN,jxcrnwc.xyz
+- DOMAIN,jxgd1688.com
+- DOMAIN,jxmiyrh.icu
+- DOMAIN,jxtejf.xyz
+- DOMAIN,jy8izgie.xyz
+- DOMAIN,jygiizv.icu
+- DOMAIN,jyhlo0.com
+- DOMAIN,jynthelon.com
+- DOMAIN,jyt58.top
+- DOMAIN,jytjw.com
+- DOMAIN,jyvith.xyz
+- DOMAIN,jzdgn.cn
+- DOMAIN,jzdwl4.cn
+- DOMAIN,jzixypd.icu
+- DOMAIN,jzjxmj.com
+- DOMAIN,jzxpxj.xyz
+- DOMAIN,k16e9b.com
+- DOMAIN,k2.dancihu.com
+- DOMAIN,k31bpzf.xyz
+- DOMAIN,k42kw.top
+- DOMAIN,k5ggua.xyz
+- DOMAIN,k7f67a6s7.xyz
+- DOMAIN,k9w4m.xyz
+- DOMAIN,kagdf.com
+- DOMAIN,kahgjjd.com
+- DOMAIN,kaiguangdou.com
+- DOMAIN,kanwby.com
+- DOMAIN,kart2ks.icu
+- DOMAIN,kasdwergv.com
+- DOMAIN,kasiklz.cc
+- DOMAIN,katelin.top
+- DOMAIN,kazigua.top
+- DOMAIN,kb5ke.xyz
+- DOMAIN,kb8ixcm.cn
+- DOMAIN,kbae.qiqqh.cn
+- DOMAIN,kbneks00.online
+- DOMAIN,kc-valves.com
+- DOMAIN,kcnwe.xyz
+- DOMAIN,kdcl.pchome.com.tw
+- DOMAIN,kdcxhr.cn
+- DOMAIN,kdqnaec.cn
+- DOMAIN,kdvmnn.com
+- DOMAIN,kebi1.top
+- DOMAIN,kehbcv.top
+- DOMAIN,kekop.cn
+- DOMAIN,ken.kenxq.com
+- DOMAIN,kengi.top
+- DOMAIN,kfejnjs.cn
+- DOMAIN,kfyg.xyz
+- DOMAIN,kgeesh.site
+- DOMAIN,kgelugaz.com
+- DOMAIN,kgeshe.site
+- DOMAIN,kgfjrb711.com
+- DOMAIN,khgjfm16.com
+- DOMAIN,kifyeldd.top
+- DOMAIN,kinhincauking.website
+- DOMAIN,kinleung.cn
+- DOMAIN,kissfang.cn
+- DOMAIN,kivo.fun
+- DOMAIN,kjanfwss.xyz
+- DOMAIN,kjggk1.xyz
+- DOMAIN,kjuwxmi.xyz
+- DOMAIN,kjvaqbyebqarl.top
+- DOMAIN,kklpe.xyz
+- DOMAIN,kkmbbvz.xyz
+- DOMAIN,kkpgv2.xunlei.com
+- DOMAIN,kkylx.xyz
+- DOMAIN,kl.yditweb.cn
+- DOMAIN,kl91ccp.com
+- DOMAIN,klbvqqqj.com
+- DOMAIN,kljslku.com
+- DOMAIN,klufjdo.com
+- DOMAIN,kmbopoie.com
+- DOMAIN,kmgfjc.cn
+- DOMAIN,kmhmyaj.cn
+- DOMAIN,kmhnk00.com
+- DOMAIN,kmihknj.cn
+- DOMAIN,kminker.xyz
+- DOMAIN,kmjndas.com
+- DOMAIN,kmn1sk.com
+- DOMAIN,kmnhbr.xyz
+- DOMAIN,kmnhgna.com
+- DOMAIN,kmpl.rnqxp.cn
+- DOMAIN,kmpxq.cn
+- DOMAIN,kmr.enrosr.cn
+- DOMAIN,kmyiubbv.xyz
+- DOMAIN,kmzayrt.cn
+- DOMAIN,knbtpty.xyz
+- DOMAIN,knjcsonpo.com
+- DOMAIN,knjmhmk.com
+- DOMAIN,knliylh.cn
+- DOMAIN,knlk2md.cn
+- DOMAIN,knmwrkw.xyz
+- DOMAIN,ko2v.eiya.net
+- DOMAIN,kodfn.xyz
+- DOMAIN,koljnda.com
+- DOMAIN,kopde.xyz
+- DOMAIN,koudaikeji.info
+- DOMAIN,kowqd1.top
+- DOMAIN,kowqd5.top
+- DOMAIN,kowqd7.top
+- DOMAIN,kqubxdb.cn
+- DOMAIN,kr.sdykcloud.cn
+- DOMAIN,krr894.top
+- DOMAIN,krw.yrehdfer.com
+- DOMAIN,ks66666661.com
+- DOMAIN,ksadrewrty.com
+- DOMAIN,kscly.com
+- DOMAIN,ksdayhtj.shop
+- DOMAIN,ksdayhtl.xyz
+- DOMAIN,kshuiz.top
+- DOMAIN,kslbahd.top
+- DOMAIN,ksqfwxu.cn
+- DOMAIN,kstj.baidu.com
+- DOMAIN,kszvmqo.cn
+- DOMAIN,kszxqq.com
+- DOMAIN,ktdlsb.com
+- DOMAIN,ktienld.top
+- DOMAIN,kuanxin.top
+- DOMAIN,kunzhang.name
+- DOMAIN,kuxkddg.cn
+- DOMAIN,kv8899.com
+- DOMAIN,kvsqa.xyz
+- DOMAIN,kwcmrfb.cn
+- DOMAIN,kwdgudw.cn
+- DOMAIN,kwo-0115.cc
+- DOMAIN,kxcp365.com
+- DOMAIN,kxm1b0u.com
+- DOMAIN,kydb.xyz
+- DOMAIN,kyplpw.com
+- DOMAIN,kyq3hky.icu
+- DOMAIN,kyq3xch.icu
+- DOMAIN,kytesconge.com
+- DOMAIN,kyxw9itc.xyz
+- DOMAIN,kyxw9itv.club
+- DOMAIN,kyzx.xyZ
+- DOMAIN,kzchyhr.cn
+- DOMAIN,kzgmpu.com
+- DOMAIN,kzjkexn.cn
+- DOMAIN,kzuxlydg.icu
+- DOMAIN,l.glrcy.cn
+- DOMAIN,l.ykimg.com
+- DOMAIN,l23jhjfasd.xyz
+- DOMAIN,l3r6p0d5.com
+- DOMAIN,l4efwdtg.icu
+- DOMAIN,laawmmy.cn
+- DOMAIN,laink.xyz
+- DOMAIN,laipeitu.com
+- DOMAIN,lakefish.xyz
+- DOMAIN,lakjdskls.zhdchb.com
+- DOMAIN,lalaping.com
+- DOMAIN,laljjn.xyz
+- DOMAIN,lamkghx.icu
+- DOMAIN,lanmeifeel.xyz
+- DOMAIN,lanmeiyu.work
+- DOMAIN,lanver.fun
+- DOMAIN,larbcc.xyz
+- DOMAIN,launchingonsetwhirlwind.com
+- DOMAIN,lbnqnp.xyz
+- DOMAIN,lbprjdi.cn
+- DOMAIN,lccfjszp.cn
+- DOMAIN,ldjhlqr.cn
+- DOMAIN,ldxinb.xyz
+- DOMAIN,leadc4.icu
+- DOMAIN,leadc6.icu
+- DOMAIN,leadc7.icu
+- DOMAIN,ledaren.cn
+- DOMAIN,ledni.xyz
+- DOMAIN,legdeh.fun
+- DOMAIN,legopq.site
+- DOMAIN,leirsw.com
+- DOMAIN,lekkrrlel.com
+- DOMAIN,lendc.xyz
+- DOMAIN,lestv1.icu
+- DOMAIN,lestv10.icu
+- DOMAIN,lestv7.icu
+- DOMAIN,lezbrja.cn
+- DOMAIN,lfjtiuy.cn
+- DOMAIN,lflmdm.com
+- DOMAIN,lfzk2cp.icu
+- DOMAIN,lganilgll.cyou
+- DOMAIN,lgecqrb.com
+- DOMAIN,lgjygg.com
+- DOMAIN,lgoewtd.icu
+- DOMAIN,lgohse.fun
+- DOMAIN,lgoseh.fun
+- DOMAIN,lguaud.icu
+- DOMAIN,lgygy.cn
+- DOMAIN,lhdlbp.xyz
+- DOMAIN,lhgwcvw.cn
+- DOMAIN,lhiefl.com
+- DOMAIN,lhippac.cn
+- DOMAIN,lhotajl.icu
+- DOMAIN,lhy1.xyz
+- DOMAIN,lianmeng.xgxhy.com
+- DOMAIN,liates.top
+- DOMAIN,lichunxiao.cn
+- DOMAIN,liebaovip.com
+- DOMAIN,lifyeldl.top
+- DOMAIN,lihong.ltd
+- DOMAIN,liitwrz.icu
+- DOMAIN,lijie.in
+- DOMAIN,lijunkai.com
+- DOMAIN,likdie.com
+- DOMAIN,lingcde.cn
+- DOMAIN,lingke05.top
+- DOMAIN,lingsiqiwu.com
+- DOMAIN,lingting.xin
+- DOMAIN,link.jzzxapp.cn
+- DOMAIN,linuozhiyao.xyz
+- DOMAIN,linyongming.top
+- DOMAIN,lishuaibin.cn
+- DOMAIN,littlecdn.com
+- DOMAIN,liugaohao.com
+- DOMAIN,liuyimin5.cn
+- DOMAIN,liwed.xyz
+- DOMAIN,lixianghaodian.com
+- DOMAIN,lixiaodongcy.com
+- DOMAIN,lizehuandian.top
+- DOMAIN,ljarfvg.cn
+- DOMAIN,lkancklanklcav.com
+- DOMAIN,lkmhn.com
+- DOMAIN,lknhrnd.com
+- DOMAIN,lknlkndasda.top
+- DOMAIN,lknnbd.xyz
+- DOMAIN,lkpmprksau.com
+- DOMAIN,llaxl.com
+- DOMAIN,llpuhx.xyz
+- DOMAIN,lm22.top
+- DOMAIN,lm335.com
+- DOMAIN,lm336.com
+- DOMAIN,lm343.com
+- DOMAIN,lm553.com
+- DOMAIN,lm663.com
+- DOMAIN,lm665.com
+- DOMAIN,lm811.com
+- DOMAIN,lm832.com
+- DOMAIN,lm865.com
+- DOMAIN,lm882.com
+- DOMAIN,lm995.com
+- DOMAIN,lmnpd.xyz
+- DOMAIN,lmx7.com
+- DOMAIN,lmxxxz.com
+- DOMAIN,lnaevr.fun
+- DOMAIN,lnzjlr.xyz
+- DOMAIN,log.byteoversea.com
+- DOMAIN,log.daqi.com
+- DOMAIN,log.fc.yahoo.com
+- DOMAIN,log.music.baidu.com
+- DOMAIN,log.pinterest.com
+- DOMAIN,log.vdisk.cn
+- DOMAIN,log.zongheng.com
+- DOMAIN,logbak.hicloud.com
+- DOMAIN,logservice.hicloud.com
+- DOMAIN,logservice1.hicloud.com
+- DOMAIN,loispp.com
+- DOMAIN,lokindt.com
+- DOMAIN,lokngd.com
+- DOMAIN,looedu.top
+- DOMAIN,lookxiuxiu.com
+- DOMAIN,lop.lamimi.cn
+- DOMAIN,lopqrx.xyz
+- DOMAIN,lovegg.club
+- DOMAIN,lowadec.cn
+- DOMAIN,lpasdfgwer.com
+- DOMAIN,lpeolfa.top
+- DOMAIN,lpjxzs.com
+- DOMAIN,lpmzt.cn
+- DOMAIN,lpocne.top
+- DOMAIN,lpxmall.com
+- DOMAIN,lqe3.icu
+- DOMAIN,lqjinx.xyz
+- DOMAIN,lrlsrz.xyz
+- DOMAIN,lrqpyhn.icu
+- DOMAIN,lsancil.top
+- DOMAIN,lshuaibin.cn
+- DOMAIN,lsj2.5aer.com
+- DOMAIN,lskmipb.icu
+- DOMAIN,lslbahl.top
+- DOMAIN,ltht.tech
+- DOMAIN,ltienll.top
+- DOMAIN,ltkbyfd.icu
+- DOMAIN,ltsubzgmw.xyz
+- DOMAIN,luciochen.cn
+- DOMAIN,luckyorange.com
+- DOMAIN,luogod.xyz
+- DOMAIN,luoyangjinmeii.com
+- DOMAIN,lvcha99.cc
+- DOMAIN,lvjtiaa.xyz
+- DOMAIN,lvrvdn.xyz
+- DOMAIN,lwide.xyz
+- DOMAIN,lwksxs.com
+- DOMAIN,lwlqsgr.cn
+- DOMAIN,lwzdzf.xyz
+- DOMAIN,lxbndh.xyz
+- DOMAIN,lxg8s.xyz
+- DOMAIN,lxksalary.com
+- DOMAIN,lycjsix.cn
+- DOMAIN,lyewe.xyz
+- DOMAIN,lygjgzc.com
+- DOMAIN,lyszsz.cn
+- DOMAIN,lyua.cn
+- DOMAIN,lywdoo.cn
+- DOMAIN,lzfzkedp.icu
+- DOMAIN,lzjzyjh.com
+- DOMAIN,lzljhs.com
+- DOMAIN,lzmvcrp.icu
+- DOMAIN,lzzzjx.xyz
+- DOMAIN,m.do.downcdn.top
+- DOMAIN,m.ffowo.com
+- DOMAIN,m.gz-bz.cn
+- DOMAIN,m.nereus.live
+- DOMAIN,m.pmtong.shop
+- DOMAIN,m.s.tpcdn.top
+- DOMAIN,m.slshiye.cn
+- DOMAIN,m.uscdn.top
+- DOMAIN,m.vcsoat.cn
+- DOMAIN,m.wantemachine.com.cn
+- DOMAIN,m.xylmdm.top
+- DOMAIN,m03dv.xyz
+- DOMAIN,m09mm.xyz
+- DOMAIN,m4pgay.com
+- DOMAIN,m7g2v1b9.com
+- DOMAIN,mail.kguapp.com
+- DOMAIN,maiqi.xyz
+- DOMAIN,maljxp.cn
+- DOMAIN,manage88.com
+- DOMAIN,manbag.net
+- DOMAIN,manguan.vip
+- DOMAIN,manlungkey.com
+- DOMAIN,maobujie.com
+- DOMAIN,mapsmnx.cyou
+- DOMAIN,margueritenice.com
+- DOMAIN,marjorienice.com
+- DOMAIN,maximpetus.com
+- DOMAIN,mbekgac.xyz
+- DOMAIN,mbveryu.top
+- DOMAIN,mbxsku.cn
+- DOMAIN,mbxw.xyz
+- DOMAIN,mc.muhtbnd.cn
+- DOMAIN,mcdwfed.cn
+- DOMAIN,mclseww.top
+- DOMAIN,mdhxyhl.cn
+- DOMAIN,mdkjefq.cn
+- DOMAIN,mdqhyxe.cn
+- DOMAIN,mdqpkdne.xyz
+- DOMAIN,mdt.qq.com
+- DOMAIN,mdwhxw.com
+- DOMAIN,meaqcj.cn
+- DOMAIN,meethanshi.com
+- DOMAIN,meetsourhig.biz
+- DOMAIN,meihaoxiangwang.com
+- DOMAIN,meihu56.cn
+- DOMAIN,meiweifood.xyz
+- DOMAIN,mellowmd.com
+- DOMAIN,mengbli.com
+- DOMAIN,metauniverse88.com
+- DOMAIN,metaversemolecule.com
+- DOMAIN,metaword.cn
+- DOMAIN,metrics.apple.com
+- DOMAIN,metrics.data.hicloud.com
+- DOMAIN,metrics.icloud.com
+- DOMAIN,metrics.mzstatic.com
+- DOMAIN,metrics2.data.hicloud.com
+- DOMAIN,metrika.yandex.ru
+- DOMAIN,mfe.paqpq.com
+- DOMAIN,mfoevvy.com
+- DOMAIN,mfxyqh.cn
+- DOMAIN,mg.yunchong6.cn
+- DOMAIN,mg.zgcqxjzny.cn
+- DOMAIN,mgivkqk.cn
+- DOMAIN,mh616.org
+- DOMAIN,mhslbgk.cn
+- DOMAIN,mhysbwo.xyz
+- DOMAIN,mifyeldx.top
+- DOMAIN,mikongdd.top
+- DOMAIN,mindopu.com
+- DOMAIN,mingtians.top
+- DOMAIN,misadw1.cn
+- DOMAIN,misapopait.com
+- DOMAIN,mixer.sina.cn
+- DOMAIN,miyushu.com
+- DOMAIN,mjg0310.com
+- DOMAIN,mkjnba.com
+- DOMAIN,mkjnbg.com
+- DOMAIN,mkjnha.com
+- DOMAIN,mkqdj.cn
+- DOMAIN,mlog.aipai.com
+- DOMAIN,mlstx.cn
+- DOMAIN,mlzgazz.cn
+- DOMAIN,mm28j.com
+- DOMAIN,mmead.xyz
+- DOMAIN,mmevt.icu
+- DOMAIN,mmfcezwqaz.com
+- DOMAIN,mmftdt.com
+- DOMAIN,mmgg62.com
+- DOMAIN,mmkkhhnn.cn
+- DOMAIN,mmszxc.top
+- DOMAIN,mmtnat.com
+- DOMAIN,mn123cass.xyz
+- DOMAIN,mngjrn.cn
+- DOMAIN,mnhknds.com
+- DOMAIN,mnpbxjq.cn
+- DOMAIN,mnzvtwd.cn
+- DOMAIN,mobrkbb.com
+- DOMAIN,moead.xyz
+- DOMAIN,mojoplain.com
+- DOMAIN,monsteredward.com
+- DOMAIN,moobtcnse.xyz
+- DOMAIN,moon.ibytecdn.cn
+- DOMAIN,mosangkeji.com
+- DOMAIN,mosflower.cn
+- DOMAIN,motuopj.cn
+- DOMAIN,mouseflow.com
+- DOMAIN,moxiaoqihuoguo.com
+- DOMAIN,mrgecm.xyz
+- DOMAIN,mrhboe.xyz
+- DOMAIN,mrqbuf.xyz
+- DOMAIN,mryshl.com
+- DOMAIN,msdsd2.cn
+- DOMAIN,msg.ettoday.net
+- DOMAIN,msg.iqiyi.com
+- DOMAIN,msg.video.qiyi.com
+- DOMAIN,msite.baidu.com
+- DOMAIN,mssdhde.cn
+- DOMAIN,mt4v4.com
+- DOMAIN,mtawcy.xyz
+- DOMAIN,mtienlx.top
+- DOMAIN,mu6m1.com
+- DOMAIN,muchenzhongguo.com
+- DOMAIN,mudroom.aquadisco.xyz
+- DOMAIN,muhnbc.cn
+- DOMAIN,mujkdna.xyz
+- DOMAIN,musicoholics.com
+- DOMAIN,muxing.city
+- DOMAIN,mvamnng.cn
+- DOMAIN,mvgucp.com
+- DOMAIN,mvlkvth.cn
+- DOMAIN,mwandlx.top
+- DOMAIN,mwdwepok.xyz
+- DOMAIN,mwzbp.iask.com.cn
+- DOMAIN,mxevdii.cn
+- DOMAIN,myads.cc
+- DOMAIN,myexpendd.xyz
+- DOMAIN,mykch.top
+- DOMAIN,mylmad.com
+- DOMAIN,mywb3.com
+- DOMAIN,mzqf1.com
+- DOMAIN,mzwzo.cn
+- DOMAIN,mzxvib.com
+- DOMAIN,mzya5718.xyz
+- DOMAIN,mzybirdnest.com
+- DOMAIN,n5ta9.site
+- DOMAIN,naemailom.fun
+- DOMAIN,naiep.xyz
+- DOMAIN,najnus.com
+- DOMAIN,naned.xyz
+- DOMAIN,naqiwjj.icu
+- DOMAIN,naryvz.xyz
+- DOMAIN,nawpush.com
+- DOMAIN,nbfieef.cn
+- DOMAIN,nbgsintl.com
+- DOMAIN,nbsxazr.icu
+- DOMAIN,nbtfbb.xyz
+- DOMAIN,ncgqmzm.cn
+- DOMAIN,nchxzmhr.com
+- DOMAIN,ncmxwhf.icu
+- DOMAIN,ncnfjasd.net
+- DOMAIN,ndfsl.com
+- DOMAIN,ndqcz0e.xyz
+- DOMAIN,nefbjp.xyz
+- DOMAIN,neg2zos.icu
+- DOMAIN,neghes.fun
+- DOMAIN,neihhou.com
+- DOMAIN,neiod.xyz
+- DOMAIN,nektonsrutate.com
+- DOMAIN,new.xiongzhangad.com
+- DOMAIN,new.zhuanquxian.com
+- DOMAIN,newwcrsed.com
+- DOMAIN,nezqmud.com
+- DOMAIN,nflks.cn
+- DOMAIN,nftjjw.com
+- DOMAIN,ng8f.top
+- DOMAIN,ngbthf.xyz
+- DOMAIN,nghdp.cn
+- DOMAIN,ngishc.top
+- DOMAIN,nhjkm.com
+- DOMAIN,nhjsw.cn
+- DOMAIN,nhpwwd.cn
+- DOMAIN,nhscv.cn
+- DOMAIN,nhyvhmvw.com
+- DOMAIN,niaideren.icu
+- DOMAIN,niangaoxiansheng.com
+- DOMAIN,nieae.xyz
+- DOMAIN,niebiaoyyds.com
+- DOMAIN,nifyeldc.top
+- DOMAIN,nijnqwem.xyz
+- DOMAIN,nike666.com
+- DOMAIN,nimaxrv.cn
+- DOMAIN,nimoatl.icu
+- DOMAIN,nisihu.com.cn
+- DOMAIN,nissifresh.com
+- DOMAIN,nithisp.cn
+- DOMAIN,niulai0323166.space
+- DOMAIN,njcengpianwang.cn
+- DOMAIN,njcyt.com
+- DOMAIN,njogejt.icu
+- DOMAIN,njtprv.xyz
+- DOMAIN,njupt-sacc.com
+- DOMAIN,njzyjy.cn
+- DOMAIN,nlvgxr.xyz
+- DOMAIN,nlyuuy.cn
+- DOMAIN,nmdotj.xyz
+- DOMAIN,nmetrics.samsung.com
+- DOMAIN,nmgyllh.cn
+- DOMAIN,nmkghh.com
+- DOMAIN,nmm9i.xyz
+- DOMAIN,nmrdnqn.cn
+- DOMAIN,nmssdbgmf.xyz
+- DOMAIN,nndzsw.com
+- DOMAIN,nndzsw1.com
+- DOMAIN,nnfyxd.xyz
+- DOMAIN,nnocsin.cn
+- DOMAIN,nnqwe.xyz
+- DOMAIN,nogff.top
+- DOMAIN,nohcff.xyz
+- DOMAIN,northcookie.xyz
+- DOMAIN,notes-analytics-events.apple.com
+- DOMAIN,notify.bugsnag.com
+- DOMAIN,nourcomip.fun
+- DOMAIN,npftmqv.cn
+- DOMAIN,nphqw.cn
+- DOMAIN,nqdufv.xyz
+- DOMAIN,nqoxurf.icu
+- DOMAIN,nrjzkj.cn
+- DOMAIN,nryqr.cn
+- DOMAIN,nsclick.baidu.com
+- DOMAIN,nswtojdi.icu
+- DOMAIN,ntozchv.icu
+- DOMAIN,nuannuanqi.top
+- DOMAIN,nudpqt.com
+- DOMAIN,nuheoub.cn
+- DOMAIN,nunxhv.com
+- DOMAIN,nutaku.net
+- DOMAIN,nuucmzuc.com
+- DOMAIN,nwera.xyz
+- DOMAIN,nxhwvt.xyz
+- DOMAIN,nxnjw.com
+- DOMAIN,nxxyjn.com
+- DOMAIN,nzrlx6wc.icu
+- DOMAIN,nzrovf.xyz
+- DOMAIN,nzymeedg.icu
+- DOMAIN,o.zjjrlx4.com
+- DOMAIN,o2.jyjyj.cn
+- DOMAIN,oaclrst.cn
+- DOMAIN,oaftaijo.net
+- DOMAIN,oaihiiacb.com
+- DOMAIN,oajfpqojev.net
+- DOMAIN,obertsiamw.fun
+- DOMAIN,obgbok.com
+- DOMAIN,oceanbot-steam.com
+- DOMAIN,oehhq.xyz
+- DOMAIN,oewtuho.cn
+- DOMAIN,offerwall.yandex.net
+- DOMAIN,ofooe.cn
+- DOMAIN,ofreadingand.biz
+- DOMAIN,oganilglk.cyou
+- DOMAIN,oghqvffmnt.com
+- DOMAIN,ognujxj.cn
+- DOMAIN,ohchehw.cn
+- DOMAIN,ohoyao.com
+- DOMAIN,oi9rp7.online
+- DOMAIN,oiewpw.com
+- DOMAIN,oifyeldk.top
+- DOMAIN,oijmds.com
+- DOMAIN,oiknldwlkop.com
+- DOMAIN,oikqwnm.com
+- DOMAIN,oinjkenwok.xyz
+- DOMAIN,oinlkwdsx.xyz
+- DOMAIN,oinlkwr.xyz
+- DOMAIN,oiqbdwjkl.com
+- DOMAIN,oiqwnfk.com
+- DOMAIN,oiunga.com
+- DOMAIN,oiuqwppcsdf.com
+- DOMAIN,ojbkmcsdx.xyz
+- DOMAIN,ok-11-cai.cc
+- DOMAIN,okbd2ou.icu
+- DOMAIN,okforwardt.fun
+- DOMAIN,okmhmkjnm.com
+- DOMAIN,okmhnd.com
+- DOMAIN,okmwfq.xyz
+- DOMAIN,okpoiione.com
+- DOMAIN,okqwidvnsk.net
+- DOMAIN,oldulgk.cn
+- DOMAIN,olpv.onlylady.com
+- DOMAIN,omhoa.com
+- DOMAIN,oncinu.com
+- DOMAIN,one.fsylr.com
+- DOMAIN,one.gongshu168.cn
+- DOMAIN,one6u.xyz
+- DOMAIN,oneyearonechange.com
+- DOMAIN,onkacspio.com
+- DOMAIN,oopej.xyz
+- DOMAIN,ooqwc.xyz
+- DOMAIN,ootyx24.com
+- DOMAIN,open.oneplus.net
+- DOMAIN,ophwrh.cn
+- DOMAIN,opjnbmk.com
+- DOMAIN,opnked*.xyz
+- DOMAIN,opzksyy.cn
+- DOMAIN,oq6ry.com
+- DOMAIN,oqjfekdkc.net
+- DOMAIN,oqpgq.top
+- DOMAIN,oqyiapj.cn
+- DOMAIN,orxsq.xyz
+- DOMAIN,osancik.top
+- DOMAIN,oslbahk.top
+- DOMAIN,osnignsk.xyz
+- DOMAIN,ossfile001.com
+- DOMAIN,otienlk.top
+- DOMAIN,oueia.xyz
+- DOMAIN,ougannike.com
+- DOMAIN,outbrain.com
+- DOMAIN,outoctillerytor.com
+- DOMAIN,ouyhh.xyz
+- DOMAIN,owiurjngsd.com
+- DOMAIN,owlfolk.com
+- DOMAIN,owlinggnomist.com
+- DOMAIN,owlunimmvn.com
+- DOMAIN,owrkwilxbw.com
+- DOMAIN,oxj8hcfg.xyz
+- DOMAIN,oyfnkle.cn
+- DOMAIN,oyhurln.cn
+- DOMAIN,oyxp.xyz
+- DOMAIN,oyysbc.xyz
+- DOMAIN,ozkbdxdu.icu
+- DOMAIN,p0y.cn
+- DOMAIN,p1-feedback.byteimg.com
+- DOMAIN,p11q.cn
+- DOMAIN,p26.gejulm*.com
+- DOMAIN,p2kfynrr.icu
+- DOMAIN,p52q.cn
+- DOMAIN,pagead2.googleadservices.com
+- DOMAIN,pagead2.googlesyndication.com
+- DOMAIN,pageview.kgsz.cn
+- DOMAIN,panchaxumbilic.com
+- DOMAIN,pangolin-sdk-toutiao-b.com
+- DOMAIN,pangolin-sdk-toutiao.com
+- DOMAIN,pangolin.snssdk.com
+- DOMAIN,pansclub.xyz
+- DOMAIN,paradisemall.net
+- DOMAIN,parnett55.xyz
+- DOMAIN,partnerads.ysm.yahoo.com
+- DOMAIN,payoneok.com
+- DOMAIN,pbaiyho.cn
+- DOMAIN,pbtsjh.xyz
+- DOMAIN,pchznf.xyz
+- DOMAIN,pcqsajr.icu
+- DOMAIN,pcvzpj.xyz
+- DOMAIN,pdhhmf.cn
+- DOMAIN,pdiabbi.cn
+- DOMAIN,pdjjrh.xyz
+- DOMAIN,pdrtcgfx.cn
+- DOMAIN,pdweigee.com
+- DOMAIN,pdxdxl.xyz
+- DOMAIN,pdxubxc.cn
+- DOMAIN,pejrq.xyz
+- DOMAIN,pengauto.cn
+- DOMAIN,pepnsnq.cn
+- DOMAIN,pexnjio.cn
+- DOMAIN,pfdth.cn
+- DOMAIN,pfhj89w.com
+- DOMAIN,pfiparts.com
+- DOMAIN,pfjzzl.com
+- DOMAIN,pflrv.cn
+- DOMAIN,pfqwbqs.cn
+- DOMAIN,pftdmmc.xyz
+- DOMAIN,pgght17.com
+- DOMAIN,pglstatp-toutiao.com
+- DOMAIN,phoorned.com
+- DOMAIN,phputils.wc-os.com
+- DOMAIN,piaochong.co
+- DOMAIN,piqtpbxo.icu
+- DOMAIN,pirxzl.xyz
+- DOMAIN,pixel.facebook.com
+- DOMAIN,pj3f7.xyz
+- DOMAIN,pjogndc8ixoidna.360doc.cn
+- DOMAIN,pjsbuhl.icu
+- DOMAIN,pjy55d.com
+- DOMAIN,pkjl00l.cn
+- DOMAIN,pkjmmn.icu
+- DOMAIN,playstats.v.duowan.com
+- DOMAIN,plbs9k.icu
+- DOMAIN,plmn5.com
+- DOMAIN,plnshao.xyz
+- DOMAIN,plof69.com
+- DOMAIN,pmensrl.cn
+- DOMAIN,pmvlwjy.cn
+- DOMAIN,pmxalz.xyz
+- DOMAIN,pnhp3x1.com
+- DOMAIN,pnlhnx.xyz
+- DOMAIN,pnzhpb.xyz
+- DOMAIN,poae2klya.icu
+- DOMAIN,poasotha.com
+- DOMAIN,poereawer.top
+- DOMAIN,pogwua.cn
+- DOMAIN,pohpll.xyz
+- DOMAIN,poiqknfl.com
+- DOMAIN,pojihfnkbllg.net
+- DOMAIN,pojkhufef.xyz
+- DOMAIN,polfaqgvsd.net
+- DOMAIN,polkkqm.com
+- DOMAIN,polkmerth.com
+- DOMAIN,polkmnhytgb.com
+- DOMAIN,poqiod.com
+- DOMAIN,poqjnkdsou.net
+- DOMAIN,poqwnllkm.com
+- DOMAIN,poqwua.cn
+- DOMAIN,pos.baidu.com
+- DOMAIN,postserviceuk.com
+- DOMAIN,powedw.com
+- DOMAIN,ppedp.cn
+- DOMAIN,pplnjoow.com
+- DOMAIN,ppyibei.com
+- DOMAIN,pqd.org
+- DOMAIN,pqjprom.cn
+- DOMAIN,pqomnfbg.com
+- DOMAIN,pr-bh.ybp.yahoo.com
+- DOMAIN,pr88vhg.com
+- DOMAIN,prdohgp.cn
+- DOMAIN,prelandappslab.com
+- DOMAIN,prlioxb.cn
+- DOMAIN,prodigalpromotion.com
+- DOMAIN,prokyrn.icu
+- DOMAIN,propeller-tracking.com
+- DOMAIN,providentsopport.site
+- DOMAIN,pstvvb.xyz
+- DOMAIN,ptauxofi.net
+- DOMAIN,ptfxh.com
+- DOMAIN,ptgdb.cn
+- DOMAIN,ptmabek.cn
+- DOMAIN,ptvfzv.xyz
+- DOMAIN,public.wlbaike.com
+- DOMAIN,pufhzpt.cn
+- DOMAIN,puqer.cn
+- DOMAIN,puy2.cn
+- DOMAIN,pv.cheshi.com
+- DOMAIN,pv.quw1234.icu
+- DOMAIN,pv.zhiding.cn
+- DOMAIN,pvtest.zol.com.cn
+- DOMAIN,pvymlsvo.xyz
+- DOMAIN,pyeditingpro.biz
+- DOMAIN,pygokay.cn
+- DOMAIN,pyjqhb.xyz
+- DOMAIN,pypwxvo.cn
+- DOMAIN,pzjizsyf.icu
+- DOMAIN,pzkrgcp.cn
+- DOMAIN,pzqqstb.icu
+- DOMAIN,q.baminw.com.cn
+- DOMAIN,q.f05.xyz
+- DOMAIN,q27sz.com
+- DOMAIN,qaljfiwv.com
+- DOMAIN,qasqs.com
+- DOMAIN,qawxpzm.cn
+- DOMAIN,qaxkwxpf.cn
+- DOMAIN,qbhmz3.com
+- DOMAIN,qbtd.xyz
+- DOMAIN,qcb2xeg.icu
+- DOMAIN,qcmm01.com
+- DOMAIN,qcmm05.com
+- DOMAIN,qctcu.com
+- DOMAIN,qczcxe.cn
+- DOMAIN,qdczx66.com
+- DOMAIN,qdlzj.cn
+- DOMAIN,qdp.qidian.com
+- DOMAIN,qdvideo.xyz
+- DOMAIN,qdwnlkdw.com
+- DOMAIN,qdzilh.cn
+- DOMAIN,qedvcu.com
+- DOMAIN,qexitv.com
+- DOMAIN,qezpjlp.cn
+- DOMAIN,qf1d.top
+- DOMAIN,qfcdgy.cn
+- DOMAIN,qfnoyix.cn
+- DOMAIN,qhicumg.cn
+- DOMAIN,qhjm600.com
+- DOMAIN,qhkxs.cn
+- DOMAIN,qhonzpl.cn
+- DOMAIN,qhvws.com
+- DOMAIN,qhx1h2g.com
+- DOMAIN,qhxtzwf.cn
+- DOMAIN,qiabayyds.com
+- DOMAIN,qiangquanvip.com
+- DOMAIN,qiaolianshu.com
+- DOMAIN,qichetansuo.com
+- DOMAIN,qifake.com
+- DOMAIN,qifjksdqwd.xyz
+- DOMAIN,qifyeldy.top
+- DOMAIN,qijpaih.cn
+- DOMAIN,qiudbjwhy.com
+- DOMAIN,qiyeshangpu.net
+- DOMAIN,qjekt0c.xyz
+- DOMAIN,qjwpy.com
+- DOMAIN,qjxys.cn
+- DOMAIN,qktmwiq.cn
+- DOMAIN,qmfcybwbf12.com
+- DOMAIN,qmfcybwbf16.com
+- DOMAIN,qmfcybwbf19.com
+- DOMAIN,qmfcybwbf28.com
+- DOMAIN,qnfvojfkw.xyz
+- DOMAIN,qnieo.fun
+- DOMAIN,qnipkk.xyz
+- DOMAIN,qoilbsfwqd.net
+- DOMAIN,qonkdwwf.net
+- DOMAIN,qowfknlds.net
+- DOMAIN,qpb.sohu.com
+- DOMAIN,qpb0.sohu.com
+- DOMAIN,qpb1.sohu.com
+- DOMAIN,qpoiwnelc.com
+- DOMAIN,qpztub.xyz
+- DOMAIN,qq-hls.xyz
+- DOMAIN,qqnde.xyz
+- DOMAIN,qqq123987.site
+- DOMAIN,qqqwww987.site
+- DOMAIN,qqqwww987.space
+- DOMAIN,qqzbabc20.com
+- DOMAIN,qrirud.xyz
+- DOMAIN,qrjxween.com
+- DOMAIN,qrxmgfz.cn
+- DOMAIN,qsanciy.top
+- DOMAIN,qscvli.com
+- DOMAIN,qselic.top
+- DOMAIN,qsj8fd.com
+- DOMAIN,qsjfd2.com
+- DOMAIN,qsjfd2.xyz
+- DOMAIN,qslbahy.top
+- DOMAIN,qstzar.cn
+- DOMAIN,qtd95fj.online
+- DOMAIN,qtienly.top
+- DOMAIN,qtmdzsj.cn
+- DOMAIN,quanxiaozi.com
+- DOMAIN,qubdjkqwl.com
+- DOMAIN,qucncfo.cn
+- DOMAIN,qudajie.com
+- DOMAIN,qurl.f.360.cn
+- DOMAIN,qutyan8848.com
+- DOMAIN,qvxvvjom.com
+- DOMAIN,qw2v.taoxiehui.cn
+- DOMAIN,qwcwnjk.com
+- DOMAIN,qwdbsjnql.com
+- DOMAIN,qwe0231141.bj.bcebos.com
+- DOMAIN,qweasd.vip
+- DOMAIN,qweewq2021.online
+- DOMAIN,qwer220.cn
+- DOMAIN,qwertyuadf.com
+- DOMAIN,qwrnkpow.com
+- DOMAIN,qxakzox.cn
+- DOMAIN,qxrvmu.com
+- DOMAIN,qygzbxpt.com
+- DOMAIN,qyzyd.top
+- DOMAIN,qzda.cc
+- DOMAIN,qzos9ou.xyz
+- DOMAIN,qzpbwq.com
+- DOMAIN,qzpmx.cn
+- DOMAIN,qzqd2.com
+- DOMAIN,r36ku.site
+- DOMAIN,r5dfwjtb.icu
+- DOMAIN,r6pt6kfz.com
+- DOMAIN,r75tia.cn
+- DOMAIN,rabuagc.cn
+- DOMAIN,rapsmnz.cyou
+- DOMAIN,razrzh.xyz
+- DOMAIN,rbioclv.cn
+- DOMAIN,rbodwtj.icu
+- DOMAIN,rbrbr88p.cn
+- DOMAIN,rbsodzgoy.xyz
+- DOMAIN,rc7e.top
+- DOMAIN,rcblfd.xyz
+- DOMAIN,rcqmvmq.cn
+- DOMAIN,rcqqlwb.cn
+- DOMAIN,rdbousn.cn
+- DOMAIN,rddsjx.xyz
+- DOMAIN,rdlbkvo.cn
+- DOMAIN,rdpcom.com
+- DOMAIN,rdufuxr.icu
+- DOMAIN,readme.red
+- DOMAIN,realsrv.com
+- DOMAIN,realtime-bid.com
+- DOMAIN,realwanghao.com
+- DOMAIN,recds7.icu
+- DOMAIN,redbaby.hk
+- DOMAIN,relafp.xyz
+- DOMAIN,remfebd.cn
+- DOMAIN,reminews.com
+- DOMAIN,rengbali.fun
+- DOMAIN,renhadmasandbab.info
+- DOMAIN,renzhen8.cn
+- DOMAIN,reportlog.dftoutiao.com
+- DOMAIN,restorationbowelsunflower.com
+- DOMAIN,rf.cnlongshou.com
+- DOMAIN,rfnenr.xyz
+- DOMAIN,rfnhwaj.cn
+- DOMAIN,rfto9i.icu
+- DOMAIN,rgvqddo.com
+- DOMAIN,rhesed.site
+- DOMAIN,rhinogo.cn
+- DOMAIN,rhlxm.top
+- DOMAIN,rhtc.quanminyouxi.cn
+- DOMAIN,richshredinger.com
+- DOMAIN,rifyeldz.top
+- DOMAIN,rilwzsit.icu
+- DOMAIN,rinshy17.xyz
+- DOMAIN,riqmqrd.icu
+- DOMAIN,rixgpx.xyz
+- DOMAIN,rizihao.top
+- DOMAIN,rjzqtz.xyz
+- DOMAIN,rksnqq.com
+- DOMAIN,rkzby.cn
+- DOMAIN,rljjt.cn
+- DOMAIN,rlogs.youdao.com
+- DOMAIN,rlqoyht.icu
+- DOMAIN,rmws8.com
+- DOMAIN,rmzbfum.cn
+- DOMAIN,rndhaunteran.com
+- DOMAIN,rnhqxh.com
+- DOMAIN,ronbbf.xyz
+- DOMAIN,rongedui.com
+- DOMAIN,ror12.cc
+- DOMAIN,rou3.xyz
+- DOMAIN,rpahyhn.cn
+- DOMAIN,rpkcqtf.cn
+- DOMAIN,rppihz.xyz
+- DOMAIN,rpyor0k.xyz
+- DOMAIN,rqxtbr.xyz
+- DOMAIN,rr.tracker.mobiletracking.ru
+- DOMAIN,rrgapzw.cn
+- DOMAIN,rrxddl.xyz
+- DOMAIN,rsanciz.top
+- DOMAIN,rsinnxoe.com
+- DOMAIN,rssxsjh.icu
+- DOMAIN,rsvqlz.cn
+- DOMAIN,rszkhn.xyz
+- DOMAIN,rtborp.xyz
+- DOMAIN,rte.fuoo1.top
+- DOMAIN,rtjmln.xyz
+- DOMAIN,rtmark.net
+- DOMAIN,rtsdfw44.com
+- DOMAIN,rtumdhdk.xyz
+- DOMAIN,rtumwzp.icu
+- DOMAIN,ruanjiancms.com
+- DOMAIN,rui61.cn
+- DOMAIN,rulwph.xyz
+- DOMAIN,run-syndicate.com
+- DOMAIN,runative-syndicate.com
+- DOMAIN,runn.fun
+- DOMAIN,runningman.site
+- DOMAIN,rusticaula.com
+- DOMAIN,rvbztg.cn
+- DOMAIN,rvlgrb.xyz
+- DOMAIN,rvyjbwr.cn
+- DOMAIN,rvzlobj.cn
+- DOMAIN,rxlidz.ink
+- DOMAIN,rxyggrq.cn
+- DOMAIN,rywnvzd.cn
+- DOMAIN,rzkptd.com
+- DOMAIN,rznscya.cn
+- DOMAIN,rzsgxmm.cn
+- DOMAIN,s.btime.com
+- DOMAIN,s.ufile.cc
+- DOMAIN,s.union.360.cn
+- DOMAIN,s1.ssl.qhres.com
+- DOMAIN,s2dcm.com
+- DOMAIN,s3t3d2y8.afcdn.net
+- DOMAIN,s4te24u.com
+- DOMAIN,s4zqj3m.cn
+- DOMAIN,s65m.win
+- DOMAIN,s6in.cc
+- DOMAIN,sa8zdui.com
+- DOMAIN,saccac11.com
+- DOMAIN,sacfasv.com
+- DOMAIN,sacre.cn
+- DOMAIN,sacredperpetratorbasketball.com
+- DOMAIN,saitef.cn
+- DOMAIN,samsung-com.112.2o7.net
+- DOMAIN,samsungads.com
+- DOMAIN,sange20221226.xyz
+- DOMAIN,sanme2.taisantech.com
+- DOMAIN,saviourketonic.com
+- DOMAIN,sb4you1.com
+- DOMAIN,sb6k.top
+- DOMAIN,sbcjahdc.com
+- DOMAIN,sbdebcz.cn
+- DOMAIN,sbeaje.com
+- DOMAIN,sbldw.cn
+- DOMAIN,sc-gov-cn.website
+- DOMAIN,scannapp.xyz
+- DOMAIN,schain.group
+- DOMAIN,schedfi.com
+- DOMAIN,sciillr.cn
+- DOMAIN,scjpqut.cn
+- DOMAIN,scrvw3.com
+- DOMAIN,sd.yhzzzs*.com
+- DOMAIN,sd01you.com
+- DOMAIN,sd6hon.cn
+- DOMAIN,sdchb2.com
+- DOMAIN,sdfgbuy.com
+- DOMAIN,sdfyiu.com
+- DOMAIN,sdhjueue.com
+- DOMAIN,sdhuawen.cn
+- DOMAIN,sdk.sipujia.cn
+- DOMAIN,sdkconfig.ad.intl.xiaomi.com
+- DOMAIN,sdkdfjksl.com
+- DOMAIN,sdqoi2d.com
+- DOMAIN,sdvfvgj.cn
+- DOMAIN,sdzhongke.cn
+- DOMAIN,securitymobile.club
+- DOMAIN,selornews.com
+- DOMAIN,sensifyfugged.com
+- DOMAIN,senxiaopang.top
+- DOMAIN,seordl.cn
+- DOMAIN,sessions.bugsnag.com
+- DOMAIN,settings.luckyorange.net
+- DOMAIN,sfbixfd.cn
+- DOMAIN,sfg11rr.com
+- DOMAIN,sgegie.fun
+- DOMAIN,sgeth7.icu
+- DOMAIN,sglyd.cn
+- DOMAIN,sh-qiruizx.com
+- DOMAIN,shanjewelry.com
+- DOMAIN,shanxicloud.net
+- DOMAIN,shareman.xyz
+- DOMAIN,shbdyx.com
+- DOMAIN,sheeroop.com
+- DOMAIN,shenfagg.com
+- DOMAIN,shenfire.cn
+- DOMAIN,shengminsy.com
+- DOMAIN,shenhl.top
+- DOMAIN,shenlinlive.cn
+- DOMAIN,shentongjiakao.ren
+- DOMAIN,shigl.top
+- DOMAIN,shijixinrui.cn
+- DOMAIN,shixiong.xyz
+- DOMAIN,shjha.top
+- DOMAIN,shoagooy.net
+- DOMAIN,shop.yipanhaocai.com
+- DOMAIN,shouzhi.biz
+- DOMAIN,show.aklm.cc
+- DOMAIN,show.meituangov.cn
+- DOMAIN,show.pinyoux.com
+- DOMAIN,show.worldcrm.cn
+- DOMAIN,shproud.com
+- DOMAIN,shtatuo.cn
+- DOMAIN,shufapeixun.shop
+- DOMAIN,shulsbs.cn
+- DOMAIN,shunlianhudong.com
+- DOMAIN,shuyu2001.cn
+- DOMAIN,sifa.aak7.cn
+- DOMAIN,sifyeldb.top
+- DOMAIN,simblotusitate.com
+- DOMAIN,simi1234.com
+- DOMAIN,simi2345.com
+- DOMAIN,similm.xyz
+- DOMAIN,simiyue2.com
+- DOMAIN,simplewebanalysis.com
+- DOMAIN,siwei.pub
+- DOMAIN,sixiuwl.cn
+- DOMAIN,siz3wxt8p.shop
+- DOMAIN,sjbgyak.cn
+- DOMAIN,sjdfuvz.cn
+- DOMAIN,sjoy7rq.cn
+- DOMAIN,skfj5d.com
+- DOMAIN,skfjd1.xyz
+- DOMAIN,skfqxkk.cn
+- DOMAIN,skidfqh.xyz
+- DOMAIN,skluff.com
+- DOMAIN,skogsborg.net
+- DOMAIN,skxuueby.cn
+- DOMAIN,sky.tongjiai.com
+- DOMAIN,slfango.ltd
+- DOMAIN,slonlyuse.shop
+- DOMAIN,slsuggestion.live
+- DOMAIN,slutcmail.com
+- DOMAIN,sm2kz.net
+- DOMAIN,smabye.com
+- DOMAIN,smartmail.cyou
+- DOMAIN,smartmuchang.com
+- DOMAIN,smartnextusa.com
+- DOMAIN,smetrics.samsung.com
+- DOMAIN,smfjfgie.xyz
+- DOMAIN,smtwm61.com
+- DOMAIN,so.clzgd.com
+- DOMAIN,sobakenchmaphk.com
+- DOMAIN,sogo.uc.continuefaf.top
+- DOMAIN,solaron.top
+- DOMAIN,somaliainc.com
+- DOMAIN,somewhate.club
+- DOMAIN,soulsoul.xyz
+- DOMAIN,sportsdream.top
+- DOMAIN,spplamt.xyz
+- DOMAIN,sq59.cn
+- DOMAIN,srbzw.cn
+- DOMAIN,srmdz.vip
+- DOMAIN,ssacher.com
+- DOMAIN,ssancib.top
+- DOMAIN,ssdfgq7.com
+- DOMAIN,ssdtour.com
+- DOMAIN,ssh.q4hwkg.cn
+- DOMAIN,ssjiancai.com
+- DOMAIN,ssjuxsc.cn
+- DOMAIN,ssjy.shop
+- DOMAIN,ssl.linyiccic.com
+- DOMAIN,sslbahb.top
+- DOMAIN,ssnnn.net
+- DOMAIN,ssqyuvavse.com
+- DOMAIN,sssxwsry.com
+- DOMAIN,stadig.ifeng.com
+- DOMAIN,starttui.xyz
+- DOMAIN,stat.cnmo.com
+- DOMAIN,stat.download.xunlei.com
+- DOMAIN,stat.ea3w.com
+- DOMAIN,stat.game.yy.com
+- DOMAIN,stat.hebnews.cn
+- DOMAIN,stat.house365.com
+- DOMAIN,stat.ijinshan.com
+- DOMAIN,stat.img-space.com
+- DOMAIN,stat.jc001.cn
+- DOMAIN,stat.pchome.net
+- DOMAIN,stat.timedg.com
+- DOMAIN,stat.v.17173.com
+- DOMAIN,stat.xgo.com.cn
+- DOMAIN,static.ads-twitter.com
+- DOMAIN,static.cdnativepush.com
+- DOMAIN,static.gridsumdissector.com
+- DOMAIN,static.ptoahaistais.com
+- DOMAIN,statics.woozooo.com
+- DOMAIN,statics88.vip
+- DOMAIN,statis1.mama.cn
+- DOMAIN,stats.v.duowan.com
+- DOMAIN,stats.wp.com
+- DOMAIN,stgowan.com
+- DOMAIN,stienlb.top
+- DOMAIN,stmzzs.com
+- DOMAIN,stricaik.com
+- DOMAIN,studylabs.cn
+- DOMAIN,stunthedge.com
+- DOMAIN,sun66387567606.online
+- DOMAIN,sun66387567606.site
+- DOMAIN,sunriseoutdoor.cn
+- DOMAIN,surface361.com
+- DOMAIN,surperverse.com
+- DOMAIN,surveys.hotjar.com
+- DOMAIN,suy5x8.com
+- DOMAIN,svarub.xyz
+- DOMAIN,svdpgmt.cn
+- DOMAIN,svvbrkk.cn
+- DOMAIN,svvev3.com
+- DOMAIN,sw9t.ml
+- DOMAIN,swwwxww.oss-cn-hangzhou.aliyuncs.com
+- DOMAIN,sxguowei.com
+- DOMAIN,sxk9m8x.cn
+- DOMAIN,sxundrh.cn
+- DOMAIN,sybnzs.cn
+- DOMAIN,sycrgc.xyz
+- DOMAIN,sydz.tw
+- DOMAIN,sygmtz.com
+- DOMAIN,syr66.com.cn
+- DOMAIN,sytclsb.cyou
+- DOMAIN,szafvjdd.icu
+- DOMAIN,szdaqi88.com
+- DOMAIN,szfhl99.com
+- DOMAIN,szhszxfw.cn
+- DOMAIN,szipkp.com
+- DOMAIN,t.atomicfile.cn
+- DOMAIN,t0pan.top
+- DOMAIN,t1tgame.com
+- DOMAIN,t23o.cn
+- DOMAIN,t28goe.cn
+- DOMAIN,t2zfyxjj.icu
+- DOMAIN,t33ng.com
+- DOMAIN,t7x22m7c.com
+- DOMAIN,tahltanboutell.com
+- DOMAIN,tainec.fun
+- DOMAIN,taiqingjiu.com
+- DOMAIN,tangk.top
+- DOMAIN,taoyao.tech
+- DOMAIN,tarqk5.com
+- DOMAIN,tbcgumkadc.xyz
+- DOMAIN,tc6tc.com
+- DOMAIN,tchkcc.cn
+- DOMAIN,tci.oss-ap-southeast-1.aliyuncs.com
+- DOMAIN,tcsgcdn.top
+- DOMAIN,tcuqqhj.icu
+- DOMAIN,tdavopl.icu
+- DOMAIN,tdigcw.com
+- DOMAIN,techspecndt.com
+- DOMAIN,teddync.net
+- DOMAIN,tencent.xn--io0a7i
+- DOMAIN,tepusi888.cn
+- DOMAIN,termvb.xyz
+- DOMAIN,tetiao9.com
+- DOMAIN,teusyxz.icu
+- DOMAIN,tfbulkidn.com
+- DOMAIN,tfdmzsgy.icu
+- DOMAIN,tfexcludes.shop
+- DOMAIN,tfgotoai.shop
+- DOMAIN,tfonlyuse.shop
+- DOMAIN,tfsuggestion.live
+- DOMAIN,tftran.shop
+- DOMAIN,tfttbd.xyz
+- DOMAIN,tfutcmail.com
+- DOMAIN,tfzozf.xyz
+- DOMAIN,tg.loclog.cn
+- DOMAIN,tgbevv.xyz
+- DOMAIN,tgcfmh.com
+- DOMAIN,tgdopodk.com
+- DOMAIN,tgfyq.cn
+- DOMAIN,tggsd07.com
+- DOMAIN,tgymhwt.cn
+- DOMAIN,thallus.net
+- DOMAIN,thcaes.top
+- DOMAIN,thdidx.xyz
+- DOMAIN,thefatherofsalmon.com
+- DOMAIN,thesac2.top
+- DOMAIN,thesac3.top
+- DOMAIN,thesac4.top
+- DOMAIN,thesac5.top
+- DOMAIN,thesac7.top
+- DOMAIN,thesac8.top
+- DOMAIN,thesac9.top
+- DOMAIN,thewindrun.com
+- DOMAIN,thezbpe5*.xyz
+- DOMAIN,thinkmd.cn
+- DOMAIN,thvx9i.icu
+- DOMAIN,tiandesign.top
+- DOMAIN,tianyuewangluo.top
+- DOMAIN,tifyeldi.top
+- DOMAIN,tikimg.cc
+- DOMAIN,tisszhb.cn
+- DOMAIN,tj-cyhg.com
+- DOMAIN,tj-yijiajing.com
+- DOMAIN,tj.21ic.com
+- DOMAIN,tj.allcdn.vip
+- DOMAIN,tj.sosomp.com
+- DOMAIN,tjj.com
+- DOMAIN,tjjd83.xyz
+- DOMAIN,tjnwfjy.cn
+- DOMAIN,tjqwb.cn
+- DOMAIN,tjwzyjx.icu
+- DOMAIN,tknkfd.xyz
+- DOMAIN,tkqwurl.icu
+- DOMAIN,tlbjw.com
+- DOMAIN,tlprlf.xyz
+- DOMAIN,tlsgq.cn
+- DOMAIN,tltyygb.cn
+- DOMAIN,tmochyf.cn
+- DOMAIN,tmwbszn.icu
+- DOMAIN,tnebxv.top
+- DOMAIN,tnjvz.cn
+- DOMAIN,toastspinner.com
+- DOMAIN,toggle.qq.com
+- DOMAIN,toijr.xyz
+- DOMAIN,tokendomain.xyz
+- DOMAIN,tongji.xinmin.cn
+- DOMAIN,tonxzq.com
+- DOMAIN,toutiao.xn--fiqs8s
+- DOMAIN,tovppl.cn
+- DOMAIN,tptp002.cfd
+- DOMAIN,tpvuxt.xyz
+- DOMAIN,tqdctl.xyz
+- DOMAIN,tqdpqq.com
+- DOMAIN,tqmcj.cn
+- DOMAIN,tqytqdrq.icu
+- DOMAIN,track.hujiang.com
+- DOMAIN,track.sohu.com
+- DOMAIN,track.uc.cn
+- DOMAIN,tracking.kdnet.net
+- DOMAIN,tracking.rus.miui.com
+- DOMAIN,trafficjunky.net
+- DOMAIN,trc.taboola.com
+- DOMAIN,trektinyreproduce.com
+- DOMAIN,trfmxf.xyz
+- DOMAIN,trk.pinterest.com
+- DOMAIN,trognoi.com
+- DOMAIN,trp69.top
+- DOMAIN,trqhf.xyz
+- DOMAIN,trslw.cn
+- DOMAIN,trustedcpmrevenue.com
+- DOMAIN,tsancii.top
+- DOMAIN,tsck.online
+- DOMAIN,tseda1.icu
+- DOMAIN,tseda4.icu
+- DOMAIN,tseda6.icu
+- DOMAIN,tslbahi.top
+- DOMAIN,tslianm.com
+- DOMAIN,tsyndicate.com
+- DOMAIN,ttienli.top
+- DOMAIN,ttly888.com
+- DOMAIN,ttvosc.com
+- DOMAIN,ttykabh.icu
+- DOMAIN,ttzhongbao.com
+- DOMAIN,tuhzjrr.cn
+- DOMAIN,tumeite.cn
+- DOMAIN,tupian888.*.bcebos.com
+- DOMAIN,tuplzt.xyz
+- DOMAIN,tushwjp.icu
+- DOMAIN,tuvtpxp.cn
+- DOMAIN,tuwaqtjcood.com
+- DOMAIN,tuyyex.icu
+- DOMAIN,tvabqt.cn
+- DOMAIN,tvdpebx.cn
+- DOMAIN,tvrshv.xyz
+- DOMAIN,tvszazx.icu
+- DOMAIN,twbymc.cn
+- DOMAIN,twdjn.cn
+- DOMAIN,twgzgqqu.com
+- DOMAIN,twjsx.cn
+- DOMAIN,twlcyc.cn
+- DOMAIN,twww.sbs
+- DOMAIN,twzadf.xyz
+- DOMAIN,txbhhh.xyz
+- DOMAIN,txcv68f.com
+- DOMAIN,txjfso.com
+- DOMAIN,txscn.cn
+- DOMAIN,ty8bz.com
+- DOMAIN,tyawwj.cn
+- DOMAIN,tydouke.com
+- DOMAIN,tyed6.top
+- DOMAIN,tymh2022.xyz
+- DOMAIN,tyrsn6di.icu
+- DOMAIN,tyutuyoo.top
+- DOMAIN,tzcfyre.cn
+- DOMAIN,tzlit.cn
+- DOMAIN,u.guannin.com
+- DOMAIN,u.txuesoft.cn
+- DOMAIN,u1.idongde.com
+- DOMAIN,u1022.com
+- DOMAIN,u22aeey.xyz
+- DOMAIN,u346zd.top
+- DOMAIN,u7s546.com
+- DOMAIN,ubxqerc.cn
+- DOMAIN,uc.qq.uuaoz.com
+- DOMAIN,uchat6.com
+- DOMAIN,ud783c02.com
+- DOMAIN,udc.yahoo.com
+- DOMAIN,udcm.yahoo.com
+- DOMAIN,udeztrb.cn
+- DOMAIN,udiab1.jianshu.com
+- DOMAIN,uebabuf.cn
+- DOMAIN,uejdsw.com
+- DOMAIN,ufgg55.xyz
+- DOMAIN,ugbjqwe.com
+- DOMAIN,uhwnrfu.cn
+- DOMAIN,uhyhdrh.cn
+- DOMAIN,uibjhqwkl.com
+- DOMAIN,uifyeldt.top
+- DOMAIN,uioozpxq.com
+- DOMAIN,uiteligularly.fun
+- DOMAIN,ujgf120.com
+- DOMAIN,ujnkn.com
+- DOMAIN,uk529u0.cn
+- DOMAIN,ulkoxbra.com
+- DOMAIN,ulojlvmejkaem.xyz
+- DOMAIN,um5xcgngmart.xyz
+- DOMAIN,umbrellaomendear.com
+- DOMAIN,umeng.com
+- DOMAIN,umkezbh.cn
+- DOMAIN,umyrn.xyz
+- DOMAIN,unetall.com
+- DOMAIN,uniformer.biz
+- DOMAIN,unjld.com
+- DOMAIN,unjs.jingyanben.com
+- DOMAIN,unpleasantconcrete.com
+- DOMAIN,unypud.cn
+- DOMAIN,uo12.com
+- DOMAIN,uopsawxst.cyou
+- DOMAIN,uphzxdv.cn
+- DOMAIN,upload.luckyorange.net
+- DOMAIN,uporods.com
+- DOMAIN,upzabkw.cn
+- DOMAIN,uqelxct.cn
+- DOMAIN,uraseszincy.com
+- DOMAIN,urimnugocfr.com
+- DOMAIN,urlkwqi.cn
+- DOMAIN,ursegreatm.fun
+- DOMAIN,urtr4hrq.com
+- DOMAIN,usancit.top
+- DOMAIN,usfw2eu.icu
+- DOMAIN,uslbaht.top
+- DOMAIN,uslsxe.com
+- DOMAIN,utienlt.top
+- DOMAIN,uttlinediv.top
+- DOMAIN,utywsi.cn
+- DOMAIN,uujhveglpo.xyz
+- DOMAIN,uuzwvqc.cn
+- DOMAIN,uvnjlm.cn
+- DOMAIN,uwadakest.cyou
+- DOMAIN,uwgnpkd.cn
+- DOMAIN,uwnvcxb.cn
+- DOMAIN,uxbd4id.xyz
+- DOMAIN,uxcnhsf.cn
+- DOMAIN,uxlqwra.cn
+- DOMAIN,uxmwh0f.xyz
+- DOMAIN,uxtruz.xyz
+- DOMAIN,uyf1u0x7.xyz
+- DOMAIN,uyflu0x7.xyz
+- DOMAIN,uym11.xyz
+- DOMAIN,uyq3ruf.icu
+- DOMAIN,uyt79.top
+- DOMAIN,v00yvd.xyz
+- DOMAIN,v1gyb.xyz
+- DOMAIN,v2.dakang-energy.com
+- DOMAIN,v2.uyan.cc
+- DOMAIN,v4dwkcv.com
+- DOMAIN,v6jt.cn
+- DOMAIN,v88yaat.xyz
+- DOMAIN,v9gfm.xyz
+- DOMAIN,vancuongthinh.com
+- DOMAIN,vaxgyly.cn
+- DOMAIN,vbdbmqzu.com
+- DOMAIN,vbnmjjda.xyz
+- DOMAIN,vcvbnmto.xyz
+- DOMAIN,vcydyzd.icu
+- DOMAIN,vdrfes.site
+- DOMAIN,vel7.xyz
+- DOMAIN,venator.link
+- DOMAIN,venetrigni.com
+- DOMAIN,venienceilo.fun
+- DOMAIN,vexilorath.com
+- DOMAIN,vfjsa6do.icu
+- DOMAIN,vfsdgjrr.xyz
+- DOMAIN,vfsdsdeq.xyz
+- DOMAIN,vfsvv1.com
+- DOMAIN,vfzfrx.xyz
+- DOMAIN,vghnnh.xyz
+- DOMAIN,vgijoh.com
+- DOMAIN,vhhvldyuhm.xyz
+- DOMAIN,vhjxrj.xyz
+- DOMAIN,vhsutpgui.xyz
+- DOMAIN,vhulan.com
+- DOMAIN,vhutitpu.icu
+- DOMAIN,victoriajumpc.com
+- DOMAIN,video.new-eve.com
+- DOMAIN,video231.oss-cn-beijing.aliyuncs.com
+- DOMAIN,vidwkd.com
+- DOMAIN,vieldeold.xyz
+- DOMAIN,vihppjk.cn
+- DOMAIN,vijnhyru.xyz
+- DOMAIN,viplp.top
+- DOMAIN,vipwm.cc
+- DOMAIN,viroffyy.com
+- DOMAIN,vizacasa.xyz
+- DOMAIN,vkjqbb.xyz
+- DOMAIN,vkjsnvk.com
+- DOMAIN,vktztp.xyz
+- DOMAIN,vlgkotr.cn
+- DOMAIN,vlujojf.icu
+- DOMAIN,vmbzhfh.cn
+- DOMAIN,vmdlxj.xyz
+- DOMAIN,vnfjsus.xyz
+- DOMAIN,vnfsbl.xyz
+- DOMAIN,vnvmif.cn
+- DOMAIN,vokmhydy.xyz
+- DOMAIN,vokwlch.xyz
+- DOMAIN,vorluic.cn
+- DOMAIN,vpsgu.cn
+- DOMAIN,vpubmi.com
+- DOMAIN,vreephay.com
+- DOMAIN,vrlvnz.xyz
+- DOMAIN,vrr.name
+- DOMAIN,vswswlz.icu
+- DOMAIN,vtvnnl.xyz
+- DOMAIN,vucve6is.icu
+- DOMAIN,vueegqt.xyz
+- DOMAIN,vuhidf.cn
+- DOMAIN,vujzkkz.cn
+- DOMAIN,vulrxr.xyz
+- DOMAIN,vv.nettierbrakier.com
+- DOMAIN,vvdzucs.cn
+- DOMAIN,vvfht.fun
+- DOMAIN,vvwuqxp.icu
+- DOMAIN,vvxhth.xyz
+- DOMAIN,vwfppr.xyz
+- DOMAIN,vwtjvd.xyz
+- DOMAIN,vxhsj.cn
+- DOMAIN,vxhtxt.xyz
+- DOMAIN,vxinzheng.xyz
+- DOMAIN,vyreat.icu
+- DOMAIN,vyye.cn
+- DOMAIN,vzeuvcdi.icu
+- DOMAIN,vzvvifw.cn
+- DOMAIN,w.bnlg.fun
+- DOMAIN,w41.i7x3.fun
+- DOMAIN,wagzqhq.cn
+- DOMAIN,waizongguan.net
+- DOMAIN,wangxialin.top
+- DOMAIN,wangyq.ltd
+- DOMAIN,wap.bntxt.com
+- DOMAIN,wap.gxzhshop.com
+- DOMAIN,wap2.laogu.wang
+- DOMAIN,wasaidailian.com
+- DOMAIN,wazveqv.xyz
+- DOMAIN,wbesryx.cn
+- DOMAIN,wbupbv.com
+- DOMAIN,wcdc5.com
+- DOMAIN,wcehko.juankh.com
+- DOMAIN,wcv68kw.com
+- DOMAIN,wd.adcolony.com
+- DOMAIN,wddsva0.com
+- DOMAIN,wdpkx.cn
+- DOMAIN,wdswgjn.cn
+- DOMAIN,wdzwd.xyz
+- DOMAIN,weather-analytics-events.apple.com
+- DOMAIN,webnappy.com
+- DOMAIN,websitequan.com
+- DOMAIN,webview.unityads.unity3d.com
+- DOMAIN,wedvmr.xyz
+- DOMAIN,wefoidnknsl.net
+- DOMAIN,wegowan.com
+- DOMAIN,weifengtianxia.com
+- DOMAIN,weixin.qq.huigun.top
+- DOMAIN,weizhenwx.com
+- DOMAIN,wenjinsai.top
+- DOMAIN,wenluoxi.com
+- DOMAIN,wensixuetang.com
+- DOMAIN,werois.com
+- DOMAIN,wesat.cn
+- DOMAIN,wfndponfd.com
+- DOMAIN,wgoeisdnlk.com
+- DOMAIN,whe0nqk.icu
+- DOMAIN,whwxxny.com
+- DOMAIN,whyfate.cn
+- DOMAIN,widgets.pinterest.com
+- DOMAIN,widow5blackfr.com
+- DOMAIN,wipew.com
+- DOMAIN,wlgxaij.cn
+- DOMAIN,wlhcb.cn
+- DOMAIN,wlsyuule.cam
+- DOMAIN,wmqfey.com
+- DOMAIN,wmxke.com
+- DOMAIN,wn68din.cn
+- DOMAIN,wn80drk.shop
+- DOMAIN,wnzle.com
+- DOMAIN,wo1990.com
+- DOMAIN,wof.matchkj.com
+- DOMAIN,wogukcd.xyz
+- DOMAIN,wohewodejxp.top
+- DOMAIN,wonderhsjnsd.com
+- DOMAIN,worjeklmq.com
+- DOMAIN,wowreality.info
+- DOMAIN,wpcihg.com
+- DOMAIN,wpoarjokzgi.com
+- DOMAIN,wpwpquse.cn
+- DOMAIN,wqdro6us.icu
+- DOMAIN,wqdwork.com
+- DOMAIN,wqnggnse.fun
+- DOMAIN,wqshui.com
+- DOMAIN,wrpsouf.cn
+- DOMAIN,wsacjdg.cn
+- DOMAIN,wschao.xyz
+- DOMAIN,wsdfame.com
+- DOMAIN,wshlcgj.com
+- DOMAIN,wslbahe.top
+- DOMAIN,wsnew.cn
+- DOMAIN,wtiaw.top
+- DOMAIN,wtienle.top
+- DOMAIN,wubizigeng.com
+- DOMAIN,wuliao.jingyanben.com
+- DOMAIN,wuplexv.cn
+- DOMAIN,wwads.cn
+- DOMAIN,wwggnaw.xyz
+- DOMAIN,wwgqqq.com
+- DOMAIN,wwkh9ku.xyz
+- DOMAIN,www.16m.cc
+- DOMAIN,www.200ps.com
+- DOMAIN,www.3aym.cn
+- DOMAIN,www.517xx.com
+- DOMAIN,www.99tianxin.com
+- DOMAIN,www.abblm.com
+- DOMAIN,www.abcdlm.com
+- DOMAIN,www.ad5lm.net
+- DOMAIN,www.afmykaa.com
+- DOMAIN,www.anbdd19.xyz
+- DOMAIN,www.antailianmeng.com
+- DOMAIN,www.baidumanager.club
+- DOMAIN,www.bibilm.com
+- DOMAIN,www.bjjabc.com
+- DOMAIN,www.bjjxsb.net
+- DOMAIN,www.bl2030.com
+- DOMAIN,www.ceseasons.com
+- DOMAIN,www.claiks.com
+- DOMAIN,www.dahe6f.com
+- DOMAIN,www.dayangfa.com
+- DOMAIN,www.dgtauto.com
+- DOMAIN,www.diyuxa.com
+- DOMAIN,www.dknindsl.com
+- DOMAIN,www.doca182.com
+- DOMAIN,www.dragonib.com
+- DOMAIN,www.geodeep.org
+- DOMAIN,www.govchengdu.cn
+- DOMAIN,www.govguangxi.cn
+- DOMAIN,www.govguilin.cn
+- DOMAIN,www.govguiyang.cn
+- DOMAIN,www.govhangzhou.cn
+- DOMAIN,www.govhebie.cn
+- DOMAIN,www.govjieyang.cn
+- DOMAIN,www.govlihu.cn
+- DOMAIN,www.govshenzhen.cn
+- DOMAIN,www.govxian.cn
+- DOMAIN,www.govxinjing.cn
+- DOMAIN,www.govyunfu.cn
+- DOMAIN,www.govyunnan.cn
+- DOMAIN,www.govzhajian.cn
+- DOMAIN,www.happyyong.com
+- DOMAIN,www.hebeixingfei.com
+- DOMAIN,www.hiweha.com
+- DOMAIN,www.hlgglm.com
+- DOMAIN,www.ibgdd67.top
+- DOMAIN,www.ilaohuyou.xyz
+- DOMAIN,www.jacklm1.com
+- DOMAIN,www.jacklm3.com
+- DOMAIN,www.jianpian.vip
+- DOMAIN,www.jipinyouwu.com
+- DOMAIN,www.jmine.cn
+- DOMAIN,www.kanglingjiu.com
+- DOMAIN,www.kcc4445.top
+- DOMAIN,www.kowqd3.top
+- DOMAIN,www.kowqd9.top
+- DOMAIN,www.kukulm.com
+- DOMAIN,www.leibish.com
+- DOMAIN,www.livemz.com
+- DOMAIN,www.lm661.com
+- DOMAIN,www.lmlmvip.com
+- DOMAIN,www.lookit.tw
+- DOMAIN,www.lthwsj.com
+- DOMAIN,www.mdfsbn.com
+- DOMAIN,www.mitao17.com
+- DOMAIN,www.moneyziyouwm.com
+- DOMAIN,www.mqhzdl.com
+- DOMAIN,www.ostlon.com
+- DOMAIN,www.pcuois.com
+- DOMAIN,www.pksanb.com
+- DOMAIN,www.ppslsa.com
+- DOMAIN,www.q4ee.top
+- DOMAIN,www.qinlinghe.com
+- DOMAIN,www.qkixi.com
+- DOMAIN,www.qlspx.com
+- DOMAIN,www.qqads.com
+- DOMAIN,www.qsixi.com
+- DOMAIN,www.qwupoq.com
+- DOMAIN,www.rdezbie.com
+- DOMAIN,www.renrenhaigou.com
+- DOMAIN,www.repyua.com
+- DOMAIN,www.s184.com
+- DOMAIN,www.seainan333.com
+- DOMAIN,www.seinse27.com
+- DOMAIN,www.sioccu.com
+- DOMAIN,www.smtlm.cc
+- DOMAIN,www.soviewo.com
+- DOMAIN,www.t5wm.cc
+- DOMAIN,www.tctakoh.com
+- DOMAIN,www.tfaftemail.com
+- DOMAIN,www.ttyyuuoo.com
+- DOMAIN,www.uerlqe.com
+- DOMAIN,www.ufndsm.com
+- DOMAIN,www.uuboos.com
+- DOMAIN,www.valadygators.com
+- DOMAIN,www.vbnm888.com
+- DOMAIN,www.vmsal.vip
+- DOMAIN,www.werwzd1.com
+- DOMAIN,www.wndlkj.com
+- DOMAIN,www.wowostar.cn
+- DOMAIN,www.wqddq.com
+- DOMAIN,www.wqetqi.vip
+- DOMAIN,www.wyxcb6.top
+- DOMAIN,www.xaqsl.com
+- DOMAIN,www.xiewje.com
+- DOMAIN,www.xihufe.com
+- DOMAIN,www.xingpingmaoyi.cn
+- DOMAIN,www.xiuxiu4.one
+- DOMAIN,www.xjwrq.com
+- DOMAIN,www.xpdyqax.cn
+- DOMAIN,www.xxmh*.com
+- DOMAIN,www.ynxjf.com
+- DOMAIN,www.youzonggw.com
+- DOMAIN,www.yueyuego.com
+- DOMAIN,www.yuyue008.cn
+- DOMAIN,www.ywquyq.com
+- DOMAIN,www.yymh1113.com
+- DOMAIN,www.zbinview.com
+- DOMAIN,www.zhangjiyi.top
+- DOMAIN,www.zhaohainan.cn
+- DOMAIN,wx.uc.downcdn.top
+- DOMAIN,wxddid.cn
+- DOMAIN,wxdqgmr.cn
+- DOMAIN,wxl0gfw.icu
+- DOMAIN,wyplmjufd.live
+- DOMAIN,wyq3rum.icu
+- DOMAIN,wyqaafplm.live
+- DOMAIN,wyxcb3.top
+- DOMAIN,wzctuv.xyz
+- DOMAIN,x3zy2.icu
+- DOMAIN,x5hnj21.com
+- DOMAIN,x8kwcr3l.xyz
+- DOMAIN,xahycw.com
+- DOMAIN,xazbts.com
+- DOMAIN,xbyoujv.icu
+- DOMAIN,xccadc.com
+- DOMAIN,xcisleoa.cn
+- DOMAIN,xckj0623.com
+- DOMAIN,xckyqq.com
+- DOMAIN,xcmz999.com
+- DOMAIN,xcvwrj.xyz
+- DOMAIN,xcwzq.xyz
+- DOMAIN,xddzshop.com
+- DOMAIN,xecner.top
+- DOMAIN,xeghes.fun
+- DOMAIN,xegneils.com
+- DOMAIN,xeikwh.icu
+- DOMAIN,xerhibx.cn
+- DOMAIN,xeynozl.icu
+- DOMAIN,xfgctg.com
+- DOMAIN,xflsj.com
+- DOMAIN,xgzdys.com
+- DOMAIN,xheqbc.cn
+- DOMAIN,xhiit0n.xyz
+- DOMAIN,xhkvff.cn
+- DOMAIN,xhpghv.xyz
+- DOMAIN,xhqgymmb.com
+- DOMAIN,xhzmjs.com
+- DOMAIN,xiangwangdesh.com
+- DOMAIN,xianzhice.com
+- DOMAIN,xiaobao8888.com
+- DOMAIN,xiaodongrui.com
+- DOMAIN,xiaofangtongzhi.xyz
+- DOMAIN,xiaojifly.cn
+- DOMAIN,xiaomifood.cn
+- DOMAIN,xiaoqurong.com
+- DOMAIN,xiaosunxin.cn
+- DOMAIN,xiaoxiuapp.com
+- DOMAIN,xiaoy.name
+- DOMAIN,xiaoyange.cn
+- DOMAIN,xiarikui08.com
+- DOMAIN,xiezhuo038.cn
+- DOMAIN,xilofr.xyz
+- DOMAIN,ximit8023.maijijo.com
+- DOMAIN,xinbo-lora.cn
+- DOMAIN,xinerdact.com
+- DOMAIN,xingyou25.xyz
+- DOMAIN,xinlimaoyi2.xinlimaoyi.cn
+- DOMAIN,xinym1.xyz
+- DOMAIN,xixrdn.xyz
+- DOMAIN,xjrvwz.com
+- DOMAIN,xjssjc.com
+- DOMAIN,xjzyhp.xyz
+- DOMAIN,xkbinj.xyz
+- DOMAIN,xkcxh.com
+- DOMAIN,xkmwxwy.cn
+- DOMAIN,xkqit.com
+- DOMAIN,xkzjq.cn
+- DOMAIN,xlardaxq.com
+- DOMAIN,xlivrdr.com
+- DOMAIN,xlvqhx.xyz
+- DOMAIN,xmangoculture.com
+- DOMAIN,xmawwbz.icu
+- DOMAIN,xmjajv.xyz
+- DOMAIN,xmkbrfyu.cn
+- DOMAIN,xmlsxar.cn
+- DOMAIN,xmxupz.xyz
+- DOMAIN,xmywlyh.cn
+- DOMAIN,xn--2qu92fhtxsxexqab.xn--fiqs8s
+- DOMAIN,xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s
+- DOMAIN,xn--2ss830adjbqy7h.xn--fiqs8s
+- DOMAIN,xn--521-x72fh66s.cn
+- DOMAIN,xn--gov-x68dy61b.shop
+- DOMAIN,xn--jvrp4x1zyfta.net
+- DOMAIN,xn--m7r781dz66a.cn
+- DOMAIN,xn--wxtr44c.video
+- DOMAIN,xn--wxtr9fwyxk9c.xn--fiqs8s
+- DOMAIN,xn--wxtr9fwyxk9c.xn--io0a7i
+- DOMAIN,xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
+- DOMAIN,xn--xhq9mt12cf5v.ren
+- DOMAIN,xn--zw0autp42d.cn
+- DOMAIN,xne1ocient87zxz.360doc.cn
+- DOMAIN,xnzetb.xyz
+- DOMAIN,xokcaxw.cn
+- DOMAIN,xolerkr.cn
+- DOMAIN,xopxptn.cn
+- DOMAIN,xpcwrgy.cn
+- DOMAIN,xpicj1.cc
+- DOMAIN,xqblnei.cn
+- DOMAIN,xqcjfcb.cn
+- DOMAIN,xrb0owc.icu
+- DOMAIN,xrkadslmgg.top
+- DOMAIN,xrkadslmgg.xyz
+- DOMAIN,xryrylt.cn
+- DOMAIN,xs.dmzj.com
+- DOMAIN,xsjh001.xyz
+- DOMAIN,xsxmvb.xyz
+- DOMAIN,xtbzff.xyz
+- DOMAIN,xtjpdfr.cn
+- DOMAIN,xtpwfb.xyz
+- DOMAIN,xuanyaosp.com
+- DOMAIN,xudgjz.xyz
+- DOMAIN,xukang09.cn
+- DOMAIN,xukou.net
+- DOMAIN,xuwfmhh.icu
+- DOMAIN,xwbspx.xyz
+- DOMAIN,xwlyfl.xyz
+- DOMAIN,xwqtatnw.icu
+- DOMAIN,xwsqtngwa.xyz
+- DOMAIN,xww360.com
+- DOMAIN,xxba.cc
+- DOMAIN,xxczdfb.cn
+- DOMAIN,xxdongfa.com
+- DOMAIN,xxgslt.com
+- DOMAIN,xxhp2iz.icu
+- DOMAIN,xxmh456.com
+- DOMAIN,xxmh645.com
+- DOMAIN,xxniln.xyz
+- DOMAIN,xxsywxj.com
+- DOMAIN,xxtalp.xyz
+- DOMAIN,xxxviijmp.com
+- DOMAIN,xxxvjmp.com
+- DOMAIN,xyadtlyy.com
+- DOMAIN,xybnfn.xyz
+- DOMAIN,xyizgh.cn
+- DOMAIN,xzxhpcdz.icu
+- DOMAIN,y0764.cn
+- DOMAIN,y0tf2wp.online
+- DOMAIN,y74s.xyz
+- DOMAIN,yac5t.cn
+- DOMAIN,yahekby.cn
+- DOMAIN,yangjie.asia
+- DOMAIN,yangliu.ink
+- DOMAIN,yangshengzu.cn
+- DOMAIN,yaodaipeishi.cn
+- DOMAIN,yaomuzhubao.com
+- DOMAIN,yaqurc.com
+- DOMAIN,yasg114.com
+- DOMAIN,yb0a.xyz
+- DOMAIN,ybcnvqf.cn
+- DOMAIN,ybixvc.top
+- DOMAIN,ycc90.xyz
+- DOMAIN,ycdywl.com
+- DOMAIN,yd.gxdianhua.com
+- DOMAIN,yd.linjuyihao.com
+- DOMAIN,ydgh0zc.com
+- DOMAIN,ydgsvls.cn
+- DOMAIN,ydjfdkcv.com
+- DOMAIN,ydjs.zol.com.cn
+- DOMAIN,ydtykj.net
+- DOMAIN,yegziyf.cn
+- DOMAIN,yenauddk.com
+- DOMAIN,yenyshy.com
+- DOMAIN,yes-24-go.cc
+- DOMAIN,ygwdai.cn
+- DOMAIN,ygxgk.cn
+- DOMAIN,ygzqlnt.cn
+- DOMAIN,yh.zg-zxzx.net
+- DOMAIN,yh18h8s.com
+- DOMAIN,yh20230625tu.com
+- DOMAIN,yhbsk.cn
+- DOMAIN,yhhnjg.com
+- DOMAIN,yhjccj.cn
+- DOMAIN,yhp4an7.cn
+- DOMAIN,yhsfsdv*.com
+- DOMAIN,yhz18.com
+- DOMAIN,yhzm.xyz
+- DOMAIN,yiboshangmao3.com
+- DOMAIN,yichengjiajupt.com
+- DOMAIN,yifujing.com
+- DOMAIN,yige20221219.xyz
+- DOMAIN,yihehe.xyz
+- DOMAIN,yijiahyvip.com
+- DOMAIN,yijiayi07.top
+- DOMAIN,yingnanyqq.com
+- DOMAIN,yirendajiankang.com
+- DOMAIN,yitongwl.cn
+- DOMAIN,yiw2iei.icu
+- DOMAIN,yjnhkd.com
+- DOMAIN,yjnhndt.com
+- DOMAIN,yjnkas.com
+- DOMAIN,ykcjxvg.cn
+- DOMAIN,ykkbwdf.cn
+- DOMAIN,yklfg.cn
+- DOMAIN,ykotyeo.cn
+- DOMAIN,ylznwl.cn
+- DOMAIN,ymgjc.com
+- DOMAIN,ymhyw6.lol
+- DOMAIN,ymima360.com
+- DOMAIN,ymm17.cc
+- DOMAIN,ymm19.cc
+- DOMAIN,ymyile.xyz
+- DOMAIN,yncjsc.cn
+- DOMAIN,ynfxxbp.xyz
+- DOMAIN,ynslvyou.com
+- DOMAIN,yofprpv.cn
+- DOMAIN,yonsandileer.com
+- DOMAIN,youku6.top
+- DOMAIN,youp05.com
+- DOMAIN,ypzps.com
+- DOMAIN,yqgzaewe.cn
+- DOMAIN,yquqoj.com
+- DOMAIN,yrqwnc.cn
+- DOMAIN,yruws6.com
+- DOMAIN,ysjkbk.com
+- DOMAIN,ysqlmpo.cn
+- DOMAIN,yszpegh.xyz
+- DOMAIN,yt800h.com
+- DOMAIN,ytelc.com
+- DOMAIN,ytvwhbejc.com
+- DOMAIN,yuanlin15.cn
+- DOMAIN,yuanmengbi.com
+- DOMAIN,yuanxiang19.fun
+- DOMAIN,yubingyuan.top
+- DOMAIN,yuehesh.com
+- DOMAIN,yuhunwang.net
+- DOMAIN,yuifgh.fun
+- DOMAIN,yujianmeihao179.cn
+- DOMAIN,yukariyakumo.cn
+- DOMAIN,yunl1.com
+- DOMAIN,yunliunet.com
+- DOMAIN,yunqishi8.com
+- DOMAIN,yupov6ks.icu
+- DOMAIN,yuske2.xyz
+- DOMAIN,yusnw.cc
+- DOMAIN,yutew.cc
+- DOMAIN,yuvdqnpo.com
+- DOMAIN,yvsnhc.com
+- DOMAIN,yw800.com.cn
+- DOMAIN,ywkkmze.cn
+- DOMAIN,ywsywh.cn
+- DOMAIN,ywtd.xyz
+- DOMAIN,yxhjt.com
+- DOMAIN,yxmrqc.com
+- DOMAIN,yxvoud.com
+- DOMAIN,yy4480qpgyy.com
+- DOMAIN,yyefao.com
+- DOMAIN,yylady.cn
+- DOMAIN,yynncbn.cn
+- DOMAIN,yyselrqpyu.com
+- DOMAIN,yystzl.cn
+- DOMAIN,yyuivw6.com
+- DOMAIN,yywridi.cn
+- DOMAIN,yyys.shop
+- DOMAIN,yzc35326.top
+- DOMAIN,yzcpgadw.icu
+- DOMAIN,yziwoidi.icu
+- DOMAIN,yziwujuzq.live
+- DOMAIN,yzllux.xyz
+- DOMAIN,yznwyng.cn
+- DOMAIN,yzykttcy.com
+- DOMAIN,z-xiao.xyz
+- DOMAIN,z2.fakutownee.cn
+- DOMAIN,z3yfkdjd.icu
+- DOMAIN,z6ro5.xyz
+- DOMAIN,zabdybod*.club
+- DOMAIN,zahrvfbd*.xyz
+- DOMAIN,zaiceyjjqq.com
+- DOMAIN,zailet.com
+- DOMAIN,zaiyuanyqq.com
+- DOMAIN,zangtankqq.com
+- DOMAIN,zaqlovh*.xyz
+- DOMAIN,zaqptv2bo.xyz
+- DOMAIN,zasjf.xyz
+- DOMAIN,zasjfget.xyz
+- DOMAIN,zaupjw.xyz
+- DOMAIN,zawqwpajq.club
+- DOMAIN,zazgbqg*.xyz
+- DOMAIN,zazgiyoh*.world
+- DOMAIN,zazgiyoh*.xyz
+- DOMAIN,zb.516624.com
+- DOMAIN,zbc6hy*.live
+- DOMAIN,zbc6hye*.xyz
+- DOMAIN,zbc6hyip.xyz
+- DOMAIN,zblz.me
+- DOMAIN,zbv7kxrteclub.xyz
+- DOMAIN,zbvchabjbcj.com
+- DOMAIN,zbx01.com
+- DOMAIN,zbzbzb.xyz
+- DOMAIN,zcbfjd.xyz
+- DOMAIN,zcchyr*.xyz
+- DOMAIN,zcchyw*.xyz
+- DOMAIN,zcck60qyw.xyz
+- DOMAIN,zcck60wqyw.xyz
+- DOMAIN,zccr2qe.live
+- DOMAIN,zcczrsaqw.xyz
+- DOMAIN,zcczrvsaqw.shop
+- DOMAIN,zcczrvsaqw.world
+- DOMAIN,zcczrvsaqw.xyz
+- DOMAIN,zcczrvsaw.xyz
+- DOMAIN,zcgqsd.icu
+- DOMAIN,zcvyzsyd.icu
+- DOMAIN,zcy821.com
+- DOMAIN,zczcvx.com
+- DOMAIN,zdabnt.buzz
+- DOMAIN,zdabnt.live
+- DOMAIN,zdama.xyz
+- DOMAIN,zdamybi.xyz
+- DOMAIN,zdcfta.buzz
+- DOMAIN,zdcfta.live
+- DOMAIN,zdcoes.live
+- DOMAIN,zdcv5.xyz
+- DOMAIN,zddpnf.xyz
+- DOMAIN,zdfjas.top
+- DOMAIN,zdfl.xyz
+- DOMAIN,zdftqc.xyz
+- DOMAIN,zdg-bend.xyz
+- DOMAIN,zdgbend.buzz
+- DOMAIN,zdhpen.xyz
+- DOMAIN,zdhpenn.live
+- DOMAIN,zdhpenn.shop
+- DOMAIN,zdiwsb.live
+- DOMAIN,zdjeae.live
+- DOMAIN,zdkdwk.buzz
+- DOMAIN,zdkdwk.live
+- DOMAIN,zdkjr.xyz
+- DOMAIN,zdlnhv.xyz
+- DOMAIN,zdmbl.xyz
+- DOMAIN,zdmybl.xyz
+- DOMAIN,zdo-bdg.xyz
+- DOMAIN,zdobdg.fyi
+- DOMAIN,zdvfpa.xyz
+- DOMAIN,zdwykjd.icu
+- DOMAIN,zdx25.site
+- DOMAIN,zdx30.site
+- DOMAIN,zdznsqb.com
+- DOMAIN,zeatse.buzz
+- DOMAIN,zebjlt.buzz
+- DOMAIN,zebjlt.xyz
+- DOMAIN,zektch.buzz
+- DOMAIN,zektch.xyz
+- DOMAIN,zelpbp.buzz
+- DOMAIN,zen0935.com
+- DOMAIN,zents10.top
+- DOMAIN,zents7.top
+- DOMAIN,zeookuv.xyz
+- DOMAIN,zero.wewakir.top
+- DOMAIN,zerolcp.cn
+- DOMAIN,zevbzn.xyz
+- DOMAIN,zewfbw.buzz
+- DOMAIN,zewfbw.xyz
+- DOMAIN,zexfzson.icu
+- DOMAIN,zfcdirf.icu
+- DOMAIN,zfcumb.xyz
+- DOMAIN,zfehvv.buzz
+- DOMAIN,zfehvv.xyz
+- DOMAIN,zfenuq.buzz
+- DOMAIN,zffymmdg.com
+- DOMAIN,zfmqfh.xyz
+- DOMAIN,zfmtyv.buzz
+- DOMAIN,zfmtyv.xyz
+- DOMAIN,zfnclk.buzz
+- DOMAIN,zfotrq.xyz
+- DOMAIN,zfowbr.buzz
+- DOMAIN,zfteiv.xyz
+- DOMAIN,zfticz.buzz
+- DOMAIN,zfticz.xyz
+- DOMAIN,zfvltd.xyz
+- DOMAIN,zfxakx.xyz
+- DOMAIN,zgdshoes.com
+- DOMAIN,zgfshoes.com
+- DOMAIN,zggrxf.life
+- DOMAIN,zghsfh.xyz
+- DOMAIN,zgkvfu.xyz
+- DOMAIN,zglghr.xyz
+- DOMAIN,zglmvz.buzz
+- DOMAIN,zglmvz.xyz
+- DOMAIN,zgm1.com
+- DOMAIN,zgtwzq.xyz
+- DOMAIN,zguqxf.xyz
+- DOMAIN,zgwsnw.xyz
+- DOMAIN,zgystsd.com
+- DOMAIN,zhangchi.work
+- DOMAIN,zhangfeiyijuepifa.com
+- DOMAIN,zhangjiaqi.top
+- DOMAIN,zhangyumo.top
+- DOMAIN,zhanzhang.net
+- DOMAIN,zhaozongqq.com
+- DOMAIN,zhemaijs.net
+- DOMAIN,zhengliyqq.com
+- DOMAIN,zhengshaoze.com
+- DOMAIN,zhengxiaoliu.top
+- DOMAIN,zhflodsix.cn
+- DOMAIN,zhijiangweidu.top
+- DOMAIN,zhisuyunonline.cn
+- DOMAIN,zhixin.host
+- DOMAIN,zhizhunbao.top
+- DOMAIN,zhuangxiu567.com
+- DOMAIN,zhuozhongfangshui.cn
+- DOMAIN,zifyeldq.top
+- DOMAIN,zihuiguochao.top
+- DOMAIN,ziravd.xyz
+- DOMAIN,zj-yxw.com
+- DOMAIN,zjjbtl.com
+- DOMAIN,zjkssw.com
+- DOMAIN,zjthzf.xyz
+- DOMAIN,zjzh2019.com
+- DOMAIN,zlbcxr.xyz
+- DOMAIN,zljnwzp.cn
+- DOMAIN,zlnmzc.top
+- DOMAIN,zlyhslx.icu
+- DOMAIN,zmdjbl.xyz
+- DOMAIN,zmhqhuq.cn
+- DOMAIN,znchw.com
+- DOMAIN,znegiu.top
+- DOMAIN,znnodl.xyz
+- DOMAIN,znyjmbh.icu
+- DOMAIN,zonyff.xyz
+- DOMAIN,zouqiuyyds.com
+- DOMAIN,zowralr.cn
+- DOMAIN,zpotkvpy.icu
+- DOMAIN,zppfjh.xyz
+- DOMAIN,zpsovpgyk.xyz
+- DOMAIN,zpxw.vip
+- DOMAIN,zrakpxsf.com
+- DOMAIN,zrgbh6bm.icu
+- DOMAIN,zsnfdphz.com
+- DOMAIN,zszhln.xyz
+- DOMAIN,zt-uc-baidu.cc
+- DOMAIN,ztqdkzn.cn
+- DOMAIN,ztshg.cn
+- DOMAIN,ztyumn.ifeng.com
+- DOMAIN,zuixinyiqi.com
+- DOMAIN,zukddms.cn
+- DOMAIN,zvasuzb.icu
+- DOMAIN,zvdc9y.icu
+- DOMAIN,zvvg678.xyz
+- DOMAIN,zwfkxb.xyz
+- DOMAIN,zwjaoni.cn
+- DOMAIN,zwlikv.cn
+- DOMAIN,zxcrr.com
+- DOMAIN,zxcv1.com
+- DOMAIN,zxrcfw.com
+- DOMAIN,zxsnllo.cn
+- DOMAIN,zxwstong.com
+- DOMAIN,zyauopr.icu
+- DOMAIN,zygehty.cn
+- DOMAIN,zygkzytb.cn
+- DOMAIN,zygscl.cn
+- DOMAIN,zykwnj.cn
+- DOMAIN,zypzzv.xyz
+- DOMAIN,zyrwfd.xyz
+- DOMAIN,zyzlpt.com
+- DOMAIN,zzdsjxsb.com
+- DOMAIN,zzgxqlzh.com
+- DOMAIN,zzisnvb.cn
+- DOMAIN,zzpzero.com
+- DOMAIN,zzqrr.com
+- DOMAIN,zzrjdp.xyz
+- DOMAIN,zztxr.cn
+- DOMAIN,zzxedr.xyz
+- DOMAIN,zzxlhwyp.com
+- DOMAIN,zzycj.com
+! APP Host
+- DOMAIN,android.bugly.qq.com
+- DOMAIN,trace.qq.com
+- DOMAIN,api-access.pangolin-sdk-toutiao.com
+- DOMAIN,toblog.ctobsnssdk.com
+- DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+- DOMAIN,tnc3-bjlgy.zijieapi.com
+- DOMAIN,log-api.pangolin-sdk-toutiao.com
+- DOMAIN,tnc3-alisc1.zijieapi.com
+- DOMAIN,janapi.jd.com
+- DOMAIN,xlog.jd.com
+- DOMAIN,open.e.kuaishou.com
+- DOMAIN,beacon.qq.com
+- DOMAIN,gromore.pangolin-sdk-toutiao.com
+- DOMAIN,e.qq.com
+- DOMAIN,mobads.baidu.com
+- DOMAIN,beacon-api.aliyuncs.com
+- DOMAIN,log.snssdk.com
+- DOMAIN,mssdk.volces.com
+- DOMAIN,api-access.pangolin-sdk-toutiao1.com
+- DOMAIN,gdt.qq.com
+- DOMAIN,public.gdtimg.com
+- DOMAIN,hmma.baidu.com
+- DOMAIN,mi.gdt.qq.com
+- DOMAIN,sdk.beizi.biz
+- DOMAIN,sdk.e.qq.com
+- DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+- DOMAIN,pgdt.ugdtimg.com
+- DOMAIN,applog.zijieapi.com
+- DOMAIN,v2.gdt.qq.com
+- DOMAIN,adsmind.ugdtimg.com
+- DOMAIN,qzs.gdtimg.com
+- DOMAIN,api-htp.beizi.biz
+- DOMAIN,h.trace.qq.com
+- DOMAIN,log-api.pangolin-sdk-toutiao-b.com
+- DOMAIN,gdfp.gifshow.com
+- DOMAIN,log.zijieapi.com
+- DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
+- DOMAIN,open.e.kuaishou.cn
+- DOMAIN,huichuan.sm.cn
+- DOMAIN,v.adx.hubcloud.com.cn
+- DOMAIN,sdktmp.hubcloud.com.cn
+- DOMAIN,otheve.beacon.qq.com
+- DOMAIN,ixisivomer.com
+- DOMAIN,exinariuminix.info
+- DOMAIN,chabadokor.com
+- DOMAIN,truthfulsensor.com
+- DOMAIN,5.61.55.143
+- DOMAIN,37.1.213.100
+- DOMAIN,go2click.online
+- DOMAIN,iyfbodn.com
+- DOMAIN,sdkconfig.ad.xiaomi.com
+- DOMAIN,tfcdn.jingmiuyyds.com
+- DOMAIN,vzttq.brfvyrrp.com
+- DOMAIN,sncop.uioozpxq.com
+- DOMAIN,tracking.miui.com
+- DOMAIN,tracker.ai.xiaomi.com
+- DOMAIN,ulogs.umeng.com
+- DOMAIN,ulogs.umengcloud.com
+- DOMAIN,tobapplog.ctobsnssdk.com
+- DOMAIN,auth.be.sec.miui.com
+- DOMAIN,tdid.m.qq.com
+- DOMAIN,als.baidu.com
+- DOMAIN,alog.umeng.com
+- DOMAIN,alog.umengcloud.com
+- DOMAIN,umengcloud.com
+- DOMAIN,e.kuaishou.com
+- DOMAIN,api.installer.xiaomi.com
+- DOMAIN,api.ad.xiaomi.com
+- DOMAIN,worldwide.sogou.com
+- DOMAIN,tools.3g.qq.com
+- DOMAIN,bugly.qq.com
+- DOMAIN,shuzilm.cn
+- DOMAIN,dm.toutiao.com
+- DOMAIN,dm.bytedance.com
+- DOMAIN,dm.pstatp.com
+- DOMAIN,metok.sys.miui.com
+- DOMAIN,api.tw06.xlmc.sec.miui.com
+- DOMAIN,dns.weibo.cn
+- DOMAIN,sdkapp.mobile.sina.cn
+- DOMAIN,biz.weibo.com
+- DOMAIN,sdkapp.uve.weibo.com
+- DOMAIN,conf.hpplay.cn
+- DOMAIN,api-shoulei-ssl.xunlei.com
+- DOMAIN,aiclk.com
+- DOMAIN,adkwai.com
+- DOMAIN,upgrade.xl9.xunlei.com
+- DOMAIN,adapi.izuiyou.com
+- DOMAIN,adstat.izuiyou.com
+- DOMAIN,advertpay-vip-ssl.xunlei.com
+- DOMAIN,qqdata.ab.qq.com
+- DOMAIN,qappcenterv6.3g.qq.com
+- DOMAIN,adash.man.aliyuncs.com
+- DOMAIN,norma-external-collect.meizu.com
+- DOMAIN,soa-vip-ssl.xunlei.com
+- DOMAIN,fumiad.dxys.pro
+- DOMAIN,yun-hl.3g.qq.com
+- DOMAIN,ad-display.wikawika.xyz
+- DOMAIN,sofire.baidu.com
+- DOMAIN,dxp.baidu.com
+- DOMAIN,tcbox.baidu.com
+- DOMAIN,afd.baidu.com
+- DOMAIN,browserkernel.baidu.com
+- DOMAIN,pimlog.baidu.com
+- DOMAIN,cloud-log.yy.com
+- DOMAIN,collector.dcdn.baidu.com
+- DOMAIN,openrcv.baidu.com
+- DOMAIN,tuisong.baidu.com
+- DOMAIN,sfp.safe.baidu.com
+- DOMAIN,diagnosis.ad.xiaomi.com
+- DOMAIN,line1-log.biligame.net
+- DOMAIN,irs03.com
+- DOMAIN,o2o.api.xiaomi.com
+- DOMAIN,a.market.xiaomi.com
+- DOMAIN,fourier.taobao.com
+- DOMAIN,dp3.qq.com
+- DOMAIN,omgid.qq.com
+- DOMAIN,livep.l.qq.com
+- DOMAIN,commdata.v.qq.com
+- DOMAIN,lives.l.qq.com
+- DOMAIN,masdk.3g.qq.com
+- DOMAIN,c.l.qq.com
+- DOMAIN,sealine.youku.com
+- DOMAIN,iyes.youku.com
+- DOMAIN,nbsdk-baichuan.alicdn.com
+- DOMAIN,dorangesource.alicdn.com
+- DOMAIN,orange-dc.youku.com
+- DOMAIN,eco.taobao.com
+- DOMAIN,push.m.youku.com
+- DOMAIN,acs4baichuan.m.taobao.com
+- DOMAIN,umdc.aliapp.org
+- DOMAIN,amdc.m.taobao.com
+- DOMAIN,abtest.alibaba.com
+- DOMAIN,audid-api.taobao.com
+- DOMAIN,px.ucweb.com
+- DOMAIN,sjarvis.taobao.com
+- DOMAIN,un-acs.youku.com
+- DOMAIN,m.atm.youku.com
+- DOMAIN,yk-ssp.ad.youku.com
+- DOMAIN,ykad-data.youku.com
+- DOMAIN,ems.youku.com
+- DOMAIN,ipm.atm.youku.com
+- DOMAIN,h-adashx.ut.taobao.com
+- DOMAIN,applog.uc.cn
+- DOMAIN,adx-open-service.youku.com
+- DOMAIN,cad.youku.com
+- DOMAIN,adlaunch.qtfm.cn
+- DOMAIN,amdc.alipay.com
+- DOMAIN,logs.amap.com
+- DOMAIN,hijack.baidu.com
+- DOMAIN,qapm.baidu.com
+- DOMAIN,techain.baidu.com
+- DOMAIN,crab.baidu.com
+- DOMAIN,ug.snssdk.com
+- DOMAIN,ad.tencentmusic.com
+- DOMAIN,imtmp.net
+- DOMAIN,huatuo.qq.com
+- DOMAIN,adstats.tencentmusic.com
+- DOMAIN,hpd.baidu.com
+- DOMAIN,feed.baidu.com
+- DOMAIN,hm.baidu.com
+- DOMAIN,fclog.baidu.com
+- DOMAIN,gentags.net
+- DOMAIN,aty.sohu.com
+- DOMAIN,a1.itc.cn
+- DOMAIN,vstat.v.blog.sohu.com
+- DOMAIN,count.vrs.sohu.com
+- DOMAIN,qchannel03.cn
+- DOMAIN,tsearch.snssdk.com
+- DOMAIN,fclick.baidu.com
+- DOMAIN,ssp.qq.com
+- DOMAIN,appc.baidu.com
+- DOMAIN,d.toutiao.com
+- DOMAIN,log-sdk.ksapisrv.com
+- DOMAIN,dig.bdurl.net
+- DOMAIN,tnc3-aliec2.zijieapi
+- DOMAIN,tnc3-alisc1.zijieapi
+- DOMAIN,tnc3-bjlgy.snssdk.com
+- DOMAIN,tnc3-bjlgy.zijieapi
+- DOMAIN,dm-hl.toutiao.com
+- DOMAIN,abtest-ch.snssdk.com
+- DOMAIN,appsupport.qq.com
+- DOMAIN,dig.zjurl.cn
+- DOMAIN,api.kwaizt.com
+- DOMAIN,httpdns.pro
+- DOMAIN,yoda.kwd.inkuai.com
+- DOMAIN,51y5.net
+- DOMAIN,dlswbr.baidu.com
+- DOMAIN,im-x.jd.com
+- DOMAIN,zhihu-web-analytics.zhihu.com
+- DOMAIN,c-gtc.getui.net
+- DOMAIN,getui.com
+- DOMAIN,b-gtc.getui.net
+- DOMAIN,gepush.com
+- DOMAIN,igexin.com
+- DOMAIN,pingma.qq.com
+- DOMAIN,sugar.zhihu.com
+- DOMAIN,stat.meitudata.com
+! url
+@@- DOMAIN,ecmb.bdimg.com/*.jpg
+@@- DOMAIN,ecmb.bdimg.com/*.png
+@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
+@@.com/o.js$domain=2biqu.com
+@@- DOMAIN,/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
+@@- DOMAIN,css.yhdmtu.xyz$domain=iyinghua.io|yinghua8.tv
+@@- DOMAIN,jstatic.3.cn$domain=m.jd.com
+@@- DOMAIN,api.nocturnal-narwhal.buzz$domain=webtor.io
+@@- DOMAIN,manwa.me
+@@- DOMAIN,cdn-msp*.18comic*.*
+@@- DOMAIN,cdn-msp*.18comic.*
+@@- DOMAIN,miaozhen.com$domain=miaozhen.com
+@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
+@@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
+@@- DOMAIN,qhres2.com$domain=baike.so.com
+@@- DOMAIN,pagead2.googlesyndication.com$domain=myqqjd.com
+@@- DOMAIN,www.google-analytics.com$domain=myqqjd.com
+@@- DOMAIN,www.googletagmanager.com$domain=myqqjd.com
+@@- DOMAIN,myqqjd.com
+@@- DOMAIN,stripe.com$domain=pay.openai.com
+@@- DOMAIN,aliyuncs.com/*.png
+@@- DOMAIN,f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
+@@- DOMAIN,guokr.com/apis/flowingboard/item/m_article
+@@- DOMAIN,guokr.com/apis/flowingboard/item/m_home_
+@@- DOMAIN,sobot.com
+@@- DOMAIN,wan.douyu.com
+- DOMAIN,qishula.com/css/ding.js
+- DOMAIN,adutp.com$third-party
+- DOMAIN,aiqu2727.com/da/
+- DOMAIN,www.hdmp4.cc/js/foot.js
+- DOMAIN,google-analytics.com/analytics.js
+- DOMAIN,www.cartoon18.com/assets/*/jquery.js
+- DOMAIN,onesignal.com$third-party
+- DOMAIN,hotjar.com$third-party
+- DOMAIN,sentry.io$third-party
+- DOMAIN,browser.sentry-cdn.com$third-party
+- DOMAIN,baidu.com/newspage/api/getmobads?
+- DOMAIN,ifeng.com/*&adids=
+.xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
+.buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
+.com/sh/to/$third-partyyhdmba.net
+.xyz/svelte?$third-party
+.xyz/alpine?$third-party
+- DOMAIN,iyinghua.io/bar/
+/_xa/ads
+- DOMAIN,boshishuwu.com/js/middlestyle.js
+- DOMAIN,boshishuwu.com/js/zhuanhua.js
+- DOMAIN,www.288txt.com/da/*.js
+.cyou/redbaiduct.com
+- DOMAIN,sina.cn/cm/sinaads_
+/sinaads/release/sinaads.js
+/js/news2zz.js
+/js/lmdas.js
+.com:8001/*/*?*=$third-party
+- DOMAIN,static.missav.com/js/plyr.js
+- DOMAIN,boxmp4.com/js/foot.js
+/site/mov*$third-party
+- DOMAIN,156zw.com/css/js/tools.js
+- DOMAIN,dadatuwz.com$third-party
+- DOMAIN,pubfuture.com$third-party
+- DOMAIN,n5m5.com/static/js/playcon.js
+/js/ads
+/banners/pr_advertising_ads_banner
+.ru/ads/
+:800*/d/*n=$third-party
+:800*/sc/*n=$third-party
+- DOMAIN,tongji.trafficmanager.net/?
+unpkg.com/aladug/*.js
+/index.html?channelCode=
+.com/js/g.js
+:8008/*/*?is_not=
+.cn:8005/cc/*?is_not=
+- DOMAIN,myqcloud.com/uploads/m3u8/*.ts$third-party
+trafficjunky.com$third-part
+.cn/2023/*/*.txt$third-party
+.cn/2022/*/*.txt$third-party
+.xyz/qby_*.js?$third-party
+.xyz/get?$third-party
+.xyz/ty/*-*-*$third-party
+- DOMAIN,ciliyinqing.top$third-party
+- DOMAIN,feijisu*.com/js/huimi-
+/api/LM/Report?placeUUID=$third-party
+.icu/pssbk?$third-party
+/vhyoydie_*_*.js$third-party
+yhdm*.com/js/wap2-jm-ms.js?ver=
+.com:8008/sc/*?n=$third-party
+.com:8003/d/*&n=$third-party
+- DOMAIN,baimakanshu.com/assets/public/
+- DOMAIN,lengmen.cc/assets/public/
+- DOMAIN,aiqu222.com/da/
+- DOMAIN,liuyingtv.com/common/api_getAcode.php
+- DOMAIN,anluyg.net/static/js/channel*.js
+- DOMAIN,google-analytics.com$third-party
+- DOMAIN,killcovid2021.com/*.mp4
+- DOMAIN,lewenma.com/js/read.js
+- DOMAIN,jialingmm.net/dm/tj.js
+- DOMAIN,58jingxuan.top/115
+xmh/200/200-*.gif
+- DOMAIN,missav.com/pop?url=
+/scripts/snstyle.js?v=2$~third-party
+.com/qq.js$third-party
+.xyz/st?gp=*$third-party
+- DOMAIN,zhhbqg.com/xxgg/*.js
+- DOMAIN,zhhbqg.com/ee/*.js
+- DOMAIN,trafficstars.com$third-party
+- DOMAIN,bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
+- DOMAIN,58jingxuan.top/dhbioperhbvoprwm
+/statics/js/hth1111.html
+- DOMAIN,asacdn.com/prod/redirect.html
+- DOMAIN,img.bzzyx.cn/dipiao.js
+- DOMAIN,hhdmh.net/bd/36mh.js
+- DOMAIN,hhdmh.net/js/g1.js
+/hm.html?s=*=http
+- DOMAIN,m.yinghuacd.com/bar
+- DOMAIN,haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
+/360mse/360mse_*.apk?
+/app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
+/app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
+- DOMAIN,pstatp.com/toutiao/push.js
+chen-xing/figure_bed*
+.com/gg.js
+/api/ad/*
+/js/mts66.js
+.live/r/*/*_r=*
+.xyz/hm.js?$third-party
+/Distribute/Distribute_g/butterfly/*
+/js/mts.js
+/bugsnag.min.js$third-party
+.icu/biyys*.js$third-party
+/bigREDcat.js?$third-party
+.cn/redbaiduct.com?s=$third-party
+/stats.php?adsid=$third-party
+.xyz/*_*_1_*.js?$third-party
+- DOMAIN,aiqu28.com/da/
+.cn:*/vh5$third-party
+- DOMAIN,nex.163.com/q?
+- DOMAIN,g.163.com/*&affiliate=
+- DOMAIN,163.com/wap/special/article_cooper_piapia/
+- DOMAIN,qchannel03.cn$third-party
+- DOMAIN,templates_pc/default/scripts/chapter_bottom.js
+- DOMAIN,zxzj.me/slade2.js
+- DOMAIN,widgets.outbrain.com/outbrain.js
+- DOMAIN,xbiqu5.com/12345678.js
+.com/adv1/?q=
+- DOMAIN,1biqug.com/js/ajax.js
+/_xa/ads_
+hanman/static/dist/ppm/js/main.js
+.com:10446/*/get*.html
+/ht.js?site_
+- DOMAIN,aiqu321.com/da/*.js
+/*/*.add.*.add
+/_xa/ads?
+- DOMAIN,moegirl.org.cn/insight/moegirlinsight.
+com:8891/c.php?s=*$third-party
+/gameapk/*/hongbao.apk
+/dibu.adadadad
+- DOMAIN,imanhuapi.com/style/js/mpmh.js
+?adspot_
+- DOMAIN,scupio.com/js/ad.js
+- DOMAIN,www.lezhutv.com/static/jquerys.js
+/template/mytheme/statics/js/listing.js
+/asfile/m/gudings.js
+?local_ga_js=
+- DOMAIN,555ysys.com/gg/g.js
+.xyz/xling_*_*_*.js?
+- DOMAIN,pinyuege.net/template/pinygm/public/js/
+.com:8005/*&n=$third-party
+- DOMAIN,myhaitang.xyz/assets/public/
+- DOMAIN,www.ykjyyy.com/8888/
+/statics/js/guding.js
+/statics/js/dddd.js
+- DOMAIN,x4jdm.tv/mdp.js
+- DOMAIN,uuoozz.com/L7QQ.js
+- DOMAIN,cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
+- DOMAIN,xinxindm.com/gog.js
+- DOMAIN,manhuabei.com/assets/xiwang.js
+- DOMAIN,yhdm.tv/bar/yfyh.js
+/js/js4.js
+.com:*.js?v=17$third-party
+.top/*/*.js?ts=$third-party
+/yinghuacd/bottom.js
+chusixs.com/5ygsh/
+/hm.js?$third-party
+- DOMAIN,www.pkmp*.xyz/template/piankuwap/js/afoot.js
+- DOMAIN,baidu.com/rec?*=ad&
+- DOMAIN,download.2345.cn/2345yd1/apk/
+- DOMAIN,ifeng.com/showcode
+- DOMAIN,baidu.com/api/wapui/getrelatedbusiness
+- DOMAIN,music.163.com/weapi/activity/downloadpage/config/get
+- DOMAIN,pianyuan.la/slade.js
+- DOMAIN,pianba.tv/api/web_htmls.js
+- DOMAIN,snailok.com/template/stui_tpl/sdfsdfzxxsa/heade.js
+- DOMAIN,snailok.com/template/stui_tpl/sdfsdfzxxsa/dxf.js
+- DOMAIN,5nj.com/js/cnzz33.js
+- DOMAIN,5nj.com/js/cnzz22.js
+- DOMAIN,wandouys.com/slade.js
+- DOMAIN,kukudm.com/mg/show2.js
+- DOMAIN,daishudy.com/js/g/b_1.js
+- DOMAIN,zwdu.com/getuserinfo.php
+- DOMAIN,pstatp.com/growth/fe_sdk/bannersdk
+- DOMAIN,ikkdm.com/mg/show2.js
+- DOMAIN,cocomanga.com/js/atmp.html
+- DOMAIN,shimo.im/*/ads?
+- DOMAIN,shimo.im/kong-api/ads
+- DOMAIN,yxdm.tv/js/gad.js
+- DOMAIN,277txt.com/da/*.js
+.live/ty/*-*-*$third-party
+- DOMAIN,sump4.cc/js/wcount.js
+:8891/v*$third-party
+.cyou/xling_*_$third-party
+/m.html?rmid=*&yd=
+/m.html?shareName=*&proxyAccount=
+.top/*/2022*/.js$third-party
+.com/sh/*.js$third-party
+- DOMAIN,3zmmm.net/ggxx/
+/biyys*hh.js$third-party
+/vj3/*$third-party
+- DOMAIN,novret.com/?clickid=
+.cn/bid?url=*$third-party
+- DOMAIN,wcanj.com/2345/
+/xtub_*_rony.js$third-party
+/app/get*?t=*http$third-party
+.xyz/*?16$third-party
+- DOMAIN,tinghao8.com/assets/publish/
+- DOMAIN,sofunlib.com/assets/publish
+- DOMAIN,91mjw.com/hy-66-90.php
+- DOMAIN,omlube.com/O/1000970O3001405O1O.js
+- DOMAIN,5dm.tv/html/5dmm.jpg
+- DOMAIN,domp4.cc/js/wcount.js
+- DOMAIN,www.*yydstxt*/js/cdn.js
+- DOMAIN,bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
+- DOMAIN,milimili.tv/js/loadjs/jquery10.4.js
+- DOMAIN,milimili.tv/js/loadjs/jquery10.7.js
+- DOMAIN,yxdm.tv/js/mbootstrap_nei.js
+- DOMAIN,halihali2.com/js/wap2-jm-100ftop.js
+- DOMAIN,pufei8.com/skin/t6.html
+- DOMAIN,sp5vip.com/h.js
+- DOMAIN,baikebcs.bdimg.com/*banner*.jpg
+- DOMAIN,milimili.tv/js/loadjs/jquery10.8.js
+- DOMAIN,dlili.tv/ufile/22222.js
+/Public/wap/zymk/js/guanggao.js
+- DOMAIN,manhuapi.com/style/js/common.js
+- DOMAIN,weiyuedu.cc/skin/v3/js/dibu.js
+- DOMAIN,97kpz.com/js/bbk/g.js
+- DOMAIN,tutufu.com/bd/b-c1.js
+- DOMAIN,pufei.cc/skin/footer.js
+- DOMAIN,pufei.cc/skin/middle.js
+js/yys/Pfhl365.js
+- DOMAIN,zokjds.com/js/xiao.js
+/static/jietiandixs/jtd.js$~third-party
+- DOMAIN,xsbiquge.la/js/detail.js
+/vj1/*$third-party
+/vj2/*$third-party
+/v2/stats/9*$third-party
+/vh2/*$third-party
+/v2/stats/1*/1*$third-party
+- DOMAIN,axutongxue.com/js/uuiiio.js
+.com:*/sc/*?n=$third-party
+.com:*/d/*?c=*$third-party
+.cn:*/sc/*?n=$third-party
+.cn:*/d/*?c=*$third-party
+- DOMAIN,tz659.com/js/chapte*.js
+- DOMAIN,tz659.com/js/html*.js
+- DOMAIN,tz659.com/js/cdn.js
+Mplay/kk1.js
+.live/hm.js$third-party
+- DOMAIN,dbmp4.com/js/foot.js
+- DOMAIN,halihali*.com/js/wap2-jm-ms.js
+- DOMAIN,verysadfun.com/assets/publish/jquery.*.js
+.com/candy*.js$third-party
+- DOMAIN,627txt.com/da/*js
+.js?*&ssid=$third-party
+- DOMAIN,qsptv.net/tpl/newstyle/js/pv.js
+- DOMAIN,y3600.cc/js/jquery.min.js
+- DOMAIN,shimo.im/lizard-api/ads
+/adjs
+- DOMAIN,pki.net.cn/public/1/plugins
+.com/xz/*?token8=
+- DOMAIN,zhanzhang.baidu.com/push.js
+- DOMAIN,qhimgs4.com/*.gif$domain=www.jiaozi.me
+- DOMAIN,qhimgs4.com/*.gif$domain=hdmoli.com
+*.lijie.*/*_*?$third-party
+.xyz/hm.html?s=
+:8007/*/*?is_not=
+/delivery/afr.
+- DOMAIN,rmhfrtnd.com$third-party
+mobi*.*.cyou/*_$third-party
+mobi*.*.cam/*_$third-party
+mobi*.*.xyz/*_$third-party
+mobi*.*.top/*_$third-party
+/*_*_aubi.js$third-party
+:800*/d/*n=$third-party
+/public/tingshu/foor.js$~third-party
+dingbu.*.*.com/dingbu.$third-party
+.xyz/jque*.js?$third-party
+/blxn_*_*_*?*$third-party
+.top/*q=*form=*&*url=http*$third-party
+_/bigREDdog.js
+- DOMAIN,www.aiqu*.com/da/*.js
+- DOMAIN,zzccseo.com/statics/js/di.js
+- DOMAIN,txtyuzhaiwu.com/astyle/wap.js
+.xyz//qby_*.js$third-party
+/redbaiduct.com?s=
+/exads-adblock-3.10
+.net/vh1/1*$third-party
+.net/v2/stats/1*$third-party
+.com/c.php?s=*=*=$third-party
+*/blsx_*_*_*?*$third-party
+dingbu.*.*.*/*.add$third-party
+.icu/*_*_*.js$third-party
+.xyz/base*.js?$third-party
+/show_ads_
+.com:*/cc/*?is_not=*&target=*
+.cn/ack?s=*$third-party
+/js/pingbi.js
+_/bigREDcat.css?
+.xyz/bid?url=*$third-party
+.xyz/gif$third-party
+.xyz/ack?s=$third-party
+.top/?token=$third-party
+.top/gluinfo.php?s=$third-party
+/baidu/tg.js
+/baidu/189/999.php
+/bigREDdog.css?
+- DOMAIN,cgdyw.net/xx/
+- DOMAIN,golengmen.com/assets/publish/
+.com:7891/stats$third-party
+.icu/?token=$third-party
+.xyz/*0*0*==$third-party
+.xyz/foundation?$third-party
+.xyz/gatsby?$third-party
+.xyz/mithril?$third-party
+.xyz/xefeliffng_$third-party
+91porny.com/api/getPos?jspath=/
+/api/getPos?jspath=/videos/view//*
+/v0/amp-addthis-*.js
+.com:8010/cc/
+- DOMAIN,dytt8.com/js*
+- DOMAIN,aiqu288.com/da/
+.buzz/*0*0*0*==$third-party
+.xyz/?token=
+.shop:*/bid?url=
+.shop:*/ack?s=
+x.com/*/videoads/
+- DOMAIN,addthis.com/live/
+- DOMAIN,xn--*.xn--fiqs8s:
+/template/piankuwap/js/afoot.js
+- DOMAIN,zhenbuka.com/gg/lunbo.js
+- DOMAIN,zd518.cn/template/qpg6080/baidufx/baidufx.js
+- DOMAIN,ykmh.com/js/aajquery.img01.js
+- DOMAIN,zd518.cn/statics/js/home.js
+template/m1938pc/ads/*.js
+- DOMAIN,mipcdn.com/c/s/by.manhuachi.com
+- DOMAIN,qimiaomh.com/muban/m/static/js/hhh.js
+- DOMAIN,qimiaomh.com/muban/m/static/js/common.js
+- DOMAIN,mhhanman.xyz/data/my/myjs.js
+- DOMAIN,zhhbqg.com/ww/*.js
+- DOMAIN,liweidianqi.com/a*.js
+- DOMAIN,www.5nj.com/js/cnzz*.js
+- DOMAIN,duodada.com/Tpl/default/system.js
+- DOMAIN,5dyx.com/static/js/deny.js
+- DOMAIN,5dyx.com/static/jquery.js
+- DOMAIN,90mh.com/mip/qdbao77.js
+- DOMAIN,manmanju.com/mg/show*.js
+- DOMAIN,sodu2020.com/js/ppc.js
+/js/statistics/user_ad.js
+/static/js/miniyyrtv-config.js
+! element
+@@- DOMAIN,developer.apple.com$generichide
+18-comic.work,18-comicfreedom.org,18-comicfreedom.xyz,18-comicstellar.art,18comic.org,18comic.vip,jm-comic1.cc,jm-comic2.cc,jmcomic.me,jmcomic1.me,jmcomic2.me#@#.col-lg-3.col-xs-6 > .well
+manwa.me#@#.ad-area
+greasyfork.org#@#body .ad
+myqqjd.com##.adsbygoogl
+www.jianshu.com#@#div[class$="_0"]
+m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
+baidu.com#@#div[class*="ads"]
+baidu.com#@##header > div:last-child
+baidu.com#@##page-pre
+hentaicomic.ru#@#.pcd_ad
+hentaicomic.ru#@#.Flagrow-Ads-under-header
+baidu.com##[data-tpl='adv_wenku_fc']
+baidu.com##DIV.c-container.ec-container
+baidu.com##div[class$="-ecom-ads"]
+baidu.com##.ec-ad
+baidu.com##div.ad-wrapper
+baidu.com###J-super-layer-promote
+baidu.com###page-copyright.se-page-copyright.se-copyrig
+baidu.com##.c-result.result[srcid='mkt_ad_space']
+baidu.com##[class='ball-wrapper']
+baidu.com##DIV[class='qrcode call']
+baidu.com##.ec_wise_ad
+baidu.com##.ec-result-inner
+baidu.com##.ec_ad_results
+baidu.com##.brand-entry
+baidu.com###relative_shop_flow
+baidu.com##.rel-exp-feed-ad-item
+baidu.com###qtqy_container
+baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
+baidu.com##a.ball-wrapper__3BTBO.c-blocka
+baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
+baidu.com##.barea-ad
+baidu.com##[data-video-player='true']
+baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
+baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
+hanyu.baidu.com###fengchao_els.c-container.card.fengchao-els
+hanyu.baidu.com##.fengchao-el
+fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copyright
+cpu.baidu.com##A[href*='cpro.baidu.com']
+wk.baidu.com##.fc-ad-wrap
+wk.baidu.com##.middle-box-root
+tieba.baidu.com##.tbui_slideshow_slide
+tieba.baidu.com##.activity_head
+tieba.baidu.com##DIV[id='aside-ad']
+tieba.baidu.com##div[class*='-ad-pb-']
+tieba.baidu.com##DIV[id='mediago-tb-frs-list']
+zhidao.baidu.com###wap-youx-change-asp
+zhidao.baidu.com##[class$='-ecom-ads']
+jingyan.baidu.com##.ad-card
+jingyan.baidu.com##.asp-self-rander > .asp-wrap
+jingyan.baidu.com###wrapper > .exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
+baike.baidu.com##[onclick="page.Mixedor.mixedOpen(this,"]
+baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
+zhidao.baidu.com###knowledge-answer-list
+zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
+baidu.com###bdrainrwDragButton
+pan.baidu.com##A.active-msg
+pan.baidu.com##div.content DIV.photo-banner
+mobile.baidu.com##SECTION.detail-banner.banner-ck
+bing.com###bnp_container
+bing.com##.b_ad
+www.123pan.com##.banner-container-h5
+www.123pan.com##.btn_reward.hide
+www.123pan.com##IMG[src*='-banner'],.ant-carousel
+www.123pan.com##DIV.app-adv-container
+www.123pan.com##.advBanner
+sohu.com##A[href='javascript:void(0);']
+sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
+sohu.com##.middle-insert-ad
+sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
+sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
+sohu.com##[data-spm='ad-']
+sohu.com##.cbd-plate-bill.common-ad
+sohu.com##.nice-img-clz
+sohu.com##.f:has([assporiginsrc])
+sohu.com##DIV[id="ceans_"]
+sohu.com##.float-discuss-up.float-discuss-enter
+sohu.com##.float-discuss-container
+sohu.com##.feedback
+sohu.com##[data-spm-content='ad']
+sohu.com###recommendSearch
+tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
+axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
+axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
+axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
+sina.com.cn##[id="fake_div_"].xxl-card
+sina.cn###float-btn.callApp_fl_btn
+sina.cn##SECTION.sw_c0.sina_sliders_pos
+sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
+sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group='photo_center_']
+18comic.vip##IMG[src='//18comic.vip/media/albums/']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#.bot-per-times
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group='album_related'],[data-group='all_bottom']
+cibaipuki.com##IMG[border='0'][width='100%']
+cibaipuki.com##SECTION[id='download_']
+cibaipuki.com##A[href='/article-list-id']
+cibaipuki.com##.topnotice a:not([href='http://7a7c.com'])
+cibaipuki.com##[href*=":"]
+cibaipuki.com##.table2
+m.qidian.com##P.text-content
+m.qidian.com##A.catalog-download
+m.qidian.com##I.icon-logo
+m.hupu.com##A[href='https://mobile.yangkeduo.com/duo_transfer_channel.html']
+m.hupu.com##IMG[alt='NBA英雄'][width='94%']
+m.hupu.com##[class="show_ad"]
+www.xvideos.com###ad-footer
+www.xvideos.com##.thumb-ad
+pornhub.com##.adContainer
+pornhub.com##.topAdContainter
+www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
+www.apkmirror.com##.ains.ains-has-label
+guancha.cn##.g_swiper_container
+guancha.cn##.g_header44
+so.com##.res-mediav
+so.com##.c-title-tag
+so.com##.res-mediav-right
+so.com##.inner_left
+so.com###so-activity-entry
+so.com##.e_result
+so.com##.tg-wrap
+so.toutiao.com##.relative.pointer-events-none
+so.toutiao.com##section.commonbox.hasfooter
+so.toutiao.com##DIV[id='ad_']
+www.xhfz2.com##A[href='https://www.xhfz2.com/ad.php']
+www.xhfz2.com##span.lileft > A[style='float:left;color:']
+www.xhfz2.com##DIV.pctext
+www.xhfz2.com##DIV.HomeTuList
+www.xhfz2.com##DIV#topcont
+v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
+v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
+www.itdog.cn##IMG[src='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
+www.itdog.cn#%#window.alert=function(str){return}
+apkcombo.com##[data-d-ad-id]
+apkcombo.com##.diseanmevrtt
+huya.com###template
+huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
+smartapps.cn##swan-nest-banner-ad.ad-expose
+smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
+www.zhihu.com##.KfeCollection-VipRecommendCard
+www.zhihu.com##A.MBannerAd
+www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
+www.zhihu.com##.OpenInAppButton
+manwa1.me,manwa2.me,manwa.me##.ad-area-close
+manwa1.me,manwa2.me,manwa.me##[data-group='ad_chapter'][data-width='300'][data-height='250']
+manwa1.me,manwa2.me,manwa.me##[style*='15px'][style*='background-color:'][style*='margin: 10px'][style*='margin-top: 14px'][style*='border-radius: 20px'],.fas.fa-times
+manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px auto;']
+manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
+www.huadongty.com##DIV[id$=' img-containers']
+www.huadongty.com##SECTION
+m.jd.com##DIV.modal__mask
+m.jd.com##DIV.modal__wrap
+ifeng.com##[class='index_fixSlideBox']
+ifeng.com##[href='https://mall.ifeng.com'],IMG[class='picMark-'][src='https://x0.ifengimg.com/']
+ifeng.com##[class='index_bottom_box']
+ifeng.com##[class='index_wutong']
+ifeng.com##[class='index_pageBottomBrand']
+91porny.com###playerJsvLayer.jsv-layer
+91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
+91porny.com##A.display.d-block[href='http'],A.display.d-block[href='http'] ~ *
+www.ghxi.com##DIV[style='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
+www.ghxi.com##.wpcom_ad_wrap
+qq.com##.ad-cell-common
+qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id='App_WAP_share_page_']
+qq.com##A[dt-eid='em_item_ad']
+qq.com##[id='App_WAP_share_page']
+stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
+stbemucode.com##DIV.header-ads
+jav777.cc,jav777.xyz##P[style='margin-left:5px; margin-right:5px; text-align:center']
+jav777.cc,jav777.xyz###playertopads
+jav777.cc,jav777.xyz##.myad_alert_82_box
+jav777.cc,jav777.xyz##[src='/close.gif']
+jav777.cc,jav777.xyz##.myad_alert_82
+webtor.io##DIV.ad
+webtor.io##[data-element='empty']
+webtor.io##IFRAME[scrolling='no']
+achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
+achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
+cqjschungao.com##[style='bottom: 132px;']
+cqjschungao.com##[style*='px no-repeat; position: relative;']
+www.meijuii.cc##DIV[style*='vw; display: block;']
+www.hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
+www.hbhtyl.com##P[style='width: 100% !important; margin: 0p']
+www.ydyse.com##.left,.bottom,.right,.ad,.adimage
+m.kdslife.com###app.Card.DownloadGuide
+m.guancha.cn##.g_header.go-to-app
+thepaper.cn##[class='index_footer_banner']
+www.wenshushu.cn##A[href='https://wenshushu.cn/ad/']
+cupfox.app##IMG[class='jsx-'][width='100%'],.swiper-wrapper img[class='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
+youtube.com##AD-SLOT-RENDERER
+163.com##.js-open-app
+118pan.com##.card.mt-2:nth-child(2)
+m.autohome.com.cn##section > ol
+www.3ppp.net##DIV.bottom_fixed
+apkpure.net,apkpure.com##DIV.js-ad-slot
+dongmanhuayuan.myheartsite.com##.card-body
+baike.so.com##section#business-flow.business-flow
+chinaso.com##.wrap-toolbar
+sm.cn##.ad-wolong-container
+momxs.com###inglestore.inglestore
+moegirl.org.cn##[class='stevrhgmNo']
+www.jianshu.com##[aria-label='lwa-ad-one']
+imgur.com##.Ad.sas.Smart
+soshu888.net##[style$='width: 100vw; position: relative;']
+axutongxue.com##DIV[style='text-align:center']
+www.xda-developers.com##.adzone-above-latest
+www.lezhutv.com##[style='bottom: 132px;']
+woozooo.com##.ves
+eastday.com##DIV.lfyinliu
+moegirl.org.cn##[style*='box-shadow: rgb(136, 136, 136) 0px 0px']
+baifumeiba.com##DIV#ad
+applnn.cc##DIV.html-box
+ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
+heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
+www.67tool.com##.footer-banner
+mini.yyrtv.com##.right-gg
+oss-cn-hangzhou.aliyuncs.com##A.hm_item[href='https://tcs-devops.aliyuncs.com/thumbnail/']
+www.jmhongyan.com##ins[class],.container p
+www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
+www.olevod.com##.B1Lss,.B1Rss
+www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
+5dm.app##[src*="sinaimg.cn"]
+www.wdbay.com##[class][classname]
+mefcl.com##article:has(span.sticky-icon)
+423down.com##LI.item:has(.sticky-post)
+ddzzxs.com###inglestore.inglestore
+yemancomic.com##div > center > strong > button[onclick="window.location.href"]
+share.acgnx.se##IMG[src*='share.acgnx.se']
+zol.com.cn##A.dingtong.xianshiyouhui
+dm530p.net##DIV[style$='; display: block;']
+m.iqiyi.com##.iqyGuide-content,.cover
+acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
+ali213.net##.placeholderforpromotion
+happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
+skyroad.downallbook.com##IMG[height='60'][width='98%']
+mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
+ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
+m.douban.com##div.center [style*='padding: 4px;']
+m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
+www.dbbqb.com##.MuiPaper-root
+www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
+boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
+bimibimi.cc##[src='https://dd-static.jd.com']
+hao123.com##.popup
+soutubot.moe##.bg-gray-800.overflow-hidden
+ix6080.com##DIV[style$='vw; display: block;']
+sogou.com##.ad_result
+nxnba.com##.bootom-fixed
+ifeng.com##div[class="ad_"]
+docin.com##.moneyBox
+match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
+pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
+luoqiuzw.com##DIV[id="a-loading-"]
+qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
+javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
+##DIV[data-text-ad]
+###bottom_ads.hl_bottom_ads
+##A[href*='jialu6699h.vip']
+##DIV.adj
+##A[href*='aducx.com']
+##A[rel='nofollow'][href='/play/tv.php']
+##.tp_advertising
+##A[rel='nofollow'][href='/play/player-2-1.php']
+##body#chapterbody.novel_chapter [style='padding-top: 150px;']
+##[style='position:absolute !important;padding:0px !important;margin:0px !important;width:100% !important;font-size:0px !important;line-height:0px !important;']
+##A[href*='ixeeo.com']
+##[style*='px; top: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+##A[href*='youqu.buzz']
+##A[href='https://tv2356.cc']
+##DIV[class$='_ad_wrap']
+##DIV[class='ads_border_']
+##body > A[ontouchstart='this.click();'][href]
+##div[id*='cat_'][id*='_ad']
+##IMG[alt='kaiybet']
+##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
+##[style='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
+##[href='/aga2/1661087']
+##[href='http://jg.awaliwa.com/']
+##.player_pic_link > [src*='/player.gif']
+##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
+##[href='https://jincai.sohu.com/']
+##[href*='sohu.com/hy-op']
+##[href='/jump.html']
+##[href='/ad.html']
+##DIV._42701c0173
+##DIV._4e544f1dde
+##[href='https://okok.com.tw/']
+##div.m0auto div.s_h,div.m0auto div.s_h + *
+##secion#ly LI[role='group'],secion#ly > H2
+##div.play_boxbg div[class$='_acmsd']
+##DIV.bot-per-context[data-width='728'][data-height='90']
+##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
+##[href*='.lookxmh3']
+##[href='https://dpurl.cn/HifSTUtz']
+##[href="openapp.jdmobile://virtual?params="]
+##[onclick*="trackEvent', 'ad"]
+##[src='https://ae01.alicdn.com/'][alt='歪歪漫画']
+##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
+###topNavad
+###bottomNavad
+##.ff-ads
+##.ssr1
+##.ad_img
+##body.conch-hasone section > span > video
+##div.stui-pannel__bd > #t-img-box
+##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
+##DIV[style='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
+##[src$='/dibu.adadadad']
+##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
+##[href*="/entry/register/?i_code="]
+##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
+##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
+##DIV#mhbottom_ad_box
+##[href='https://w5979.com:']
+##[href='https://dc.vvsmse72']
+##oxk
+##body > a[id*='hudie_']
+##div.synopsisArea > a[id*='hudie_']
+##div.recommend > a[id*='hudie_']
+##div.poi-row a > IMG[width='100%'][height='auto'][src]
+##div.row > div[id] > ul > li.cpn > a
+##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
+##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
+##IMG[src*='/gg/'][src$='180.gif'][src*='800']
+##[onclick="window.open('http://682kg.com/')"]
+##[href='https://www.00285164.com']
+##[href='https://97749516.com/']
+##[href='https://www.00426740.com']
+##[href='https://tz.kefuyuming.vip/']
+##[href='https://gougew.lanzoub.com/']
+##[href='/ad/bfy.html']
+##[href='/my/gd.html']
+##[style="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style='z-index: 2147483647; height: 123px; ']
+###ad-header-mobile-contener
+###downapp1
+##[data='/banners/pr_advertising_ads_banner']
+##[src='/banners/pr_advertising_ads_banner']
+##body > DIV[class][style='top: 132px;']
+##body > DIV[style*='height: 33px'][style*='132px !important;']
+##body > DIV[style='display: block; width: 100%; height: 132px;']
+##[href='https://www.qlspx.com:']
+##[href="https://9996867.com"]
+##[href="/ad/007.html"]
+###ad-index.position-relative
+##[src='https://l.bt5v.com/v.php']
+##div.container > div.row div.yalayi_box
+##center > [href='https://docs.qq.com/doc'][target='_blank']
+##A[href='/hth.html']
+##[alt="要恰饭的嘛"]
+##img#hth[onclick="window.open"]
+##[onclick*='https://i.opiwb.com:']
+##[href='https://click.aliyun.com/m/1000332699/']
+##[src='https://qwe0231141.bj.bcebos.com/']
+##.gr_slide_car_inner
+##.__isboostOverContent
+##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
+##.C1U,.C1M,.C2L,.C2R
+##[src='/Uploads/ad/'][src$='.gif'][alt='广告']
+##img#hth[onclick$="hth.html')"]
+##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
+##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
+##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
+##[src='https://play.cdn6.buzz/js/']
+##[href='https://www.aiwajbh.com/mh.php']
+##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
+##[onclick="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
+##.fed-part-advs.fed-text-center.fed-font-xvi
+##A[href='http'][style='display:block;left:0;right:0;position:fixed;border-left:']
+###hongbao20201217
+###whYuTlxF
+###t4>a
+##[href='https://kcc.qrjxween.com/cc/']
+##.zozoads
+##[src='http://m.guangzhoubingqing.com/88888.jpg']
+###bl_mobile_float[style='height: 152px;']
+###sOIcquIT
+##[src='/MDassets/images/']
+##DIV.ec-ad.tim-box
+##DIV.box-width.ec-ad
+##[class="chapter_"] > .baiduCenter
+##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
+##[href='http://mm.alameinv.com/']
+##[onclick='gourl()'][src='/images/bfq/']
+##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
+###coupletBox
+##.advertise
+##[href='https://xcc.'][href*='cn/']
+##a.gggg[href="https"]
+###adDisabledBtn
+###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
+###header_global_ad
+##DIV#bl_mobile_float
+##[href='https://iluluweb.club']
+##.width.imgs_1
+##[href='https://jd.dangbei.com/']
+##[href='https://dt.mydrivers.com/b.ashx']
+##.bottom-pic,.col-pd.mb10
+##.mi_btcon.ad
+##.fc_foot
+##SPAN#VuMk2.IgpuN2
+##[href='https://fcc.hxaxfcc.cn/']
+##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color:"]
+##SPAN#qdSZ2
+##div[class="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
+##[alt='ACG里番']
+##[alt='52bl']
+##[alt='西瓜社']
+##VIDEO[loop='true'][muted='true'][autoplay='true'][playsinline='true'][preload='auto']
+##[href="https://lantianyong"]
+##[href='http://ky53362.com/']
+##[href='https://js.xiaobaofei.com']
+##[href='https://tz.jingjiezhenkong.com']
+##[href='http://j6597v.hjlego.com']
+##[href='https://xxx.nunxun.com']
+##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
+##[at*='尼斯人注册送']
+##DIV.ads.ads_w
+##body#nr_body a[href*="/?utm_source="]
+##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
+##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
+##body.active > div.myui-panel > DIV#home_slide
+##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
+##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
+##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
+##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
+##div.main div.content div[id].is_mb a[id] img[id]
+##[src='/images/c_l.png']
+##A[href='http://h5.shangjinssp.com/sjprom'][style='display:block;']
+##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
+##A[target='_blank'][href*='/auth/register?code=']
+##[href='/my/dp.html']
+##A[href='http://8hgpro.vip/']
+##A[href='http://95710.vip']
+##A[href='http://www.kyty1119.com']
+##A[href='http://kkyty29.cc/']
+##[href*='.xacg.info/']
+##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
+##body#nr_body.nr_all.c_nr > section[id]
+##A[href='https://chmjmff.com/']
+##div.container > IFRAME[align][width][src][border][height]
+##A[href='https://d1-dm.online/go/']
+##DIV.appdownload_ad
+##A[href='https://yongle008.com']
+##DIV#bfad
+##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
+##A[href='https://js.pico4pro.com']
+##IMG[alt='155.fun']
+##div#detail.selector-zero > div > DIV[style]
+##DIV.ad-area.ad-area-fix-bottom
+##div.ad-area > [href]
+##center > a > IMG[alt$='到期']
+##body#nr_body font > [id]
+##IMG.cupfox[src$='gif']
+##[href='https://ttaxz087b.xyz']
+##[href='https://luodi.aitaokeji.top/']
+##[poster='https://dingbu.bj.bcebos.com/']
+##[src='https://dingbu.bj.bcebos.com/']
+##IMG[onclick='golh()'][src$='.gif']
+##div.callApp_fl_btn.an
+###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
+##[src='https://pnm.hpvitycz.cn/00.jpg']
+###mobile-index > div[id="ins"]
+###mobile-index > div#vodbm
+##[onclick*='www.l4lui.com'],.col-12.position-relative>b
+##.theme-dark > .ayx > a
+##DIV.ad_js
+##A[href='http://x5123.cc/']
+##a > IMG[src$='.gif'][wapsrc][style='width: 100%']
+##a > I.gg-icon
+##ul > li > A[href$='_list.html']
+##div.bf_qy DIV.copy_div_btn
+##DIV#advertisings.advertising
+##A[href='http://cszb420.tinawd81.com/']
+##A[href='https://www.nonstopclub.xyz']
+##A[href='https://js.iconiclee.com']
+##[alt='ad']
+##A[href*='zbkrv.com']
+##div.container > DIV.t-img-box
+##A[href='/?'][target='_blank']
+##DIV#video-player-ads-wrap
+##div.flex-1.order-first > DIV.under_player
+##DIV[style*='.xyz/gif/']
+##DIV.module-adslist
+##DIV.JS_mid_ad
+##IFRAME[src='https://mydisplay.ctfile.com/popview.php']
+##div[id$='ad1'][class='text'],div[id$='ad2'][class='text'],div[id$='ad3'][class='text'],div[id$='ad4'][class='text'],div[id$='ad5'][class='text'],div[id$='ad6'][class='text']
+##span > A[href='###']
+##IMG[style='width: 100%;'][src='https://ad.']
+##A[href='http://k023055.com']
+##DIV#bannerCtrl.source_container.swiper-wrapper
+##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
+##[href='https://65564535.com']
+##div.ad-frame-container
+##iframe.ad-frame
+##DIV#tads
+##body > DIV[class][style='top: 133px;']
+##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
+##body > DIV[style='display: block; width: 100%; height: 133px;']
+##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
+##DIV.footer-appload.js-footer-appload
+##BODY > DIV.ggcontainer
+##body > DIV[class][style='bottom: '][style$='vw; display: block;']
+##body > [id][style*='width:100%'][style*='min-height:120px']
+##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV#links.links.my-1.row[style='font-size:20px']
+##[class$="_main_outstream"][style="right: 0px;"]
+##DIV#div1.div-relative[style='display:block;']
+##[href='https://analytics.woozooo.com/jump.php?url=']
+##[href='https://ccs.holor0803.cn']
+##[href$='/ads.aspx']
+##div.post_list_ajax > A[target='_blank']
+##body.bg_xin > A[href*='com:'][target='_blank']
+##DIV.index_adpic
+##[onclick*='pypyj.com']
+##DIV.div_adhost
+##[href*='baidugg123.cc']
+##DIV.stui-player__item.clearfix > img[url]
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
+##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
+##div.row > DIV.md-r-panel
+##A.toptxt[target='_blank']
+##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
+##A[target='_blank'] > IMG[width='100%'][src*='.gif']
+##body.chapter > div.container div.slide-baidu *
+##ASIDE[id='custom_html-']
+##DIV.code-block[style='margin: 8px 0; clear: both;']
+##DIV[style='position: fixed; bottom: 50%; z-index: 19999 !important; ']
+##DIV[class*='id_ads__']
+##DIV#recommend-float.player-recommend-float > a
+##body.page.player > DIV.shortcuts-mobile-overlay
+##body.page.player > div.popup.popup-tips.popup-icon.open
+##div.player-rm.rm-two.rm-list > a
+##A[href='/statics/js/ky-a.html']
+##DIV[class*='home'][class*='Ads']
+##div[class*='bookid_ads']
+##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
+##div#content.content div[id] > DIV[style*='z-index: 2147483647']
+##div#apage.apage > div > ul > li > a
+##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
+##div#beijing.article_content.layui-clear > div.left > div > a
+##ul#page-list.layui-clear.page-wz > ul > li:not([class])
+##body.no_overflow strong
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
+##A[href*='//v.wanfumei.net']
+##IMG[src='/js/imgs/taote.jpg']
+###imgad
+##IMG[src*='//img4.qv1.ru/data/game/']
+##IMG[src*='/ds3/ssmh/']
+##IMG[src='/adBanner']
+##div.slide-baidu IMG[src='/images/aw1.gif']
+##div#gmright
+##[style='top: 0vw; display: block;']
+##[style='top: 8.2vw; display: block;']
+##[style='top: 16.4vw; display: block;']
+##[style='top: 24.6vw; display: block;']
+##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
+##INS.adsbygoogle
+##body#nr_body div.fixed ~ *
+##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
+##[style='width: 100%; height: 123.75px;']
+##A[href*='/adjump/?']
+##IMG[alt='五一特惠']
+##[ad_dot_url]
+##DIV#pos_nei_content
+##[src*='zdmbl.xyz']
+##I.fa.fa-close
+##IMG#diads
+##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
+##body.fed-min-width.website-read > [style='bottom: 132px;']
+##center > div.hengfu
+##DIV.ad-content
+##div.layout-box a > IMG[src*='.gif']
+##div.stui-player.col-pd DIV[style='text-align:center']
+##div#hengfu_wap_vod_xia > a
+##div.maomi-content A[href='/baidu/index.html']
+##section > SPAN[style='display: block; clear: both; overflow: hidden;']
+##[style='position: fixed; bottom: 20%; z-index: 19999 !important; ']
+##div.mobile > div.content IMG[src*='.gif']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
+##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
+##[style='width: 100%;height:660px;z-index:2147483647;position:fixed;display:block;bottom:0px;']
+##IMG[src='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
+##IMG[src*='qmfcybwbf']
+##[href*='.top/?token=']
+##div.appad
+##[src="https://img.sobot.com/chatres/"][title="sb"]
+##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
+##a[href="/ad.html?url="]
+##html.wap [style='left: 40%;']
+##body > DIV[style='bottom: 130px;']
+##[style='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
+##body#wrapper A[ontouchstart='this.click();']
+##DIV.row.no-gutters.m-0
+##DIV#top-ads
+##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
+##A#floating-banner
+##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
+##DIV.loc_banner.only-app
+##div.swiper-slide > A[rel='nofollow noopenner']
+##div#liveline > l,div#liveline > ll
+##DIV.duilian[style*='z-index: 9999; top: 0px; ']
+##div#header-wrapper.header_b > div#header
+##a[href="https://91keep.tv"]
+##DIV#bottom-ads
+##section.wrap > section.f0
+##DIV#googleads-popup.popup.visible
+##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
+##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
+##div#nr_body.nr_all.c_nr div.show-app2
+##[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
+##a[href*=".com?s="]
+##div.my-ad > a
+##[src$='anyhosthub-480x90.gif']
+##div#playlistbtn > A[href='/ht.html']
+##INS[status='done'] A.external
+##body > div#bottommob.bottommob
+##DIV#xfb_lbox.zoomout_transition.zoomout
+##A[href='https://icrwt696.com']
+##A[href='https://k.izret.com']
+##div.am-gallery-item > a
+##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
+##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
+##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
+##div#page-back DIV.container.clearfix div > A > IMG[src]
+##section.global_video_bottom_dbtc
+##A[href='https://www.ids20.co']
+##A[href='https://www.pcjx365.com']
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
+##DIV[style='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
+##A > IMG[alt][src*='resources/images/']
+##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
+##DIV.bot-per.visible-xs.visible-sm *
+##div.maomi-content > SECTION.section.section-banner
+##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
+##IMG.lazyload[src='/statics/img/load.gif']
+##[src='https://immmg.owowqrf.cn']
+##A[href='https://v.frthv.com']
+##A[href*='-fghgdf.com']
+##A[href*='-fghhjj.com']
+###mobile-ad.hidden-md
+##.scaled-juicyads
+##DIV.div_sticky2.hidden-lg
+##DIV.bottom-ad.hidden-lg
+##[href='https://uod217.com/']
+##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+##IMG[src*='tupian.guanggao']
+##A[href='/iwagbwfiwehaeyh/']
+##[href='https://down.erperweima.top/']
+##IMG[src='https://dzfzfv.xyz/']
+##body#read.read DIV[style$=' width: 100vw; position: relative;']
+##IMG[src$='tywheying/vv2-960x80.gif']
+##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
+##[src='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
+##DIV[allowtransparency='true'][scrolling='no']
+##DIV.advertisingConfiguration
+##[src='/static/ads.png']
+##ul.thread_detail_ads
+##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
+##DIV.swiper2.swiper-initialized.swiper-horizontal
+##[src='/static/resources/lp.php'][style='max-width: 100%; transform-origin: left top;']
+##DIV[style='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
+##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
+##IMG[src*='qimanwu_wap/static/adimages/']
+##div#main.main.read_page [id="set_adds"]
+##div.container.ff-bg > div.row.ff-row.slide
+##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
+##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
+##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
+##[href='https://mtyshi.com/']
+##A[href*='exuvu.com']
+##A[href*='xzzkx.com']
+##DIV#wwads
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
+##A[href*='ds2f1sd31g.vip']
+##IMG.playVideo-checkin-img
+##DIV.playVideo-centerAd
+##[href*='anrvl.com']
+##[href*='zthbe.com']
+##[href='https://www.jumbobag.cn']
+##IMG[onclick='godown()'][src$='gif']
+##IMG[src='https://tanju.vip/wapxiezi.png']
+##[href*='snnrb.com']
+##body#nr_body #appss
+##body#nr_body [onclick='goAppHtml();']
+##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
+##DIV[style='position: absolute; inset: 0px; background: rgba(0, 0, 0, 0);']
+##DIV[class][id][style$='px; background-size: 400px 127px !important;']
+##A.wrapper_bg_c.hidden-xs
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
+##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[href*='slkdnlkfnskl.com']
+##[onclick*='fjbglfrv.com']
+##.adwap
+##DIV.theme-hope-content.ads-container
+##[href*='amu6v.com']
+##.vp-project-home > .ads-container
+##A.gotoclick[adv_id]
+##body.conch-adjust-fix #component
+##IFRAME[src='/Banner/index.html'][allowfullscreen='true']
+##div#notice_container > div.event-notice > div.modal
+##[style='display: block; z-index: 2147483646; width: 17px; ']
+##[style='display: block; z-index: 2147483646; width: 10%;']
+##[src='https://369x520.com']
+##[href='https://31jrx5y7.com/']
+##[href*='pojuko.buzz']
+##[href*='3400.org']
+##.read-container [onclick='goAppHtml();']
+##[src='https://kykqss.xyz']
+##[rel='nofollow'][href='/book/baidu_verify_code']
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
+##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
+##A[href*='jdbfknsbkldns.com']
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
+! gif ads
+www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class="clobox"],IMG[width='100%'][src*='.gif']
+ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
+##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
+##div#h2_player_prevideo > A[href][target='_blank']
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
