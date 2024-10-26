@@ -1,4 +1,9 @@
 payload:
   - AND,((DOMAIN-SUFFIX,umeng.com),(PORT,443)),REJECT
   - DOMAIN-REGEX,*.umeng.com,REJECT
+  - AND,((DOMAIN-SUFFIX,umeng.com),(PORT,443)),REJECT
+  - AND,((DOMAIN-KERWORD,umeng),(PORT,443)),REJECT
+  - AND,((DOMAIN-SUFFIX,umeng.com),(IN-PORT,443)),REJECT
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-KEYWORD,umeng.com
    
