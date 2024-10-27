@@ -1,4 +1,4 @@
-! ------------------------------------[UPDATE]--------------------------------------
+ ------------------------------------[UPDATE]--------------------------------------
 ! Title: The Block List Project - Gambling List (adguard)
 ! Expires: 1 day
 ! Homepage: https://blocklist.site
