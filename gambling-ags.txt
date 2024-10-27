@@ -8,7 +8,7 @@
 ! ------------------------------------[SUPPORT]-------------------------------------
 ! You can support by:
 ! - reporting false positives
-! - making a. donation: https://paypal.me/blocklistproject
+! - making a donation: https://paypal.me/blocklistproject
 ! -------------------------------------[INFO]---------------------------------------
 !
 ! Gambling list
